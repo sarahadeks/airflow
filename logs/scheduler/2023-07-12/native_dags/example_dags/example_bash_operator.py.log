@@ -1,0 +1,553 @@
+[2023-07-12T04:26:54.029+0100] {processor.py:157} INFO - Started process (PID=784) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:26:54.031+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:26:54.032+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:54.032+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:26:54.049+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:26:54.081+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:54.081+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:26:54.103+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:54.103+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T04:26:54.211+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.188 seconds
+[2023-07-12T04:27:53.023+0100] {processor.py:157} INFO - Started process (PID=838) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:27:53.027+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:27:53.031+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:53.029+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:27:53.072+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:27:53.177+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:53.176+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:27:53.224+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:53.223+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T04:27:53.264+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.253 seconds
+[2023-07-12T04:28:50.255+0100] {processor.py:157} INFO - Started process (PID=887) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:28:50.449+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:28:50.450+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:50.450+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:28:50.489+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:28:50.549+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:50.548+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:28:50.593+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:50.592+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T04:28:50.861+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.627 seconds
+[2023-07-12T04:31:41.715+0100] {processor.py:157} INFO - Started process (PID=1014) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:31:41.719+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:31:41.724+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:41.722+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:31:41.776+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:31:41.856+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:41.856+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:31:41.901+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:41.901+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:31:41.956+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.252 seconds
+[2023-07-12T04:32:49.611+0100] {processor.py:157} INFO - Started process (PID=1077) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:32:49.615+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:32:49.618+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:49.617+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:32:49.661+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:32:49.719+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:49.719+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:32:49.744+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:49.744+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:32:49.788+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.189 seconds
+[2023-07-12T04:33:52.298+0100] {processor.py:157} INFO - Started process (PID=1166) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:33:52.301+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:33:52.302+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:52.301+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:33:52.324+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:33:52.369+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:52.368+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:33:52.407+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:52.407+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:33:52.456+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.164 seconds
+[2023-07-12T04:34:45.212+0100] {processor.py:157} INFO - Started process (PID=1260) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:34:45.215+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:34:45.217+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:45.216+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:34:45.247+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:34:45.300+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:45.299+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:34:45.345+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:45.345+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:34:45.402+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.196 seconds
+[2023-07-12T04:35:37.414+0100] {processor.py:157} INFO - Started process (PID=1310) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:35:37.418+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:35:37.422+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:37.420+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:35:37.468+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:35:37.526+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:37.525+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:35:37.564+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:37.564+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:35:37.620+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.217 seconds
+[2023-07-12T04:36:34.493+0100] {processor.py:157} INFO - Started process (PID=1359) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:36:34.498+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:36:34.501+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:34.500+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:36:34.547+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:36:34.754+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:34.753+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:36:34.808+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:34.808+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:36:34.851+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.372 seconds
+[2023-07-12T04:37:37.425+0100] {processor.py:157} INFO - Started process (PID=1407) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:37:37.450+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:37:37.452+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:37:37.451+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:37:37.505+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:37:37.664+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:37:37.663+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:37:37.780+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:37:37.779+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:37:38.043+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.626 seconds
+[2023-07-12T04:38:47.502+0100] {processor.py:157} INFO - Started process (PID=1464) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:38:47.549+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:38:47.551+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:47.551+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:38:47.577+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:38:47.633+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:47.632+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:38:47.689+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:47.689+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:38:47.780+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.285 seconds
+[2023-07-12T04:40:51.733+0100] {processor.py:157} INFO - Started process (PID=1568) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:40:51.775+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:40:51.779+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:40:51.777+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:40:51.853+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:40:51.950+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:40:51.949+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:40:52.010+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:40:52.009+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:40:52.285+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.563 seconds
+[2023-07-12T04:45:11.148+0100] {processor.py:157} INFO - Started process (PID=1917) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:45:11.776+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:45:11.781+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:45:11.780+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:45:11.857+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:45:12.019+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:45:12.019+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:45:12.068+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:45:12.068+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:45:17.633+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 6.496 seconds
+[2023-07-12T04:48:14.051+0100] {processor.py:157} INFO - Started process (PID=2327) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:48:14.054+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:48:14.056+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:48:14.055+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:48:14.087+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:48:14.219+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:48:14.218+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:48:14.307+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:48:14.306+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:48:14.742+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.703 seconds
+[2023-07-12T04:51:21.135+0100] {processor.py:157} INFO - Started process (PID=2577) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:51:21.139+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:51:21.144+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:51:21.143+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:51:21.168+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:51:21.213+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:51:21.212+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:51:21.258+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:51:21.258+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:51:21.364+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.240 seconds
+[2023-07-12T04:53:49.241+0100] {processor.py:157} INFO - Started process (PID=2756) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:53:49.269+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:53:49.275+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:49.273+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:53:49.325+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:53:49.419+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:49.418+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:53:49.464+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:49.464+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:53:49.649+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.435 seconds
+[2023-07-12T04:55:28.927+0100] {processor.py:157} INFO - Started process (PID=2823) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:55:29.025+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:55:29.029+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:29.028+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:55:29.068+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:55:29.166+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:29.165+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:55:29.264+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:29.264+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:55:29.393+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.479 seconds
+[2023-07-12T04:57:17.243+0100] {processor.py:157} INFO - Started process (PID=2890) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:57:17.511+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:57:17.513+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:57:17.512+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:57:17.539+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:57:17.569+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:57:17.569+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:57:17.592+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:57:17.592+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:57:17.775+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.542 seconds
+[2023-07-12T04:59:21.392+0100] {processor.py:157} INFO - Started process (PID=2949) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:59:21.402+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T04:59:21.404+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:59:21.403+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:59:21.430+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T04:59:21.571+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:59:21.571+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:59:21.690+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:59:21.689+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T04:59:21.930+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.551 seconds
+[2023-07-12T05:01:37.071+0100] {processor.py:157} INFO - Started process (PID=3026) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:01:37.152+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:01:37.156+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:37.154+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:01:37.205+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:01:37.295+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:37.295+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:01:37.337+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:37.337+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:01:37.571+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.524 seconds
+[2023-07-12T05:04:21.378+0100] {processor.py:157} INFO - Started process (PID=3139) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:04:21.396+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:04:21.398+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:21.397+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:04:21.429+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:04:21.497+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:21.497+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:04:21.544+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:21.544+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:04:21.627+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.261 seconds
+[2023-07-12T05:06:06.367+0100] {processor.py:157} INFO - Started process (PID=3239) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:06:06.415+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:06:06.418+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:06:06.417+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:06:06.462+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:06:06.544+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:06:06.544+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:06:06.601+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:06:06.600+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:06:06.726+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.369 seconds
+[2023-07-12T05:07:46.683+0100] {processor.py:157} INFO - Started process (PID=3300) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:07:48.528+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:07:48.532+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:48.530+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:07:48.621+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:07:48.802+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:48.801+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:07:48.846+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:48.845+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:07:54.629+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 7.960 seconds
+[2023-07-12T05:10:51.207+0100] {processor.py:157} INFO - Started process (PID=3494) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:10:51.287+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:10:51.289+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:51.288+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:10:51.317+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:10:51.380+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:51.380+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:10:51.427+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:51.427+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:10:51.596+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.395 seconds
+[2023-07-12T05:12:12.309+0100] {processor.py:157} INFO - Started process (PID=3553) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:12:12.721+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:12:12.724+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:12.723+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:12:12.789+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:12:12.948+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:12.947+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:12:13.049+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:13.048+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:12:13.943+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 1.646 seconds
+[2023-07-12T05:13:37.256+0100] {processor.py:157} INFO - Started process (PID=3615) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:13:37.324+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:13:37.327+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:37.326+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:13:37.362+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:13:37.411+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:37.411+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:13:37.450+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:37.450+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:13:37.537+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.292 seconds
+[2023-07-12T05:14:39.969+0100] {processor.py:157} INFO - Started process (PID=3669) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:14:40.001+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:14:40.004+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:40.002+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:14:40.038+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:14:40.119+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:40.118+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:14:40.170+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:40.168+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:14:40.315+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.356 seconds
+[2023-07-12T05:16:19.099+0100] {processor.py:157} INFO - Started process (PID=3734) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:16:19.199+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:16:19.202+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:19.201+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:16:19.254+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:16:19.373+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:19.371+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:16:19.459+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:19.458+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:16:19.670+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.586 seconds
+[2023-07-12T05:18:17.105+0100] {processor.py:157} INFO - Started process (PID=3823) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:18:17.184+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:18:17.186+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:18:17.185+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:18:17.234+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:18:17.378+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:18:17.377+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:18:17.476+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:18:17.476+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:18:17.715+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.626 seconds
+[2023-07-12T05:19:56.048+0100] {processor.py:157} INFO - Started process (PID=3867) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:19:56.120+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:19:56.122+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:56.121+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:19:56.148+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:19:56.229+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:56.228+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:19:56.281+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:56.281+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:19:56.399+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.359 seconds
+[2023-07-12T05:21:48.904+0100] {processor.py:157} INFO - Started process (PID=4210) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:21:48.945+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:21:48.947+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:21:48.946+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:21:48.984+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:21:49.113+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:21:49.112+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:21:49.216+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:21:49.216+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:21:49.345+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.456 seconds
+[2023-07-12T05:23:16.566+0100] {processor.py:157} INFO - Started process (PID=4577) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:23:16.644+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:23:16.649+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:23:16.647+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:23:16.686+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:23:16.781+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:23:16.780+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:23:16.849+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:23:16.848+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:23:16.985+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.432 seconds
+[2023-07-12T05:25:16.455+0100] {processor.py:157} INFO - Started process (PID=4692) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:25:16.509+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:25:16.512+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:25:16.510+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:25:16.549+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:25:16.618+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:25:16.618+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:25:16.641+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:25:16.641+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:25:16.714+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.271 seconds
+[2023-07-12T05:27:28.623+0100] {processor.py:157} INFO - Started process (PID=4850) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:27:28.692+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:27:28.693+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:28.693+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:27:28.710+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:27:28.746+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:28.745+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:27:28.781+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:28.781+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:27:28.864+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.246 seconds
+[2023-07-12T05:30:00.313+0100] {processor.py:157} INFO - Started process (PID=4941) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:30:00.365+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:30:00.367+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:00.366+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:30:00.404+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:30:00.487+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:00.486+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:30:00.552+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:00.551+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:30:00.662+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.362 seconds
+[2023-07-12T05:31:12.079+0100] {processor.py:157} INFO - Started process (PID=5106) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:31:12.108+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:31:12.110+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:12.109+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:31:12.150+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:31:12.252+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:12.252+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:31:12.327+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:12.327+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:31:12.428+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.357 seconds
+[2023-07-12T05:32:37.605+0100] {processor.py:157} INFO - Started process (PID=5302) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:32:37.671+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:32:37.673+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:32:37.672+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:32:37.712+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:32:37.828+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:32:37.828+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:32:37.857+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:32:37.856+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:32:37.957+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.367 seconds
+[2023-07-12T05:34:50.303+0100] {processor.py:157} INFO - Started process (PID=5615) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:34:50.381+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:34:50.385+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:34:50.384+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:34:50.431+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:34:50.555+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:34:50.555+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:34:50.601+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:34:50.601+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:34:50.670+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.380 seconds
+[2023-07-12T05:36:36.413+0100] {processor.py:157} INFO - Started process (PID=5676) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:36:36.428+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:36:36.431+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:36.430+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:36:36.466+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:36:36.543+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:36.543+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:36:36.602+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:36.602+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:36:36.668+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.264 seconds
+[2023-07-12T05:37:35.430+0100] {processor.py:157} INFO - Started process (PID=5750) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:37:35.445+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:37:35.446+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:35.446+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:37:35.474+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:37:35.548+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:35.547+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:37:35.882+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:35.882+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:37:35.944+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.528 seconds
+[2023-07-12T05:38:35.087+0100] {processor.py:157} INFO - Started process (PID=5892) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:38:35.092+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:38:35.095+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:35.094+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:38:35.133+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:38:35.289+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:35.288+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:38:35.330+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:35.330+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:38:35.386+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.313 seconds
+[2023-07-12T05:39:34.021+0100] {processor.py:157} INFO - Started process (PID=6011) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:39:34.035+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:39:34.038+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:34.037+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:39:34.076+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:39:34.163+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:34.162+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:39:34.245+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:34.244+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:39:34.334+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.324 seconds
+[2023-07-12T05:40:40.315+0100] {processor.py:157} INFO - Started process (PID=6119) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:40:40.333+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:40:40.337+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:40.336+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:40:40.388+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:40:40.478+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:40.478+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:40:40.521+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:40.521+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:40:40.584+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.286 seconds
+[2023-07-12T05:41:44.719+0100] {processor.py:157} INFO - Started process (PID=6176) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:41:44.727+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:41:44.730+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:44.729+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:41:44.766+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:41:44.852+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:44.851+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:41:44.913+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:44.912+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:41:44.983+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.277 seconds
+[2023-07-12T05:42:45.233+0100] {processor.py:157} INFO - Started process (PID=6225) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:42:45.359+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:42:45.361+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:45.360+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:42:45.399+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:42:45.458+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:45.458+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:42:45.665+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:45.664+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:42:46.247+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 1.055 seconds
+[2023-07-12T05:43:58.531+0100] {processor.py:157} INFO - Started process (PID=6328) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:43:58.557+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:43:58.559+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:58.558+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:43:58.622+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:43:58.717+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:58.716+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:43:58.803+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:58.802+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:43:58.977+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.462 seconds
+[2023-07-12T05:45:21.146+0100] {processor.py:157} INFO - Started process (PID=6502) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:45:21.150+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:45:21.152+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:21.151+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:45:21.196+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:45:21.247+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:21.247+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:45:21.279+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:21.278+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:45:21.311+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.185 seconds
+[2023-07-12T05:46:23.173+0100] {processor.py:157} INFO - Started process (PID=6551) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:46:23.188+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:46:23.190+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:23.189+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:46:23.206+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:46:23.240+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:23.240+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:46:23.261+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:23.260+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:46:23.308+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.150 seconds
+[2023-07-12T05:47:21.610+0100] {processor.py:157} INFO - Started process (PID=6706) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:47:21.617+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:47:21.623+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:21.622+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:47:21.666+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:47:21.756+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:21.756+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:47:21.783+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:21.782+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:47:21.822+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.231 seconds
+[2023-07-12T05:48:16.430+0100] {processor.py:157} INFO - Started process (PID=6873) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:48:16.432+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:48:16.434+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:16.434+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:48:16.465+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:48:16.556+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:16.555+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:48:16.625+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:16.625+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:48:16.688+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.269 seconds
+[2023-07-12T05:49:21.475+0100] {processor.py:157} INFO - Started process (PID=6927) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:49:21.478+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:49:21.480+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:21.479+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:49:21.507+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:49:21.568+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:21.568+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:49:21.608+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:21.608+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:49:21.656+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.189 seconds
+[2023-07-12T05:50:24.356+0100] {processor.py:157} INFO - Started process (PID=6983) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:50:24.383+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:50:24.386+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:24.385+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:50:24.424+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:50:24.487+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:24.487+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:50:24.541+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:24.541+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:50:24.614+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.263 seconds
+[2023-07-12T05:51:27.146+0100] {processor.py:157} INFO - Started process (PID=7136) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:51:27.152+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:51:27.156+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:27.155+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:51:27.251+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:51:27.373+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:27.372+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:51:27.458+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:27.458+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:51:27.538+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.406 seconds
+[2023-07-12T05:52:26.690+0100] {processor.py:157} INFO - Started process (PID=7186) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:52:26.694+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:52:26.697+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:26.696+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:52:26.734+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:52:26.836+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:26.836+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:52:26.912+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:26.911+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:52:26.997+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.318 seconds
+[2023-07-12T05:53:32.087+0100] {processor.py:157} INFO - Started process (PID=7239) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:53:32.093+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:53:32.097+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:53:32.095+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:53:32.167+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:53:32.270+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:53:32.270+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:53:32.326+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:53:32.326+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:53:32.389+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.315 seconds
+[2023-07-12T05:54:36.750+0100] {processor.py:157} INFO - Started process (PID=7290) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:54:36.754+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:54:36.759+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:36.757+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:54:36.799+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:54:36.890+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:36.889+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:54:36.969+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:36.968+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:54:37.097+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.357 seconds
+[2023-07-12T05:55:40.576+0100] {processor.py:157} INFO - Started process (PID=7342) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:55:40.589+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:55:40.592+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:40.591+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:55:40.627+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:55:40.676+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:40.675+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:55:40.709+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:40.709+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:55:40.761+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.195 seconds
+[2023-07-12T05:56:48.951+0100] {processor.py:157} INFO - Started process (PID=7399) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:56:48.956+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:56:48.959+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:48.958+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:56:48.994+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:56:49.089+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:49.089+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:56:49.117+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:49.117+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:56:49.151+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.211 seconds
+[2023-07-12T05:57:47.541+0100] {processor.py:157} INFO - Started process (PID=7449) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:57:47.545+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:57:47.548+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:47.547+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:57:47.589+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:57:47.680+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:47.679+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:57:47.711+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:47.710+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:57:47.746+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.217 seconds
+[2023-07-12T05:58:45.201+0100] {processor.py:157} INFO - Started process (PID=7499) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:58:45.208+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:58:45.214+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:45.211+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:58:45.275+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:58:45.409+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:45.408+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:58:45.496+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:45.496+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:58:45.554+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.375 seconds
+[2023-07-12T05:59:42.401+0100] {processor.py:157} INFO - Started process (PID=7560) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:59:42.406+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T05:59:42.410+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:42.409+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:59:42.458+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T05:59:42.568+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:42.568+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:59:42.622+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:42.621+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T05:59:42.689+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.304 seconds
+[2023-07-12T06:00:44.419+0100] {processor.py:157} INFO - Started process (PID=7688) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T06:00:44.425+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T06:00:44.428+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:44.427+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T06:00:44.474+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T06:00:44.575+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:44.574+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T06:00:44.654+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:44.653+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T06:00:44.751+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.343 seconds
+[2023-07-12T15:15:48.112+0100] {processor.py:157} INFO - Started process (PID=7930) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:15:48.115+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:15:48.122+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:48.116+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:15:48.149+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:15:48.237+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:48.236+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:15:48.277+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:48.277+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:15:48.493+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.385 seconds
+[2023-07-12T15:18:28.418+0100] {processor.py:157} INFO - Started process (PID=8229) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:18:28.665+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:18:28.668+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:28.667+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:18:28.710+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:18:28.829+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:28.828+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:18:28.927+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:28.926+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:18:29.932+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 1.525 seconds
+[2023-07-12T15:20:00.415+0100] {processor.py:157} INFO - Started process (PID=8427) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:20:00.437+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:20:00.440+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:00.439+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:20:00.494+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:20:00.576+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:00.576+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:20:00.663+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:00.663+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:20:01.159+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.750 seconds
+[2023-07-12T15:21:30.083+0100] {processor.py:157} INFO - Started process (PID=8625) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:21:30.224+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:21:30.226+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:21:30.226+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:21:30.267+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:21:30.346+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:21:30.345+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:21:30.381+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:21:30.380+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:21:30.668+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.597 seconds
+[2023-07-12T15:23:18.433+0100] {processor.py:157} INFO - Started process (PID=8856) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:23:18.481+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:23:18.484+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:23:18.483+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:23:18.513+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:23:18.577+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:23:18.577+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:23:18.630+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:23:18.629+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:23:18.855+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.437 seconds
+[2023-07-12T15:24:32.539+0100] {processor.py:157} INFO - Started process (PID=9029) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:24:32.543+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:24:32.547+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:32.546+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:24:32.615+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:24:32.705+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:32.704+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:24:32.761+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:32.761+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:24:32.830+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.302 seconds
+[2023-07-12T15:25:43.596+0100] {processor.py:157} INFO - Started process (PID=9211) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:25:43.604+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:25:43.606+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:43.605+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:25:43.639+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:25:43.676+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:43.676+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:25:43.711+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:43.711+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:25:43.748+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.157 seconds
+[2023-07-12T15:27:13.580+0100] {processor.py:157} INFO - Started process (PID=9405) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:27:13.702+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:27:13.704+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:27:13.703+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:27:13.732+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:27:13.809+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:27:13.809+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:27:13.857+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:27:13.857+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:27:14.234+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.661 seconds
+[2023-07-12T15:28:51.927+0100] {processor.py:157} INFO - Started process (PID=9623) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:28:51.952+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:28:51.957+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:51.955+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:28:52.002+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:28:52.141+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:52.140+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:28:52.187+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:52.186+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:28:52.518+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.602 seconds
+[2023-07-12T15:30:01.411+0100] {processor.py:157} INFO - Started process (PID=9799) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:30:01.526+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:30:01.527+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:01.527+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:30:01.547+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:30:01.594+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:01.594+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:30:01.624+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:01.624+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:30:01.687+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.282 seconds
+[2023-07-12T15:31:06.649+0100] {processor.py:157} INFO - Started process (PID=9982) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:31:06.752+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:31:06.753+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:06.753+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:31:06.771+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:31:06.811+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:06.811+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:31:06.843+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:06.843+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:31:06.924+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.280 seconds
+[2023-07-12T15:32:29.972+0100] {processor.py:157} INFO - Started process (PID=10349) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:32:30.010+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:32:30.016+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:32:30.014+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:32:30.063+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:32:30.175+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:32:30.174+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:32:30.255+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:32:30.255+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:32:30.316+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.366 seconds
+[2023-07-12T15:34:06.468+0100] {processor.py:157} INFO - Started process (PID=10762) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:34:06.629+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:34:06.631+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:34:06.630+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:34:06.661+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:34:06.728+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:34:06.728+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:34:06.778+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:34:06.778+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:34:07.135+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.672 seconds
+[2023-07-12T15:36:03.526+0100] {processor.py:157} INFO - Started process (PID=11143) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:36:03.617+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:36:03.621+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:36:03.619+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:36:03.684+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:36:03.847+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:36:03.847+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:36:03.885+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:36:03.885+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:36:04.604+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 1.091 seconds
+[2023-07-12T15:38:07.802+0100] {processor.py:157} INFO - Started process (PID=11454) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:38:07.871+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:38:07.873+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:38:07.872+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:38:07.896+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:38:07.972+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:38:07.972+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:38:08.033+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:38:08.032+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:38:08.597+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.827 seconds
+[2023-07-12T15:39:57.380+0100] {processor.py:157} INFO - Started process (PID=11998) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:39:57.467+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:39:57.469+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:57.468+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:39:57.489+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:39:57.531+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:57.531+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:39:57.571+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:57.571+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:39:57.629+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.266 seconds
+[2023-07-12T15:43:08.954+0100] {processor.py:157} INFO - Started process (PID=12525) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:43:08.980+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-07-12T15:43:08.983+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:43:08.982+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:43:09.034+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-07-12T15:43:09.132+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:43:09.131+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:43:09.213+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:43:09.212+0100] {dag.py:3504} INFO - Setting next_dagrun for example_bash_operator to 2023-07-12T00:00:00+00:00, run_after=2023-07-13T00:00:00+00:00
+[2023-07-12T15:43:09.363+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.421 seconds

@@ -1,0 +1,630 @@
+[2023-07-12T04:26:33.578+0100] {processor.py:157} INFO - Started process (PID=772) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:26:33.581+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:26:33.584+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:33.583+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:26:33.607+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:26:33.666+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:33.665+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:26:33.708+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:33.708+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:26:33.708398+00:00, run_after=2023-07-12T03:26:33.708398+00:00
+[2023-07-12T04:26:33.755+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.187 seconds
+[2023-07-12T04:27:36.313+0100] {processor.py:157} INFO - Started process (PID=821) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:27:36.316+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:27:36.320+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:36.318+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:27:36.341+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:27:36.385+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:36.384+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:27:36.435+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:36.435+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:27:36.434943+00:00, run_after=2023-07-12T03:27:36.434943+00:00
+[2023-07-12T04:27:36.475+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.171 seconds
+[2023-07-12T04:28:31.368+0100] {processor.py:157} INFO - Started process (PID=870) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:28:31.371+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:28:31.374+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:31.373+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:28:31.391+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:28:31.431+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:31.431+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:28:31.477+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:31.477+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:28:31.476829+00:00, run_after=2023-07-12T03:28:31.476829+00:00
+[2023-07-12T04:28:31.531+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.178 seconds
+[2023-07-12T04:31:01.344+0100] {processor.py:157} INFO - Started process (PID=971) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:31:01.359+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:31:01.362+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:01.361+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:31:01.379+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:31:01.418+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:01.418+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:31:01.462+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:01.462+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:31:01.462195+00:00, run_after=2023-07-12T03:31:01.462195+00:00
+[2023-07-12T04:31:01.640+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.304 seconds
+[2023-07-12T04:32:11.153+0100] {processor.py:157} INFO - Started process (PID=1039) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:32:11.156+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:32:11.158+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:11.158+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:32:11.179+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:32:11.225+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:11.225+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:32:11.273+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:11.273+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:32:11.273187+00:00, run_after=2023-07-12T03:32:11.273187+00:00
+[2023-07-12T04:32:11.314+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.169 seconds
+[2023-07-12T04:33:17.884+0100] {processor.py:157} INFO - Started process (PID=1107) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:33:17.891+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:33:17.896+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:17.894+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:33:17.925+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:33:17.985+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:17.985+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:33:18.075+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:18.075+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:33:18.074451+00:00, run_after=2023-07-12T03:33:18.074451+00:00
+[2023-07-12T04:33:18.138+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.269 seconds
+[2023-07-12T04:34:15.328+0100] {processor.py:157} INFO - Started process (PID=1210) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:34:15.331+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:34:15.333+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:15.332+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:34:15.350+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:34:15.386+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:15.386+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:34:15.424+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:15.423+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:34:15.423465+00:00, run_after=2023-07-12T03:34:15.423465+00:00
+[2023-07-12T04:34:15.481+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.163 seconds
+[2023-07-12T04:35:05.143+0100] {processor.py:157} INFO - Started process (PID=1281) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:35:05.148+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:35:05.150+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:05.149+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:35:05.189+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:35:05.232+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:05.232+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:35:05.270+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:05.269+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:35:05.269367+00:00, run_after=2023-07-12T03:35:05.269367+00:00
+[2023-07-12T04:35:05.322+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.199 seconds
+[2023-07-12T04:35:58.338+0100] {processor.py:157} INFO - Started process (PID=1327) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:35:58.341+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:35:58.342+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:58.342+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:35:58.358+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:35:58.383+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:58.383+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:35:58.408+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:58.407+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:35:58.407685+00:00, run_after=2023-07-12T03:35:58.407685+00:00
+[2023-07-12T04:35:58.456+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.144 seconds
+[2023-07-12T04:36:55.453+0100] {processor.py:157} INFO - Started process (PID=1376) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:36:55.457+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:36:55.460+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:55.459+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:36:55.494+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:36:55.546+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:55.546+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:36:55.595+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:55.595+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:36:55.595233+00:00, run_after=2023-07-12T03:36:55.595233+00:00
+[2023-07-12T04:36:55.661+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.221 seconds
+[2023-07-12T04:38:14.301+0100] {processor.py:157} INFO - Started process (PID=1433) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:38:14.309+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:38:14.311+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:14.311+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:38:14.324+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:38:14.363+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:14.363+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:38:14.406+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:14.406+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:38:14.405064+00:00, run_after=2023-07-12T03:38:14.405064+00:00
+[2023-07-12T04:38:14.629+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.336 seconds
+[2023-07-12T04:39:37.866+0100] {processor.py:157} INFO - Started process (PID=1492) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:39:37.904+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:39:37.906+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:37.905+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:39:37.931+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:39:37.972+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:37.971+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:39:38.025+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:38.025+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:39:38.024974+00:00, run_after=2023-07-12T03:39:38.024974+00:00
+[2023-07-12T04:39:38.219+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.360 seconds
+[2023-07-12T04:41:35.331+0100] {processor.py:157} INFO - Started process (PID=1627) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:41:35.384+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:41:35.386+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:41:35.385+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:41:35.412+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:41:35.440+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:41:35.440+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:41:35.480+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:41:35.480+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:41:35.479748+00:00, run_after=2023-07-12T03:41:35.479748+00:00
+[2023-07-12T04:41:35.932+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.607 seconds
+[2023-07-12T04:44:26.877+0100] {processor.py:157} INFO - Started process (PID=1905) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:44:26.933+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:44:26.942+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:44:26.936+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:44:27.006+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:44:27.476+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:44:27.475+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:44:29.088+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:44:29.085+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:44:29.043359+00:00, run_after=2023-07-12T03:44:29.043359+00:00
+[2023-07-12T04:44:30.147+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 3.290 seconds
+[2023-07-12T04:47:09.567+0100] {processor.py:157} INFO - Started process (PID=2183) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:47:09.654+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:47:09.657+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:47:09.656+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:47:09.685+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:47:09.751+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:47:09.750+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:47:09.831+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:47:09.830+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:47:09.829500+00:00, run_after=2023-07-12T03:47:09.829500+00:00
+[2023-07-12T04:47:09.894+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.373 seconds
+[2023-07-12T04:49:43.096+0100] {processor.py:157} INFO - Started process (PID=2513) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:49:43.191+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:49:43.194+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:49:43.193+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:49:43.236+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:49:43.517+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:49:43.517+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:49:43.588+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:49:43.587+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:49:43.587611+00:00, run_after=2023-07-12T03:49:43.587611+00:00
+[2023-07-12T04:49:43.794+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.704 seconds
+[2023-07-12T04:50:57.562+0100] {processor.py:157} INFO - Started process (PID=2568) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:50:57.583+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:50:57.585+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:57.584+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:50:57.606+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:50:57.655+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:57.654+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:50:57.695+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:57.695+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:50:57.694988+00:00, run_after=2023-07-12T03:50:57.694988+00:00
+[2023-07-12T04:50:57.775+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.223 seconds
+[2023-07-12T04:52:38.961+0100] {processor.py:157} INFO - Started process (PID=2607) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:52:39.084+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:52:39.086+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:52:39.085+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:52:39.105+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:52:39.150+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:52:39.150+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:52:39.199+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:52:39.199+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:52:39.198751+00:00, run_after=2023-07-12T03:52:39.198751+00:00
+[2023-07-12T04:52:40.064+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 1.112 seconds
+[2023-07-12T04:53:36.192+0100] {processor.py:157} INFO - Started process (PID=2748) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:53:36.390+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:53:36.392+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:36.391+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:53:36.413+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:53:36.461+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:36.461+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:53:36.522+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:36.521+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:53:36.521292+00:00, run_after=2023-07-12T03:53:36.521292+00:00
+[2023-07-12T04:53:36.697+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.517 seconds
+[2023-07-12T04:54:40.283+0100] {processor.py:157} INFO - Started process (PID=2785) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:54:40.308+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:54:40.312+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:54:40.311+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:54:40.346+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:54:40.430+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:54:40.429+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:54:40.465+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:54:40.465+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:54:40.464678+00:00, run_after=2023-07-12T03:54:40.464678+00:00
+[2023-07-12T04:54:40.613+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.346 seconds
+[2023-07-12T04:55:52.142+0100] {processor.py:157} INFO - Started process (PID=2841) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:55:52.313+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:55:52.318+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:52.316+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:55:52.376+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:55:52.421+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:52.421+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:55:52.453+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:52.453+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:55:52.452961+00:00, run_after=2023-07-12T03:55:52.452961+00:00
+[2023-07-12T04:55:52.853+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.725 seconds
+[2023-07-12T04:57:01.042+0100] {processor.py:157} INFO - Started process (PID=2880) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:57:01.048+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:57:01.051+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:57:01.050+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:57:01.069+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:57:01.112+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:57:01.111+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:57:01.159+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:57:01.158+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:57:01.157673+00:00, run_after=2023-07-12T03:57:01.157673+00:00
+[2023-07-12T04:57:01.219+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.185 seconds
+[2023-07-12T04:58:20.970+0100] {processor.py:157} INFO - Started process (PID=2939) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:58:21.078+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T04:58:21.080+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:21.079+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:58:21.103+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T04:58:21.146+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:21.145+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:58:21.202+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:21.202+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T03:58:21.201452+00:00, run_after=2023-07-12T03:58:21.201452+00:00
+[2023-07-12T04:58:21.310+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.349 seconds
+[2023-07-12T05:00:01.575+0100] {processor.py:157} INFO - Started process (PID=2978) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:00:01.587+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:00:01.590+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:01.589+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:00:01.610+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:00:01.657+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:01.657+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:00:01.708+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:01.708+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:00:01.707732+00:00, run_after=2023-07-12T04:00:01.707732+00:00
+[2023-07-12T05:00:01.859+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.294 seconds
+[2023-07-12T05:01:27.543+0100] {processor.py:157} INFO - Started process (PID=3019) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:01:27.668+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:01:27.672+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:27.669+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:01:27.728+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:01:27.855+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:27.855+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:01:27.890+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:27.890+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:01:27.890010+00:00, run_after=2023-07-12T04:01:27.890010+00:00
+[2023-07-12T05:01:27.962+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.442 seconds
+[2023-07-12T05:03:00.615+0100] {processor.py:157} INFO - Started process (PID=3078) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:03:00.706+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:03:00.709+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:03:00.708+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:03:00.751+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:03:00.825+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:03:00.825+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:03:00.886+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:03:00.885+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:03:00.882886+00:00, run_after=2023-07-12T04:03:00.882886+00:00
+[2023-07-12T05:03:00.995+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.394 seconds
+[2023-07-12T05:04:08.712+0100] {processor.py:157} INFO - Started process (PID=3130) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:04:08.823+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:04:08.826+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:08.824+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:04:08.849+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:04:08.904+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:08.903+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:04:08.955+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:08.955+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:04:08.954797+00:00, run_after=2023-07-12T04:04:08.954797+00:00
+[2023-07-12T05:04:09.144+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.441 seconds
+[2023-07-12T05:05:53.197+0100] {processor.py:157} INFO - Started process (PID=3230) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:05:53.272+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:05:53.275+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:53.273+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:05:53.302+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:05:53.381+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:53.380+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:05:53.496+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:53.495+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:05:53.494950+00:00, run_after=2023-07-12T04:05:53.494950+00:00
+[2023-07-12T05:05:53.820+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.634 seconds
+[2023-07-12T05:07:34.882+0100] {processor.py:157} INFO - Started process (PID=3291) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:07:34.951+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:07:34.954+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:34.953+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:07:34.980+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:07:35.038+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:35.037+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:07:35.103+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:35.103+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:07:35.102433+00:00, run_after=2023-07-12T04:07:35.102433+00:00
+[2023-07-12T05:07:35.603+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.735 seconds
+[2023-07-12T05:09:14.110+0100] {processor.py:157} INFO - Started process (PID=3447) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:09:14.147+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:09:14.151+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:14.150+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:09:14.181+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:09:14.253+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:14.253+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:09:14.332+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:14.331+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:09:14.330428+00:00, run_after=2023-07-12T04:09:14.330428+00:00
+[2023-07-12T05:09:14.474+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.378 seconds
+[2023-07-12T05:10:44.215+0100] {processor.py:157} INFO - Started process (PID=3489) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:10:44.314+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:10:44.317+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:44.316+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:10:44.342+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:10:44.398+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:44.397+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:10:44.453+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:44.453+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:10:44.452663+00:00, run_after=2023-07-12T04:10:44.452663+00:00
+[2023-07-12T05:10:44.513+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.309 seconds
+[2023-07-12T05:12:01.251+0100] {processor.py:157} INFO - Started process (PID=3548) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:12:01.315+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:12:01.316+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:01.316+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:12:01.330+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:12:01.362+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:01.361+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:12:01.396+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:01.396+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:12:01.395764+00:00, run_after=2023-07-12T04:12:01.395764+00:00
+[2023-07-12T05:12:01.482+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.239 seconds
+[2023-07-12T05:13:30.035+0100] {processor.py:157} INFO - Started process (PID=3610) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:13:30.059+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:13:30.062+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:30.061+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:13:30.088+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:13:30.146+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:30.145+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:13:30.238+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:30.238+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:13:30.237298+00:00, run_after=2023-07-12T04:13:30.237298+00:00
+[2023-07-12T05:13:30.853+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.830 seconds
+[2023-07-12T05:14:34.477+0100] {processor.py:157} INFO - Started process (PID=3664) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:14:34.515+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:14:34.517+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:34.516+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:14:34.541+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:14:34.601+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:34.600+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:14:34.647+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:34.647+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:14:34.646773+00:00, run_after=2023-07-12T04:14:34.646773+00:00
+[2023-07-12T05:14:34.755+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.289 seconds
+[2023-07-12T05:16:08.377+0100] {processor.py:157} INFO - Started process (PID=3724) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:16:08.401+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:16:08.404+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:08.403+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:16:08.425+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:16:08.470+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:08.469+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:16:08.518+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:08.517+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:16:08.517126+00:00, run_after=2023-07-12T04:16:08.517126+00:00
+[2023-07-12T05:16:08.614+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.246 seconds
+[2023-07-12T05:17:12.281+0100] {processor.py:157} INFO - Started process (PID=3766) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:17:12.291+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:17:12.295+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:12.293+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:17:12.328+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:17:12.425+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:12.423+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:17:12.513+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:12.513+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:17:12.512505+00:00, run_after=2023-07-12T04:17:12.512505+00:00
+[2023-07-12T05:17:12.809+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.544 seconds
+[2023-07-12T05:19:37.881+0100] {processor.py:157} INFO - Started process (PID=3855) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:19:37.915+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:19:37.917+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:37.916+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:19:37.933+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:19:37.970+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:37.969+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:19:38.007+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:38.007+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:19:38.006223+00:00, run_after=2023-07-12T04:19:38.006223+00:00
+[2023-07-12T05:19:38.329+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.456 seconds
+[2023-07-12T05:20:51.870+0100] {processor.py:157} INFO - Started process (PID=4142) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:20:51.979+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:20:51.981+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:51.980+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:20:52.008+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:20:52.079+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:52.076+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:20:52.140+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:52.139+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:20:52.139546+00:00, run_after=2023-07-12T04:20:52.139546+00:00
+[2023-07-12T05:20:52.502+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.638 seconds
+[2023-07-12T05:22:34.446+0100] {processor.py:157} INFO - Started process (PID=4393) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:22:34.564+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:22:34.566+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:34.565+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:22:34.586+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:22:34.640+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:34.639+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:22:34.687+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:34.687+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:22:34.687003+00:00, run_after=2023-07-12T04:22:34.687003+00:00
+[2023-07-12T05:22:35.154+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.724 seconds
+[2023-07-12T05:24:59.322+0100] {processor.py:157} INFO - Started process (PID=4656) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:24:59.332+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:24:59.335+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:59.334+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:24:59.363+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:24:59.424+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:59.424+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:24:59.467+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:59.466+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:24:59.466352+00:00, run_after=2023-07-12T04:24:59.466352+00:00
+[2023-07-12T05:24:59.600+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.292 seconds
+[2023-07-12T05:26:03.925+0100] {processor.py:157} INFO - Started process (PID=4763) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:26:03.986+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:26:03.988+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:03.987+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:26:04.029+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:26:04.119+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:04.118+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:26:04.209+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:04.208+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:26:04.206996+00:00, run_after=2023-07-12T04:26:04.206996+00:00
+[2023-07-12T05:26:04.438+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.520 seconds
+[2023-07-12T05:27:02.236+0100] {processor.py:157} INFO - Started process (PID=4824) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:27:02.429+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:27:02.431+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:02.430+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:27:02.454+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:27:02.534+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:02.534+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:27:02.586+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:02.586+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:27:02.585794+00:00, run_after=2023-07-12T04:27:02.585794+00:00
+[2023-07-12T05:27:02.797+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.567 seconds
+[2023-07-12T05:28:30.666+0100] {processor.py:157} INFO - Started process (PID=4895) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:28:30.672+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:28:30.674+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:28:30.673+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:28:30.695+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:28:30.732+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:28:30.732+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:28:30.770+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:28:30.770+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:28:30.769675+00:00, run_after=2023-07-12T04:28:30.769675+00:00
+[2023-07-12T05:28:30.853+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.193 seconds
+[2023-07-12T05:29:41.620+0100] {processor.py:157} INFO - Started process (PID=4929) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:29:41.708+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:29:41.711+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:41.710+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:29:41.732+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:29:41.790+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:41.790+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:29:41.838+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:41.837+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:29:41.837186+00:00, run_after=2023-07-12T04:29:41.837186+00:00
+[2023-07-12T05:29:42.042+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.433 seconds
+[2023-07-12T05:30:39.730+0100] {processor.py:157} INFO - Started process (PID=5030) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:30:39.831+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:30:39.838+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:39.836+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:30:39.862+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:30:39.920+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:39.919+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:30:39.982+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:39.981+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:30:39.981235+00:00, run_after=2023-07-12T04:30:39.981235+00:00
+[2023-07-12T05:30:40.132+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.415 seconds
+[2023-07-12T05:31:59.307+0100] {processor.py:157} INFO - Started process (PID=5272) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:31:59.320+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:31:59.323+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:59.321+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:31:59.352+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:31:59.404+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:59.404+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:31:59.460+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:59.460+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:31:59.459745+00:00, run_after=2023-07-12T04:31:59.459745+00:00
+[2023-07-12T05:31:59.654+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.358 seconds
+[2023-07-12T05:33:46.870+0100] {processor.py:157} INFO - Started process (PID=5359) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:33:46.875+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:33:46.878+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:33:46.877+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:33:46.902+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:33:46.956+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:33:46.956+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:33:47.009+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:33:47.009+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:33:47.008464+00:00, run_after=2023-07-12T04:33:47.008464+00:00
+[2023-07-12T05:33:47.127+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.268 seconds
+[2023-07-12T05:36:03.494+0100] {processor.py:157} INFO - Started process (PID=5647) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:36:03.503+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:36:03.506+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:03.505+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:36:03.532+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:36:03.602+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:03.602+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:36:03.622+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:03.622+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:36:03.622111+00:00, run_after=2023-07-12T04:36:03.622111+00:00
+[2023-07-12T05:36:03.735+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.252 seconds
+[2023-07-12T05:37:01.955+0100] {processor.py:157} INFO - Started process (PID=5696) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:37:01.966+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:37:01.969+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:01.968+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:37:01.996+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:37:02.068+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:02.068+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:37:02.129+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:02.129+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:37:02.128637+00:00, run_after=2023-07-12T04:37:02.128637+00:00
+[2023-07-12T05:37:02.217+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.274 seconds
+[2023-07-12T05:38:02.849+0100] {processor.py:157} INFO - Started process (PID=5784) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:38:02.852+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:38:02.854+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:02.853+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:38:02.871+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:38:02.926+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:02.926+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:38:02.969+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:02.968+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:38:02.968199+00:00, run_after=2023-07-12T04:38:02.968199+00:00
+[2023-07-12T05:38:03.061+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.222 seconds
+[2023-07-12T05:39:01.902+0100] {processor.py:157} INFO - Started process (PID=5969) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:39:01.914+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:39:01.917+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:01.916+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:39:01.940+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:39:01.992+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:01.991+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:39:02.047+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:02.047+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:39:02.046394+00:00, run_after=2023-07-12T04:39:02.046394+00:00
+[2023-07-12T05:39:02.124+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.233 seconds
+[2023-07-12T05:40:07.395+0100] {processor.py:157} INFO - Started process (PID=6050) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:40:07.407+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:40:07.410+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:07.409+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:40:07.439+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:40:07.511+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:07.511+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:40:07.537+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:07.537+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:40:07.537204+00:00, run_after=2023-07-12T04:40:07.537204+00:00
+[2023-07-12T05:40:07.587+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.205 seconds
+[2023-07-12T05:41:12.356+0100] {processor.py:157} INFO - Started process (PID=6146) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:41:12.367+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:41:12.371+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:12.369+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:41:12.407+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:41:12.483+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:12.483+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:41:12.666+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:12.665+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:41:12.665588+00:00, run_after=2023-07-12T04:41:12.665588+00:00
+[2023-07-12T05:41:12.737+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.397 seconds
+[2023-07-12T05:42:11.767+0100] {processor.py:157} INFO - Started process (PID=6198) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:42:11.772+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:42:11.774+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:11.773+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:42:11.802+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:42:11.864+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:11.863+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:42:11.940+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:11.940+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:42:11.939138+00:00, run_after=2023-07-12T04:42:11.939138+00:00
+[2023-07-12T05:42:12.032+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.277 seconds
+[2023-07-12T05:43:22.782+0100] {processor.py:157} INFO - Started process (PID=6262) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:43:22.788+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:43:22.790+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:22.789+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:43:22.828+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:43:22.899+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:22.899+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:43:22.953+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:22.952+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:43:22.951927+00:00, run_after=2023-07-12T04:43:22.951927+00:00
+[2023-07-12T05:43:23.005+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.245 seconds
+[2023-07-12T05:44:35.228+0100] {processor.py:157} INFO - Started process (PID=6468) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:44:35.242+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:44:35.279+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:35.246+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:44:35.593+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:44:36.106+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:36.106+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:44:36.207+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:36.207+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:44:36.205440+00:00, run_after=2023-07-12T04:44:36.205440+00:00
+[2023-07-12T05:44:36.371+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 1.203 seconds
+[2023-07-12T05:45:47.831+0100] {processor.py:157} INFO - Started process (PID=6526) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:45:47.838+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:45:47.843+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:47.841+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:45:47.875+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:45:47.941+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:47.941+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:45:48.050+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:48.049+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:45:48.048431+00:00, run_after=2023-07-12T04:45:48.048431+00:00
+[2023-07-12T05:45:48.166+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.347 seconds
+[2023-07-12T05:46:49.925+0100] {processor.py:157} INFO - Started process (PID=6630) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:46:49.930+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:46:49.935+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:49.934+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:46:49.963+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:46:50.063+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:50.062+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:46:50.143+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:50.142+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:46:50.141278+00:00, run_after=2023-07-12T04:46:50.141278+00:00
+[2023-07-12T05:46:50.282+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.370 seconds
+[2023-07-12T05:47:48.702+0100] {processor.py:157} INFO - Started process (PID=6820) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:47:48.710+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:47:48.712+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:48.711+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:47:48.727+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:47:48.757+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:48.756+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:47:48.786+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:48.785+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:47:48.785602+00:00, run_after=2023-07-12T04:47:48.785602+00:00
+[2023-07-12T05:47:48.828+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.132 seconds
+[2023-07-12T05:48:47.719+0100] {processor.py:157} INFO - Started process (PID=6899) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:48:47.741+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:48:47.745+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:47.744+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:48:47.776+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:48:47.832+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:47.831+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:48:47.881+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:47.880+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:48:47.879757+00:00, run_after=2023-07-12T04:48:47.879757+00:00
+[2023-07-12T05:48:47.945+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.236 seconds
+[2023-07-12T05:49:52.283+0100] {processor.py:157} INFO - Started process (PID=6955) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:49:52.292+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:49:52.302+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:52.295+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:49:52.392+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:49:52.460+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:52.457+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:49:52.525+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:52.525+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:49:52.525043+00:00, run_after=2023-07-12T04:49:52.525043+00:00
+[2023-07-12T05:49:52.626+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.369 seconds
+[2023-07-12T05:50:57.203+0100] {processor.py:157} INFO - Started process (PID=7008) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:50:57.208+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:50:57.213+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:57.211+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:50:57.254+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:50:57.355+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:57.354+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:50:57.459+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:57.455+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:50:57.454933+00:00, run_after=2023-07-12T04:50:57.454933+00:00
+[2023-07-12T05:50:57.546+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.361 seconds
+[2023-07-12T05:51:55.727+0100] {processor.py:157} INFO - Started process (PID=7159) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:51:55.818+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:51:55.821+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:55.820+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:51:55.849+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:51:55.922+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:55.921+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:51:55.997+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:55.996+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:51:55.996065+00:00, run_after=2023-07-12T04:51:55.996065+00:00
+[2023-07-12T05:51:56.153+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.440 seconds
+[2023-07-12T05:52:58.658+0100] {processor.py:157} INFO - Started process (PID=7211) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:52:58.664+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:52:58.667+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:58.666+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:52:58.694+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:52:58.763+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:58.762+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:52:58.839+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:58.838+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:52:58.837414+00:00, run_after=2023-07-12T04:52:58.837414+00:00
+[2023-07-12T05:52:58.932+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.287 seconds
+[2023-07-12T05:54:02.531+0100] {processor.py:157} INFO - Started process (PID=7263) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:54:02.534+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:54:02.536+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:02.535+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:54:02.555+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:54:02.593+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:02.593+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:54:02.636+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:02.636+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:54:02.636284+00:00, run_after=2023-07-12T04:54:02.636284+00:00
+[2023-07-12T05:54:02.681+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.161 seconds
+[2023-07-12T05:55:10.616+0100] {processor.py:157} INFO - Started process (PID=7319) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:55:10.624+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:55:10.627+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:10.626+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:55:10.661+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:55:10.710+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:10.709+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:55:10.743+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:10.742+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:55:10.742312+00:00, run_after=2023-07-12T04:55:10.742312+00:00
+[2023-07-12T05:55:10.791+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.188 seconds
+[2023-07-12T05:56:15.528+0100] {processor.py:157} INFO - Started process (PID=7371) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:56:15.532+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:56:15.534+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:15.533+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:56:15.547+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:56:15.586+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:15.586+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:56:15.629+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:15.628+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:56:15.627817+00:00, run_after=2023-07-12T04:56:15.627817+00:00
+[2023-07-12T05:56:15.689+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.166 seconds
+[2023-07-12T05:57:17.875+0100] {processor.py:157} INFO - Started process (PID=7423) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:57:17.879+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:57:17.882+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:17.881+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:57:17.905+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:57:17.957+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:17.956+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:57:18.013+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:18.013+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:57:18.012529+00:00, run_after=2023-07-12T04:57:18.012529+00:00
+[2023-07-12T05:57:18.083+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.219 seconds
+[2023-07-12T05:58:16.673+0100] {processor.py:157} INFO - Started process (PID=7473) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:58:16.679+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:58:16.682+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:16.681+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:58:16.710+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:58:16.780+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:16.779+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:58:16.851+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:16.850+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:58:16.849609+00:00, run_after=2023-07-12T04:58:16.849609+00:00
+[2023-07-12T05:58:16.900+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.238 seconds
+[2023-07-12T05:59:14.247+0100] {processor.py:157} INFO - Started process (PID=7522) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:59:14.253+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T05:59:14.256+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:14.255+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:59:14.282+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T05:59:14.354+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:14.353+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:59:14.403+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:14.402+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T04:59:14.402448+00:00, run_after=2023-07-12T04:59:14.402448+00:00
+[2023-07-12T05:59:14.448+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.212 seconds
+[2023-07-12T06:00:14.430+0100] {processor.py:157} INFO - Started process (PID=7661) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T06:00:14.436+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T06:00:14.439+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:14.438+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T06:00:14.471+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T06:00:14.544+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:14.542+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T06:00:14.617+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:14.616+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T05:00:14.615064+00:00, run_after=2023-07-12T05:00:14.615064+00:00
+[2023-07-12T06:00:14.702+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.284 seconds
+[2023-07-12T06:01:13.200+0100] {processor.py:157} INFO - Started process (PID=7711) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T06:01:13.216+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T06:01:13.230+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:01:13.228+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T06:01:13.279+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T06:01:13.371+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:01:13.371+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T06:01:13.469+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:01:13.469+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T05:01:13.468666+00:00, run_after=2023-07-12T05:01:13.468666+00:00
+[2023-07-12T06:01:13.578+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.402 seconds
+[2023-07-12T15:15:31.638+0100] {processor.py:157} INFO - Started process (PID=7897) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:15:31.642+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:15:31.643+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:31.643+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:15:31.661+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:15:31.689+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:31.689+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:15:31.735+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:31.735+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:15:31.734870+00:00, run_after=2023-07-12T14:15:31.734870+00:00
+[2023-07-12T15:15:31.816+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.186 seconds
+[2023-07-12T15:16:50.021+0100] {processor.py:157} INFO - Started process (PID=8057) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:16:50.216+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:16:50.220+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:50.218+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:16:50.255+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:16:50.331+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:50.330+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:16:50.395+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:50.394+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:16:50.394237+00:00, run_after=2023-07-12T14:16:50.394237+00:00
+[2023-07-12T15:16:51.679+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 1.666 seconds
+[2023-07-12T15:18:15.017+0100] {processor.py:157} INFO - Started process (PID=8206) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:18:15.097+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:18:15.101+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:15.099+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:18:15.131+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:18:15.236+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:15.235+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:18:15.311+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:15.311+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:18:15.310916+00:00, run_after=2023-07-12T14:18:15.310916+00:00
+[2023-07-12T15:18:15.787+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.786 seconds
+[2023-07-12T15:19:17.867+0100] {processor.py:157} INFO - Started process (PID=8329) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:19:17.878+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:19:17.884+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:19:17.882+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:19:17.919+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:19:18.023+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:19:18.023+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:19:18.063+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:19:18.063+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:19:18.062183+00:00, run_after=2023-07-12T14:19:18.062183+00:00
+[2023-07-12T15:19:18.295+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.443 seconds
+[2023-07-12T15:20:43.871+0100] {processor.py:157} INFO - Started process (PID=8519) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:20:43.877+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:20:43.881+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:43.880+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:20:43.915+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:20:44.003+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:44.003+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:20:44.079+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:44.078+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:20:44.078587+00:00, run_after=2023-07-12T14:20:44.078587+00:00
+[2023-07-12T15:20:44.667+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.813 seconds
+[2023-07-12T15:22:27.417+0100] {processor.py:157} INFO - Started process (PID=8746) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:22:27.443+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:22:27.446+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:22:27.445+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:22:27.480+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:22:27.510+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:22:27.510+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:22:27.534+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:22:27.534+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:22:27.534123+00:00, run_after=2023-07-12T14:22:27.534123+00:00
+[2023-07-12T15:22:27.775+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.365 seconds
+[2023-07-12T15:24:02.135+0100] {processor.py:157} INFO - Started process (PID=8961) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:24:02.139+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:24:02.143+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:02.142+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:24:02.174+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:24:02.214+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:02.213+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:24:02.263+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:02.262+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:24:02.262493+00:00, run_after=2023-07-12T14:24:02.262493+00:00
+[2023-07-12T15:24:02.405+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.287 seconds
+[2023-07-12T15:25:12.479+0100] {processor.py:157} INFO - Started process (PID=9128) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:25:12.547+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:25:12.549+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:12.548+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:25:12.567+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:25:12.608+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:12.608+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:25:12.657+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:12.656+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:25:12.656393+00:00, run_after=2023-07-12T14:25:12.656393+00:00
+[2023-07-12T15:25:12.800+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.327 seconds
+[2023-07-12T15:26:54.915+0100] {processor.py:157} INFO - Started process (PID=9369) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:26:54.974+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:26:54.979+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:54.977+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:26:55.012+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:26:55.110+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:55.110+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:26:55.208+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:55.206+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:26:55.205667+00:00, run_after=2023-07-12T14:26:55.205667+00:00
+[2023-07-12T15:26:55.417+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.514 seconds
+[2023-07-12T15:28:35.744+0100] {processor.py:157} INFO - Started process (PID=9581) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:28:35.826+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:28:35.829+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:35.828+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:28:35.862+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:28:35.925+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:35.925+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:28:35.988+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:35.987+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:28:35.987216+00:00, run_after=2023-07-12T14:28:35.987216+00:00
+[2023-07-12T15:28:36.893+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 1.159 seconds
+[2023-07-12T15:29:44.759+0100] {processor.py:157} INFO - Started process (PID=9751) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:29:44.880+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:29:44.882+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:44.881+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:29:44.893+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:29:44.918+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:44.918+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:29:44.940+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:44.940+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:29:44.939965+00:00, run_after=2023-07-12T14:29:44.939965+00:00
+[2023-07-12T15:29:45.055+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.299 seconds
+[2023-07-12T15:30:50.217+0100] {processor.py:157} INFO - Started process (PID=9940) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:30:50.313+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:30:50.314+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:50.314+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:30:50.333+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:30:50.378+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:50.377+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:30:50.421+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:50.421+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:30:50.421218+00:00, run_after=2023-07-12T14:30:50.421218+00:00
+[2023-07-12T15:30:50.497+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.286 seconds
+[2023-07-12T15:31:49.133+0100] {processor.py:157} INFO - Started process (PID=10165) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:31:49.244+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:31:49.249+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:49.247+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:31:49.275+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:31:49.352+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:49.352+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:31:49.424+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:49.424+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:31:49.423266+00:00, run_after=2023-07-12T14:31:49.423266+00:00
+[2023-07-12T15:31:49.589+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.470 seconds
+[2023-07-12T15:33:14.293+0100] {processor.py:157} INFO - Started process (PID=10504) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:33:14.414+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:33:14.417+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:33:14.416+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:33:14.442+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:33:14.511+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:33:14.510+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:33:14.586+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:33:14.585+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:33:14.584671+00:00, run_after=2023-07-12T14:33:14.584671+00:00
+[2023-07-12T15:33:14.777+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.498 seconds
+[2023-07-12T15:35:44.626+0100] {processor.py:157} INFO - Started process (PID=11107) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:35:44.699+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:35:44.701+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:44.700+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:35:44.718+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:35:44.754+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:44.754+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:35:44.847+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:44.847+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:35:44.846244+00:00, run_after=2023-07-12T14:35:44.846244+00:00
+[2023-07-12T15:35:45.097+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.485 seconds
+[2023-07-12T15:37:13.839+0100] {processor.py:157} INFO - Started process (PID=11339) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:37:13.974+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:37:13.977+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:13.976+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:37:14.000+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:37:14.065+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:14.065+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:37:14.155+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:14.154+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:37:14.153936+00:00, run_after=2023-07-12T14:37:14.153936+00:00
+[2023-07-12T15:37:14.307+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.491 seconds
+[2023-07-12T15:39:05.854+0100] {processor.py:157} INFO - Started process (PID=11725) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:39:05.884+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:39:05.887+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:05.886+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:39:05.912+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:39:05.990+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:05.989+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:39:06.029+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:06.029+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:39:06.029127+00:00, run_after=2023-07-12T14:39:06.029127+00:00
+[2023-07-12T15:39:06.348+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.509 seconds
+[2023-07-12T15:41:58.837+0100] {processor.py:157} INFO - Started process (PID=12333) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:41:59.873+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-12T15:41:59.875+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:41:59.875+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:41:59.884+0100] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-12T15:42:13.497+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:13.497+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:42:13.526+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:13.525+0100] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-11T14:42:13.525447+00:00, run_after=2023-07-12T14:42:13.525447+00:00
+[2023-07-12T15:42:14.165+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 15.345 seconds

@@ -1,0 +1,675 @@
+[2023-07-12T04:26:08.754+0100] {processor.py:157} INFO - Started process (PID=745) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:26:08.755+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:26:08.757+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:08.756+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:26:08.760+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:26:08.773+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.024 seconds
+[2023-07-12T04:27:11.474+0100] {processor.py:157} INFO - Started process (PID=799) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:27:11.477+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:27:11.480+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:11.479+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:27:11.487+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:27:11.520+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2023-07-12T04:27:44.007+0100] {processor.py:157} INFO - Started process (PID=828) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:27:44.010+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:27:44.012+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:44.012+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:27:44.018+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:27:44.043+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.044 seconds
+[2023-07-12T04:28:36.647+0100] {processor.py:157} INFO - Started process (PID=874) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:28:36.652+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:28:36.655+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:36.654+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:28:36.663+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:28:36.733+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.097 seconds
+[2023-07-12T04:29:15.089+0100] {processor.py:157} INFO - Started process (PID=898) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:29:15.312+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:29:15.315+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:29:15.314+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:29:15.330+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:29:15.359+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.277 seconds
+[2023-07-12T04:31:16.583+0100] {processor.py:157} INFO - Started process (PID=988) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:31:16.585+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:31:16.586+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:16.586+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:31:16.590+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:31:16.610+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.033 seconds
+[2023-07-12T04:31:57.194+0100] {processor.py:157} INFO - Started process (PID=1025) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:31:57.198+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:31:57.201+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:57.199+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:31:57.210+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:31:57.251+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.067 seconds
+[2023-07-12T04:32:28.927+0100] {processor.py:157} INFO - Started process (PID=1052) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:32:28.928+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:32:28.929+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:28.929+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:32:28.932+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:32:28.943+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.021 seconds
+[2023-07-12T04:33:02.852+0100] {processor.py:157} INFO - Started process (PID=1088) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:33:02.857+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:33:02.859+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:02.858+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:33:02.867+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:33:02.902+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.061 seconds
+[2023-07-12T04:33:36.516+0100] {processor.py:157} INFO - Started process (PID=1133) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:33:36.526+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:33:36.527+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:36.527+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:33:36.530+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:33:36.545+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.032 seconds
+[2023-07-12T04:34:29.958+0100] {processor.py:157} INFO - Started process (PID=1240) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:34:29.964+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:34:29.966+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:29.965+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:34:29.971+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:34:30.000+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.050 seconds
+[2023-07-12T04:35:19.492+0100] {processor.py:157} INFO - Started process (PID=1293) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:35:19.496+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:35:19.498+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:19.497+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:35:19.507+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:35:19.543+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.062 seconds
+[2023-07-12T04:36:16.353+0100] {processor.py:157} INFO - Started process (PID=1342) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:36:16.357+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:36:16.359+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:16.358+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:36:16.366+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:36:16.403+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.061 seconds
+[2023-07-12T04:37:14.480+0100] {processor.py:157} INFO - Started process (PID=1390) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:37:14.484+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:37:14.487+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:37:14.486+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:37:14.503+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:37:14.547+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.079 seconds
+[2023-07-12T04:37:54.435+0100] {processor.py:157} INFO - Started process (PID=1416) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:37:54.534+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:37:54.536+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:37:54.535+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:37:54.541+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:37:54.583+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.153 seconds
+[2023-07-12T04:38:31.759+0100] {processor.py:157} INFO - Started process (PID=1447) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:38:31.761+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:38:31.763+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:31.763+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:38:31.769+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:38:31.799+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.050 seconds
+[2023-07-12T04:39:09.166+0100] {processor.py:157} INFO - Started process (PID=1473) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:39:09.170+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:39:09.171+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:09.171+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:39:09.176+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:39:09.205+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.052 seconds
+[2023-07-12T04:40:07.984+0100] {processor.py:157} INFO - Started process (PID=1534) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:40:08.065+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:40:08.069+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:40:08.068+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:40:08.079+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:40:08.139+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.167 seconds
+[2023-07-12T04:41:07.150+0100] {processor.py:157} INFO - Started process (PID=1578) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:41:07.215+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:41:07.219+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:41:07.217+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:41:07.239+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:41:07.310+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.180 seconds
+[2023-07-12T04:42:27.610+0100] {processor.py:157} INFO - Started process (PID=1772) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:42:27.746+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:42:27.747+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:42:27.746+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:42:27.753+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:42:30.753+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 3.149 seconds
+[2023-07-12T04:43:17.833+0100] {processor.py:157} INFO - Started process (PID=1830) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:43:17.850+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:43:17.852+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:43:17.851+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:43:17.855+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:43:17.903+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.075 seconds
+[2023-07-12T04:46:20.587+0100] {processor.py:157} INFO - Started process (PID=2076) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:46:20.626+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:46:20.627+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:46:20.627+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:46:20.640+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:46:20.663+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.192 seconds
+[2023-07-12T04:48:27.269+0100] {processor.py:157} INFO - Started process (PID=2406) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:48:27.655+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:48:27.658+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:48:27.657+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:48:27.673+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:48:27.731+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.475 seconds
+[2023-07-12T04:50:30.049+0100] {processor.py:157} INFO - Started process (PID=2543) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:50:30.052+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:50:30.054+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:30.053+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:50:30.057+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:50:30.074+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.032 seconds
+[2023-07-12T04:51:31.527+0100] {processor.py:157} INFO - Started process (PID=2584) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:51:31.648+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:51:31.651+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:51:31.650+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:51:31.658+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:51:31.694+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.178 seconds
+[2023-07-12T04:53:12.364+0100] {processor.py:157} INFO - Started process (PID=2696) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:53:12.423+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:53:12.425+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:12.425+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:53:12.429+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:53:12.446+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.086 seconds
+[2023-07-12T04:54:12.358+0100] {processor.py:157} INFO - Started process (PID=2763) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:54:12.774+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:54:12.779+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:54:12.777+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:54:12.793+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:54:12.831+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.488 seconds
+[2023-07-12T04:55:03.388+0100] {processor.py:157} INFO - Started process (PID=2802) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:55:03.456+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:55:03.462+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:03.459+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:55:03.495+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:55:03.624+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.269 seconds
+[2023-07-12T04:55:39.835+0100] {processor.py:157} INFO - Started process (PID=2830) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:55:39.929+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:55:39.931+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:39.930+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:55:39.938+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:55:39.966+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.142 seconds
+[2023-07-12T04:56:33.891+0100] {processor.py:157} INFO - Started process (PID=2858) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:56:33.917+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:56:33.919+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:56:33.918+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:56:33.924+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:56:33.945+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.070 seconds
+[2023-07-12T04:57:27.982+0100] {processor.py:157} INFO - Started process (PID=2897) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:57:28.098+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:57:28.100+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:57:28.099+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:57:28.107+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:57:28.145+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.175 seconds
+[2023-07-12T04:58:07.979+0100] {processor.py:157} INFO - Started process (PID=2927) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:58:07.991+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:58:07.993+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:07.992+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:58:08.000+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:58:08.034+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.065 seconds
+[2023-07-12T04:59:32.436+0100] {processor.py:157} INFO - Started process (PID=2956) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:59:32.517+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T04:59:32.518+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:59:32.518+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:59:32.523+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T04:59:32.559+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.131 seconds
+[2023-07-12T05:00:38.057+0100] {processor.py:157} INFO - Started process (PID=2997) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:00:39.093+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:00:39.098+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:39.096+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:00:39.116+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:00:39.211+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 1.177 seconds
+[2023-07-12T05:02:03.503+0100] {processor.py:157} INFO - Started process (PID=3033) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:02:03.545+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:02:03.548+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:02:03.547+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:02:03.556+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:02:03.596+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.107 seconds
+[2023-07-12T05:03:41.831+0100] {processor.py:157} INFO - Started process (PID=3108) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:03:41.842+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:03:41.844+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:03:41.843+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:03:41.851+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:03:41.886+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.068 seconds
+[2023-07-12T05:04:32.211+0100] {processor.py:157} INFO - Started process (PID=3146) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:04:34.426+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:04:34.429+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:34.428+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:04:34.437+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:04:34.475+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 2.273 seconds
+[2023-07-12T05:05:21.926+0100] {processor.py:157} INFO - Started process (PID=3175) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:05:21.966+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:05:21.968+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:21.967+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:05:21.974+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:05:22.004+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.088 seconds
+[2023-07-12T05:06:16.667+0100] {processor.py:157} INFO - Started process (PID=3246) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:06:16.713+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:06:16.716+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:06:16.715+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:06:16.733+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:06:16.781+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.128 seconds
+[2023-07-12T05:06:58.196+0100] {processor.py:157} INFO - Started process (PID=3275) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:07:00.325+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:07:00.327+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:00.326+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:07:00.336+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:07:00.375+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 2.192 seconds
+[2023-07-12T05:08:15.898+0100] {processor.py:157} INFO - Started process (PID=3357) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:08:15.964+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:08:15.967+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:08:15.966+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:08:15.973+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:08:16.013+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.132 seconds
+[2023-07-12T05:09:48.220+0100] {processor.py:157} INFO - Started process (PID=3467) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:09:48.557+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:09:48.559+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:48.558+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:09:48.565+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:09:48.591+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.380 seconds
+[2023-07-12T05:11:02.052+0100] {processor.py:157} INFO - Started process (PID=3501) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:11:02.109+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:11:02.115+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:11:02.113+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:11:02.125+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:11:02.178+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.145 seconds
+[2023-07-12T05:11:43.672+0100] {processor.py:157} INFO - Started process (PID=3532) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:11:43.738+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:11:43.740+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:11:43.739+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:11:43.749+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:11:43.786+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.124 seconds
+[2023-07-12T05:12:25.775+0100] {processor.py:157} INFO - Started process (PID=3560) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:12:25.890+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:12:25.892+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:25.891+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:12:25.898+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:12:25.930+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.165 seconds
+[2023-07-12T05:13:08.182+0100] {processor.py:157} INFO - Started process (PID=3592) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:13:08.342+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:13:08.345+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:08.343+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:13:08.352+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:13:08.388+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.219 seconds
+[2023-07-12T05:13:46.755+0100] {processor.py:157} INFO - Started process (PID=3622) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:13:46.778+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:13:46.781+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:46.780+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:13:46.788+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:13:46.821+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.077 seconds
+[2023-07-12T05:14:18.315+0100] {processor.py:157} INFO - Started process (PID=3649) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:14:18.352+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:14:18.355+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:18.353+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:14:18.362+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:14:18.398+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.095 seconds
+[2023-07-12T05:14:50.287+0100] {processor.py:157} INFO - Started process (PID=3676) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:14:50.345+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:14:50.349+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:50.347+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:14:50.357+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:14:50.407+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.134 seconds
+[2023-07-12T05:15:43.955+0100] {processor.py:157} INFO - Started process (PID=3702) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:15:43.964+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:15:43.970+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:15:43.967+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:15:43.983+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:15:44.047+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.106 seconds
+[2023-07-12T05:16:47.614+0100] {processor.py:157} INFO - Started process (PID=3744) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:16:47.758+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:16:47.761+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:47.760+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:16:47.766+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:16:47.783+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.194 seconds
+[2023-07-12T05:17:40.661+0100] {processor.py:157} INFO - Started process (PID=3792) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:17:40.667+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:17:40.670+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:40.669+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:17:40.679+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:17:40.727+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.079 seconds
+[2023-07-12T05:19:00.847+0100] {processor.py:157} INFO - Started process (PID=3833) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:19:00.970+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:19:00.972+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:00.971+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:19:00.979+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:19:01.025+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.183 seconds
+[2023-07-12T05:20:11.434+0100] {processor.py:157} INFO - Started process (PID=3879) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:20:11.533+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:20:11.535+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:11.534+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:20:11.541+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:20:11.568+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.142 seconds
+[2023-07-12T05:20:59.304+0100] {processor.py:157} INFO - Started process (PID=4149) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:20:59.350+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:20:59.352+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:59.351+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:20:59.357+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:20:59.380+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.082 seconds
+[2023-07-12T05:22:06.781+0100] {processor.py:157} INFO - Started process (PID=4223) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:22:06.823+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:22:06.824+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:06.823+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:22:06.828+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:22:06.863+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.087 seconds
+[2023-07-12T05:22:49.665+0100] {processor.py:157} INFO - Started process (PID=4545) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:22:49.756+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:22:49.759+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:49.758+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:22:49.763+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:22:49.805+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.152 seconds
+[2023-07-12T05:24:31.649+0100] {processor.py:157} INFO - Started process (PID=4634) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:24:31.674+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:24:31.677+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:31.676+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:24:31.684+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:24:31.718+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.081 seconds
+[2023-07-12T05:25:32.415+0100] {processor.py:157} INFO - Started process (PID=4741) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:25:32.460+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:25:32.465+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:25:32.463+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:25:32.483+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:25:32.539+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.134 seconds
+[2023-07-12T05:26:35.805+0100] {processor.py:157} INFO - Started process (PID=4770) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:26:35.865+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:26:35.867+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:35.866+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:26:35.871+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:26:36.149+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.361 seconds
+[2023-07-12T05:27:43.278+0100] {processor.py:157} INFO - Started process (PID=4873) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:27:43.356+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:27:43.359+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:43.358+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:27:43.365+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:27:43.394+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.127 seconds
+[2023-07-12T05:29:16.905+0100] {processor.py:157} INFO - Started process (PID=4907) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:29:16.921+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:29:16.923+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:16.922+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:29:16.928+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:29:16.955+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.055 seconds
+[2023-07-12T05:30:16.396+0100] {processor.py:157} INFO - Started process (PID=4951) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:30:16.458+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:30:16.462+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:16.460+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:30:16.472+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:30:16.513+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.137 seconds
+[2023-07-12T05:30:53.410+0100] {processor.py:157} INFO - Started process (PID=5065) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:30:53.544+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:30:53.547+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:53.546+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:30:53.556+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:30:53.597+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.201 seconds
+[2023-07-12T05:31:27.483+0100] {processor.py:157} INFO - Started process (PID=5176) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:31:27.580+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:31:27.582+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:27.581+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:31:27.588+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:31:27.624+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.159 seconds
+[2023-07-12T05:32:10.431+0100] {processor.py:157} INFO - Started process (PID=5280) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:32:10.491+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:32:10.495+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:32:10.493+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:32:10.505+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:32:10.558+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.150 seconds
+[2023-07-12T05:32:51.888+0100] {processor.py:157} INFO - Started process (PID=5312) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:32:51.900+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:32:51.903+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:32:51.902+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:32:51.919+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:32:51.974+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.104 seconds
+[2023-07-12T05:34:15.162+0100] {processor.py:157} INFO - Started process (PID=5468) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:34:15.230+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:34:15.239+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:34:15.237+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:34:15.274+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:34:15.329+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.182 seconds
+[2023-07-12T05:35:15.529+0100] {processor.py:157} INFO - Started process (PID=5625) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:35:15.613+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:35:15.617+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:35:15.616+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:35:15.631+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:35:15.718+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.204 seconds
+[2023-07-12T05:36:21.048+0100] {processor.py:157} INFO - Started process (PID=5661) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:36:21.063+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:36:21.065+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:21.064+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:36:21.069+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:36:21.093+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.052 seconds
+[2023-07-12T05:37:18.823+0100] {processor.py:157} INFO - Started process (PID=5735) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:37:18.838+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:37:18.841+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:18.840+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:37:18.849+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:37:18.889+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.078 seconds
+[2023-07-12T05:37:49.819+0100] {processor.py:157} INFO - Started process (PID=5761) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:37:49.829+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:37:49.833+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:49.831+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:37:49.842+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:37:49.882+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.074 seconds
+[2023-07-12T05:38:19.990+0100] {processor.py:157} INFO - Started process (PID=5854) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:38:20.004+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:38:20.007+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:20.005+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:38:20.018+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:38:20.057+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.084 seconds
+[2023-07-12T05:39:18.807+0100] {processor.py:157} INFO - Started process (PID=5981) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:39:18.820+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:39:18.825+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:18.823+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:39:18.834+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:39:18.869+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.073 seconds
+[2023-07-12T05:39:50.978+0100] {processor.py:157} INFO - Started process (PID=6035) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:39:50.984+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:39:50.986+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:50.985+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:39:50.992+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:39:51.031+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.064 seconds
+[2023-07-12T05:40:23.878+0100] {processor.py:157} INFO - Started process (PID=6103) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:40:23.884+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:40:23.887+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:23.886+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:40:23.896+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:40:23.935+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.069 seconds
+[2023-07-12T05:40:56.313+0100] {processor.py:157} INFO - Started process (PID=6131) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:40:56.315+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:40:56.318+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:56.317+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:40:56.324+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:40:56.371+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.069 seconds
+[2023-07-12T05:41:28.805+0100] {processor.py:157} INFO - Started process (PID=6160) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:41:28.816+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:41:28.819+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:28.818+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:41:28.827+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:41:28.864+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.071 seconds
+[2023-07-12T05:41:59.633+0100] {processor.py:157} INFO - Started process (PID=6188) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:41:59.636+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:41:59.639+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:59.638+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:41:59.648+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:41:59.687+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.066 seconds
+[2023-07-12T05:43:03.733+0100] {processor.py:157} INFO - Started process (PID=6236) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:43:03.738+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:43:03.741+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:03.740+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:43:03.749+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:43:03.798+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.077 seconds
+[2023-07-12T05:43:41.178+0100] {processor.py:157} INFO - Started process (PID=6275) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:43:41.182+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:43:41.187+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:41.185+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:43:41.194+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:43:41.230+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.063 seconds
+[2023-07-12T05:44:17.838+0100] {processor.py:157} INFO - Started process (PID=6429) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:44:17.861+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:44:17.865+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:17.863+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:44:17.877+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:44:17.905+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.077 seconds
+[2023-07-12T05:44:57.904+0100] {processor.py:157} INFO - Started process (PID=6481) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:44:57.908+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:44:57.911+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:57.910+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:44:57.917+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:44:57.949+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.054 seconds
+[2023-07-12T05:45:35.449+0100] {processor.py:157} INFO - Started process (PID=6513) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:45:35.459+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:45:35.464+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:35.462+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:45:35.475+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:45:35.527+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.097 seconds
+[2023-07-12T05:46:37.293+0100] {processor.py:157} INFO - Started process (PID=6562) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:46:37.302+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:46:37.304+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:37.303+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:46:37.309+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:46:37.330+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.050 seconds
+[2023-07-12T05:47:07.699+0100] {processor.py:157} INFO - Started process (PID=6694) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:47:07.704+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:47:07.712+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:07.710+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:47:07.730+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:47:07.805+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.118 seconds
+[2023-07-12T05:48:03.245+0100] {processor.py:157} INFO - Started process (PID=6862) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:48:03.251+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:48:03.258+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:03.254+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:48:03.266+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:48:03.293+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.076 seconds
+[2023-07-12T05:49:03.890+0100] {processor.py:157} INFO - Started process (PID=6911) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:49:03.895+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:49:03.899+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:03.898+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:49:03.909+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:49:03.955+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.079 seconds
+[2023-07-12T05:49:36.111+0100] {processor.py:157} INFO - Started process (PID=6939) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:49:36.117+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:49:36.121+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:36.119+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:49:36.134+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:49:36.181+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.097 seconds
+[2023-07-12T05:50:10.209+0100] {processor.py:157} INFO - Started process (PID=6968) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:50:10.215+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:50:10.217+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:10.216+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:50:10.222+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:50:10.256+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.057 seconds
+[2023-07-12T05:50:41.849+0100] {processor.py:157} INFO - Started process (PID=6996) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:50:41.852+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:50:41.855+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:41.854+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:50:41.864+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:50:41.901+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.063 seconds
+[2023-07-12T05:51:13.457+0100] {processor.py:157} INFO - Started process (PID=7080) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:51:13.461+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:51:13.465+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:13.464+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:51:13.474+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:51:13.514+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.070 seconds
+[2023-07-12T05:52:12.148+0100] {processor.py:157} INFO - Started process (PID=7172) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:52:12.150+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:52:12.151+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:12.151+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:52:12.155+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:52:12.171+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.028 seconds
+[2023-07-12T05:52:43.427+0100] {processor.py:157} INFO - Started process (PID=7199) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:52:43.431+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:52:43.433+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:43.433+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:52:43.441+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:52:43.474+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2023-07-12T05:53:16.570+0100] {processor.py:157} INFO - Started process (PID=7224) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:53:16.574+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:53:16.576+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:53:16.576+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:53:16.581+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:53:16.611+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.048 seconds
+[2023-07-12T05:53:49.075+0100] {processor.py:157} INFO - Started process (PID=7252) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:53:49.079+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:53:49.083+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:53:49.081+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:53:49.091+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:53:49.133+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.073 seconds
+[2023-07-12T05:54:53.786+0100] {processor.py:157} INFO - Started process (PID=7303) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:54:53.791+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:54:53.795+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:53.794+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:54:53.805+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:54:53.848+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.076 seconds
+[2023-07-12T05:55:26.081+0100] {processor.py:157} INFO - Started process (PID=7332) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:55:26.087+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:55:26.091+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:26.089+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:55:26.102+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:55:26.151+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.085 seconds
+[2023-07-12T05:55:58.370+0100] {processor.py:157} INFO - Started process (PID=7355) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:55:58.374+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:55:58.377+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:58.376+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:55:58.385+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:55:58.418+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.059 seconds
+[2023-07-12T05:56:33.149+0100] {processor.py:157} INFO - Started process (PID=7384) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:56:33.155+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:56:33.162+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:33.160+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:56:33.171+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:56:33.210+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.072 seconds
+[2023-07-12T05:57:04.989+0100] {processor.py:157} INFO - Started process (PID=7412) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:57:04.992+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:57:04.995+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:04.994+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:57:05.005+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:57:05.039+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.061 seconds
+[2023-07-12T05:58:02.967+0100] {processor.py:157} INFO - Started process (PID=7462) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:58:02.971+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:58:02.976+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:02.973+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:58:02.985+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:58:03.029+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.075 seconds
+[2023-07-12T05:59:01.079+0100] {processor.py:157} INFO - Started process (PID=7511) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:59:01.081+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T05:59:01.084+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:01.082+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:59:01.088+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:59:01.102+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.028 seconds
+[2023-07-12T05:59:59.993+0100] {processor.py:157} INFO - Started process (PID=7596) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T05:59:59.998+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T06:00:00.001+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:00.000+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T06:00:00.012+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T06:00:00.074+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.094 seconds
+[2023-07-12T06:00:59.508+0100] {processor.py:157} INFO - Started process (PID=7700) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T06:00:59.512+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T06:00:59.516+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:59.514+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T06:00:59.525+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T06:00:59.579+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.086 seconds
+[2023-07-12T15:15:04.916+0100] {processor.py:157} INFO - Started process (PID=7782) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:15:04.922+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:15:04.923+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:04.923+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:15:04.933+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:15:04.980+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.078 seconds
+[2023-07-12T15:16:17.950+0100] {processor.py:157} INFO - Started process (PID=7986) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:16:18.008+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:16:18.012+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:18.011+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:16:18.025+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:16:18.112+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.172 seconds
+[2023-07-12T15:17:30.385+0100] {processor.py:157} INFO - Started process (PID=8128) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:17:30.409+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:17:30.412+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:17:30.410+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:17:30.424+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:17:30.469+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.094 seconds
+[2023-07-12T15:18:49.668+0100] {processor.py:157} INFO - Started process (PID=8269) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:18:49.786+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:18:49.789+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:49.788+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:18:49.796+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:18:49.833+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.174 seconds
+[2023-07-12T15:19:38.006+0100] {processor.py:157} INFO - Started process (PID=8370) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:19:38.085+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:19:38.089+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:19:38.088+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:19:38.120+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:19:38.233+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.230 seconds
+[2023-07-12T15:20:21.459+0100] {processor.py:157} INFO - Started process (PID=8470) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:20:21.555+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:20:21.558+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:21.557+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:20:21.573+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:20:21.603+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.158 seconds
+[2023-07-12T15:21:05.008+0100] {processor.py:157} INFO - Started process (PID=8562) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:21:05.206+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:21:05.212+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:21:05.210+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:21:05.232+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:21:05.328+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.335 seconds
+[2023-07-12T15:21:54.575+0100] {processor.py:157} INFO - Started process (PID=8671) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:21:54.714+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:21:54.719+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:21:54.717+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:21:54.734+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:21:54.792+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.238 seconds
+[2023-07-12T15:22:50.646+0100] {processor.py:157} INFO - Started process (PID=8794) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:22:50.743+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:22:50.749+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:22:50.746+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:22:50.777+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:22:50.905+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.267 seconds
+[2023-07-12T15:23:40.005+0100] {processor.py:157} INFO - Started process (PID=8900) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:23:40.092+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:23:40.096+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:23:40.094+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:23:40.108+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:23:40.174+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.183 seconds
+[2023-07-12T15:24:18.094+0100] {processor.py:157} INFO - Started process (PID=8997) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:24:18.099+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:24:18.102+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:18.101+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:24:18.110+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:24:18.141+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.055 seconds
+[2023-07-12T15:24:53.192+0100] {processor.py:157} INFO - Started process (PID=9079) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:24:53.267+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:24:53.268+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:53.268+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:24:53.272+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:24:53.289+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.103 seconds
+[2023-07-12T15:25:29.263+0100] {processor.py:157} INFO - Started process (PID=9176) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:25:29.380+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:25:29.385+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:29.383+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:25:29.398+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:25:29.442+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.193 seconds
+[2023-07-12T15:26:25.566+0100] {processor.py:157} INFO - Started process (PID=9293) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:26:25.622+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:26:25.624+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:25.623+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:26:25.629+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:26:25.667+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.116 seconds
+[2023-07-12T15:27:48.706+0100] {processor.py:157} INFO - Started process (PID=9481) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:27:48.798+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:27:48.802+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:27:48.801+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:27:48.815+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:27:48.889+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.195 seconds
+[2023-07-12T15:29:07.660+0100] {processor.py:157} INFO - Started process (PID=9657) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:29:07.779+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:29:07.783+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:07.781+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:29:07.799+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:29:07.889+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.239 seconds
+[2023-07-12T15:29:41.882+0100] {processor.py:157} INFO - Started process (PID=9746) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:29:41.884+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:29:41.886+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:41.885+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:29:41.892+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:29:41.912+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.033 seconds
+[2023-07-12T15:30:15.484+0100] {processor.py:157} INFO - Started process (PID=9827) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:30:15.556+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:30:15.557+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:15.557+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:30:15.560+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:30:15.583+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.105 seconds
+[2023-07-12T15:30:47.886+0100] {processor.py:157} INFO - Started process (PID=9934) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:30:47.887+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:30:47.889+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:47.888+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:30:47.893+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:30:47.909+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.028 seconds
+[2023-07-12T15:31:22.589+0100] {processor.py:157} INFO - Started process (PID=10065) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:31:22.654+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:31:22.655+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:22.655+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:31:22.659+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:31:22.677+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.094 seconds
+[2023-07-12T15:32:02.263+0100] {processor.py:157} INFO - Started process (PID=10223) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:32:02.295+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:32:02.301+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:32:02.299+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:32:02.313+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:32:02.369+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.121 seconds
+[2023-07-12T15:32:45.337+0100] {processor.py:157} INFO - Started process (PID=10428) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:32:45.379+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:32:45.383+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:32:45.382+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:32:45.400+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:32:45.465+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.144 seconds
+[2023-07-12T15:33:29.150+0100] {processor.py:157} INFO - Started process (PID=10573) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:33:29.193+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:33:29.196+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:33:29.195+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:33:29.206+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:33:29.248+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.110 seconds
+[2023-07-12T15:34:54.640+0100] {processor.py:157} INFO - Started process (PID=10962) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:34:54.768+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:34:54.836+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:34:54.792+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:34:55.090+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:34:55.470+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.921 seconds
+[2023-07-12T15:36:34.443+0100] {processor.py:157} INFO - Started process (PID=11263) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:36:34.562+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:36:34.568+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:36:34.566+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:36:34.583+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:36:34.632+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.202 seconds
+[2023-07-12T15:37:37.702+0100] {processor.py:157} INFO - Started process (PID=11395) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:37:37.784+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:37:37.787+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:37.786+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:37:37.795+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:37:37.849+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.160 seconds
+[2023-07-12T15:38:34.177+0100] {processor.py:157} INFO - Started process (PID=11609) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:38:34.336+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:38:34.341+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:38:34.340+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:38:34.350+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:38:34.392+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.230 seconds
+[2023-07-12T15:39:28.572+0100] {processor.py:157} INFO - Started process (PID=11853) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:39:28.619+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:39:28.623+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:28.621+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:39:28.633+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:39:28.679+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.120 seconds
+[2023-07-12T15:40:27.460+0100] {processor.py:157} INFO - Started process (PID=12125) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:40:27.506+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:40:27.511+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:40:27.509+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:40:27.525+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:40:27.586+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.144 seconds
+[2023-07-12T15:42:37.099+0100] {processor.py:157} INFO - Started process (PID=12438) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:42:37.220+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-12T15:42:37.224+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:37.222+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:42:37.235+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-12T15:42:37.285+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/event_listener.py took 0.198 seconds

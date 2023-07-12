@@ -1,0 +1,224 @@
+[2023-06-21T01:00:54.170+0100] {processor.py:157} INFO - Started process (PID=20553) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:00:54.173+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:00:54.177+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:00:54.176+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:00:54.212+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:00:54.318+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:00:54.317+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:00:54.392+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:00:54.391+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:00:54.391455+00:00, run_after=2023-06-21T00:00:54.391455+00:00
+[2023-06-21T01:00:54.692+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.534 seconds
+[2023-06-21T01:02:01.673+0100] {processor.py:157} INFO - Started process (PID=20593) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:02:01.744+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:02:01.746+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:02:01.745+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:02:01.769+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:02:01.809+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:02:01.809+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:02:01.849+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:02:01.848+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:02:01.846102+00:00, run_after=2023-06-21T00:02:01.846102+00:00
+[2023-06-21T01:02:02.091+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.442 seconds
+[2023-06-21T01:03:22.319+0100] {processor.py:157} INFO - Started process (PID=20636) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:03:22.377+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:03:22.379+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:22.378+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:03:22.400+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:03:22.460+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:22.460+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:03:22.526+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:22.525+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:03:22.525574+00:00, run_after=2023-06-21T00:03:22.525574+00:00
+[2023-06-21T01:03:22.648+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.334 seconds
+[2023-06-21T01:04:37.360+0100] {processor.py:157} INFO - Started process (PID=20673) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:04:40.371+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:04:40.375+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:04:40.374+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:04:40.442+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:04:40.487+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:04:40.487+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:04:40.518+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:04:40.518+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:04:40.518290+00:00, run_after=2023-06-21T00:04:40.518290+00:00
+[2023-06-21T01:05:01.748+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 24.403 seconds
+[2023-06-21T01:06:48.594+0100] {processor.py:157} INFO - Started process (PID=20741) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:06:48.699+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:06:48.702+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:48.701+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:06:48.756+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:06:48.877+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:48.877+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:06:48.946+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:48.946+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:06:48.945836+00:00, run_after=2023-06-21T00:06:48.945836+00:00
+[2023-06-21T01:06:49.043+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.462 seconds
+[2023-06-21T01:08:13.313+0100] {processor.py:157} INFO - Started process (PID=20777) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:08:13.400+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:08:13.403+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:13.403+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:08:13.449+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:08:13.561+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:13.561+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:08:13.593+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:13.592+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:08:13.592638+00:00, run_after=2023-06-21T00:08:13.592638+00:00
+[2023-06-21T01:08:13.691+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.393 seconds
+[2023-06-21T01:10:03.567+0100] {processor.py:157} INFO - Started process (PID=20856) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:10:03.612+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:10:03.616+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:03.615+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:10:03.685+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:10:03.788+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:03.788+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:10:03.828+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:03.828+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:10:03.828118+00:00, run_after=2023-06-21T00:10:03.828118+00:00
+[2023-06-21T01:10:04.119+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.562 seconds
+[2023-06-21T01:11:50.257+0100] {processor.py:157} INFO - Started process (PID=20923) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:11:50.318+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:11:50.320+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:11:50.319+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:11:50.348+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:11:50.412+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:11:50.412+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:11:50.452+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:11:50.452+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:11:50.452209+00:00, run_after=2023-06-21T00:11:50.452209+00:00
+[2023-06-21T01:11:50.606+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.358 seconds
+[2023-06-21T01:13:24.457+0100] {processor.py:157} INFO - Started process (PID=20983) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:13:24.505+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:13:24.508+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:13:24.508+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:13:24.529+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:13:24.560+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:13:24.559+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:13:24.585+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:13:24.585+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:13:24.585557+00:00, run_after=2023-06-21T00:13:24.585557+00:00
+[2023-06-21T01:13:24.640+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2023-06-21T01:15:41.003+0100] {processor.py:157} INFO - Started process (PID=21051) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:15:41.006+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:15:41.010+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:15:41.009+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:15:41.037+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:15:41.099+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:15:41.099+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:15:41.139+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:15:41.138+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:15:41.138332+00:00, run_after=2023-06-21T00:15:41.138332+00:00
+[2023-06-21T01:15:41.223+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.235 seconds
+[2023-06-21T01:17:14.052+0100] {processor.py:157} INFO - Started process (PID=21094) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:17:14.056+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:17:14.060+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:14.057+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:17:14.085+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:17:14.130+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:14.129+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:17:14.172+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:14.171+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:17:14.171399+00:00, run_after=2023-06-21T00:17:14.171399+00:00
+[2023-06-21T01:17:14.407+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.372 seconds
+[2023-06-21T01:18:27.923+0100] {processor.py:157} INFO - Started process (PID=21151) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:18:27.930+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:18:27.930+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:18:27.930+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:18:27.941+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:18:28.000+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:18:27.999+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:18:28.076+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:18:28.075+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:18:28.075537+00:00, run_after=2023-06-21T00:18:28.075537+00:00
+[2023-06-21T01:18:28.530+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.610 seconds
+[2023-06-21T01:19:43.059+0100] {processor.py:157} INFO - Started process (PID=21210) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:19:43.082+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:19:43.084+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:43.084+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:19:43.096+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:19:43.135+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:43.135+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:19:43.178+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:43.177+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:19:43.177510+00:00, run_after=2023-06-21T00:19:43.177510+00:00
+[2023-06-21T01:19:43.246+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.200 seconds
+[2023-06-21T01:21:38.793+0100] {processor.py:157} INFO - Started process (PID=21270) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:21:38.810+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:21:38.811+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:21:38.811+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:21:38.820+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:21:38.849+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:21:38.848+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:21:38.876+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:21:38.876+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:21:38.875881+00:00, run_after=2023-06-21T00:21:38.875881+00:00
+[2023-06-21T01:21:39.337+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.554 seconds
+[2023-06-21T01:22:55.021+0100] {processor.py:157} INFO - Started process (PID=21315) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:22:55.159+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:22:55.162+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:55.162+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:22:55.199+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:22:55.321+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:55.321+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:22:55.367+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:55.367+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:22:55.366969+00:00, run_after=2023-06-21T00:22:55.366969+00:00
+[2023-06-21T01:22:55.520+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.520 seconds
+[2023-06-21T01:24:31.564+0100] {processor.py:157} INFO - Started process (PID=21422) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:24:31.577+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:24:31.579+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:24:31.578+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:24:31.612+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:24:31.670+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:24:31.670+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:24:31.702+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:24:31.701+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:24:31.701537+00:00, run_after=2023-06-21T00:24:31.701537+00:00
+[2023-06-21T01:24:31.763+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.220 seconds
+[2023-06-21T01:25:32.717+0100] {processor.py:157} INFO - Started process (PID=21647) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:25:33.004+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:25:33.008+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:33.007+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:25:33.061+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:25:33.194+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:33.193+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:25:33.237+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:33.237+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:25:33.236785+00:00, run_after=2023-06-21T00:25:33.236785+00:00
+[2023-06-21T01:25:33.499+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.794 seconds
+[2023-06-21T01:27:05.195+0100] {processor.py:157} INFO - Started process (PID=21710) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:27:05.297+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:27:05.300+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:27:05.299+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:27:05.327+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:27:05.388+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:27:05.388+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:27:05.438+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:27:05.438+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:27:05.438075+00:00, run_after=2023-06-21T00:27:05.438075+00:00
+[2023-06-21T01:27:05.558+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.372 seconds
+[2023-06-21T01:28:51.630+0100] {processor.py:157} INFO - Started process (PID=21824) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:28:51.641+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:28:51.643+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:51.643+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:28:51.668+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:28:51.732+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:51.731+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:28:51.759+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:51.758+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:28:51.758596+00:00, run_after=2023-06-21T00:28:51.758596+00:00
+[2023-06-21T01:28:51.824+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.205 seconds
+[2023-06-21T01:29:49.424+0100] {processor.py:157} INFO - Started process (PID=21874) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:29:49.446+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:29:49.448+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:49.448+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:29:49.471+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:29:49.535+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:49.534+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:29:49.589+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:49.588+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:29:49.588281+00:00, run_after=2023-06-21T00:29:49.588281+00:00
+[2023-06-21T01:29:49.661+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.246 seconds
+[2023-06-21T01:30:44.711+0100] {processor.py:157} INFO - Started process (PID=21923) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:30:44.719+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:30:44.721+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:44.720+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:30:44.751+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:30:44.827+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:44.826+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:30:44.892+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:44.892+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:30:44.891772+00:00, run_after=2023-06-21T00:30:44.891772+00:00
+[2023-06-21T01:30:44.965+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.265 seconds
+[2023-06-21T01:31:47.886+0100] {processor.py:157} INFO - Started process (PID=21976) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:31:47.891+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:31:47.894+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:47.894+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:31:47.922+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:31:47.990+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:47.990+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:31:48.031+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:48.031+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:31:48.031133+00:00, run_after=2023-06-21T00:31:48.031133+00:00
+[2023-06-21T01:31:48.088+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.217 seconds
+[2023-06-21T01:32:45.848+0100] {processor.py:157} INFO - Started process (PID=22030) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:32:45.865+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:32:45.868+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:45.867+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:32:45.911+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:32:45.939+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:45.939+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:32:45.961+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:45.960+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:32:45.960588+00:00, run_after=2023-06-21T00:32:45.960588+00:00
+[2023-06-21T01:32:46.099+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.272 seconds
+[2023-06-21T01:33:41.881+0100] {processor.py:157} INFO - Started process (PID=22138) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:33:41.895+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:33:41.897+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:41.897+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:33:41.921+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:33:42.036+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:42.035+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:33:42.118+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:42.118+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:33:42.118413+00:00, run_after=2023-06-21T00:33:42.118413+00:00
+[2023-06-21T01:33:42.175+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.313 seconds
+[2023-06-21T01:34:35.659+0100] {processor.py:157} INFO - Started process (PID=22326) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:34:35.803+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:34:35.805+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:35.804+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:34:35.824+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:34:35.881+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:35.881+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:34:35.923+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:35.923+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:34:35.922899+00:00, run_after=2023-06-21T00:34:35.922899+00:00
+[2023-06-21T01:34:36.022+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.372 seconds
+[2023-06-21T01:35:28.568+0100] {processor.py:157} INFO - Started process (PID=22504) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:35:28.572+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:35:28.574+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:28.573+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:35:28.594+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:35:28.729+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:28.727+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:35:28.804+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:28.803+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:35:28.803424+00:00, run_after=2023-06-21T00:35:28.803424+00:00
+[2023-06-21T01:35:28.866+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.306 seconds
+[2023-06-21T01:36:25.307+0100] {processor.py:157} INFO - Started process (PID=22734) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:36:25.311+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:36:25.313+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:25.313+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:36:25.336+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:36:25.456+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:25.456+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:36:25.519+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:25.519+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:36:25.518740+00:00, run_after=2023-06-21T00:36:25.518740+00:00
+[2023-06-21T01:36:25.583+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.287 seconds
+[2023-06-21T01:37:21.280+0100] {processor.py:157} INFO - Started process (PID=22932) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:37:21.288+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:37:21.289+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:21.289+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:37:21.314+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:37:21.398+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:21.395+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:37:21.453+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:21.453+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:37:21.452872+00:00, run_after=2023-06-21T00:37:21.452872+00:00
+[2023-06-21T01:37:21.530+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.256 seconds
+[2023-06-21T01:38:18.867+0100] {processor.py:157} INFO - Started process (PID=23194) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:38:18.871+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:38:18.875+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:18.874+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:38:18.895+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:38:18.977+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:18.977+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:38:19.053+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:19.053+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:38:19.052521+00:00, run_after=2023-06-21T00:38:19.052521+00:00
+[2023-06-21T01:38:19.133+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.281 seconds
+[2023-06-21T01:39:13.957+0100] {processor.py:157} INFO - Started process (PID=23298) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:39:13.961+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:39:13.962+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:13.962+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:39:13.973+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:39:14.001+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:14.001+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:39:14.035+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:14.035+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:39:14.034905+00:00, run_after=2023-06-21T00:39:14.034905+00:00
+[2023-06-21T01:39:14.081+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.131 seconds
+[2023-06-21T01:40:06.281+0100] {processor.py:157} INFO - Started process (PID=23354) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:40:06.285+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:40:06.287+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:06.287+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:40:06.330+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:40:06.385+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:06.385+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:40:06.423+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:06.422+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:40:06.422232+00:00, run_after=2023-06-21T00:40:06.422232+00:00
+[2023-06-21T01:40:06.463+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.194 seconds
+[2023-06-21T01:40:58.137+0100] {processor.py:157} INFO - Started process (PID=23404) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:40:58.143+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-06-21T01:40:58.145+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:58.144+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:40:58.162+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-06-21T01:40:58.218+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:58.218+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:40:58.271+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:58.271+0100] {dag.py:3486} INFO - Setting next_dagrun for example_skip_dag to 2023-06-20T00:40:58.270938+00:00, run_after=2023-06-21T00:40:58.270938+00:00
+[2023-06-21T01:40:58.335+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.206 seconds

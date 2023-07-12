@@ -1,0 +1,527 @@
+[2023-07-12T04:27:09.356+0100] {processor.py:157} INFO - Started process (PID=797) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:27:09.359+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:27:09.362+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:09.361+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:27:09.374+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:09.372+0100] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-07-12T04:27:09.375+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:09.374+0100] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-07-12T04:27:09.376+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:27:09.413+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.067 seconds
+[2023-07-12T04:28:08.342+0100] {processor.py:157} INFO - Started process (PID=851) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:28:08.345+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:28:08.348+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:08.347+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:28:08.358+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:08.356+0100] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-07-12T04:28:08.358+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:08.358+0100] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-07-12T04:28:08.359+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:28:08.388+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.056 seconds
+[2023-07-12T04:31:14.775+0100] {processor.py:157} INFO - Started process (PID=986) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:31:14.776+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:31:14.777+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:14.777+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:31:14.781+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:14.780+0100] {example_local_kubernetes_executor.py:39} WARNING - Could not import DAGs in example_local_kubernetes_executor.py
+Traceback (most recent call last):
+  File "/home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py", line 37, in <module>
+    from kubernetes.client import models as k8s
+ModuleNotFoundError: No module named 'kubernetes'
+[2023-07-12T04:31:14.781+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:31:14.781+0100] {example_local_kubernetes_executor.py:40} WARNING - Install Kubernetes dependencies with: pip install apache-airflow[cncf.kubernetes]
+[2023-07-12T04:31:14.781+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:31:14.794+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.023 seconds
+[2023-07-12T04:32:25.176+0100] {processor.py:157} INFO - Started process (PID=1050) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:32:25.186+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:32:25.191+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:25.189+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:32:25.683+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:32:25.883+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:25.883+0100] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_local_kubernetes_executor
+[2023-07-12T04:32:25.912+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:25.912+0100] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_local_kubernetes_executor
+[2023-07-12T04:32:25.990+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:25.989+0100] {manager.py:504} INFO - Created Permission View: can read on DAG:example_local_kubernetes_executor
+[2023-07-12T04:32:26.063+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:26.060+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:32:26.115+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:26.114+0100] {dag.py:2763} INFO - Creating ORM DAG for example_local_kubernetes_executor
+[2023-07-12T04:32:26.159+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:26.159+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:32:26.319+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.155 seconds
+[2023-07-12T04:33:33.474+0100] {processor.py:157} INFO - Started process (PID=1130) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:33:33.478+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:33:33.485+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:33.483+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:33:33.824+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:33:34.063+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:34.063+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:33:34.170+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:34.170+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:33:34.276+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.841 seconds
+[2023-07-12T04:34:28.459+0100] {processor.py:157} INFO - Started process (PID=1237) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:34:28.460+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:34:28.461+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:28.461+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:34:28.677+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:34:28.714+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:28.714+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:34:28.743+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:28.742+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:34:28.777+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.322 seconds
+[2023-07-12T04:35:45.056+0100] {processor.py:157} INFO - Started process (PID=1316) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:35:45.058+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:35:45.059+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:45.059+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:35:45.693+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:35:45.741+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:45.741+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:35:45.775+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:45.774+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:35:45.832+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.781 seconds
+[2023-07-12T04:36:43.656+0100] {processor.py:157} INFO - Started process (PID=1366) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:36:43.658+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:36:43.661+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:43.660+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:36:43.915+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:36:43.943+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:43.943+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:36:43.966+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:43.966+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:36:44.009+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.364 seconds
+[2023-07-12T04:37:50.185+0100] {processor.py:157} INFO - Started process (PID=1414) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:37:50.198+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:37:50.200+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:37:50.199+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:37:51.226+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:37:51.368+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:37:51.368+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:37:51.481+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:37:51.480+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:37:51.875+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.704 seconds
+[2023-07-12T04:39:03.071+0100] {processor.py:157} INFO - Started process (PID=1471) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:39:03.075+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:39:03.080+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:03.078+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:39:03.579+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:39:03.632+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:03.632+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:39:03.670+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:03.670+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:39:03.727+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.675 seconds
+[2023-07-12T04:41:04.098+0100] {processor.py:157} INFO - Started process (PID=1576) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:41:04.109+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:41:04.114+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:41:04.112+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:41:04.427+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:41:04.492+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:41:04.492+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:41:04.541+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:41:04.540+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:41:05.121+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.035 seconds
+[2023-07-12T04:46:09.516+0100] {processor.py:157} INFO - Started process (PID=2034) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:46:09.567+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:46:09.572+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:46:09.570+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:46:11.726+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:46:14.728+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:46:14.727+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:46:14.833+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:46:14.832+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:46:15.734+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 6.235 seconds
+[2023-07-12T04:50:26.750+0100] {processor.py:157} INFO - Started process (PID=2541) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:50:26.765+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:50:26.779+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:26.771+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:50:28.167+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:50:28.356+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:28.356+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:50:28.431+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:28.431+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:50:28.559+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.877 seconds
+[2023-07-12T04:53:03.760+0100] {processor.py:157} INFO - Started process (PID=2663) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:53:03.783+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:53:03.784+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:03.783+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:53:04.215+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:53:04.257+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:04.257+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:53:04.277+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:04.277+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:53:04.566+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.813 seconds
+[2023-07-12T04:55:00.450+0100] {processor.py:157} INFO - Started process (PID=2800) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:55:00.473+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:55:00.478+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:00.476+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:55:01.010+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:55:01.038+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:01.038+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:55:01.055+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:01.055+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:55:01.225+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.791 seconds
+[2023-07-12T04:56:29.858+0100] {processor.py:157} INFO - Started process (PID=2856) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:56:29.956+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:56:29.959+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:56:29.958+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:56:30.625+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:56:30.675+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:56:30.674+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:56:30.696+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:56:30.696+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:56:30.768+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.921 seconds
+[2023-07-12T04:58:04.495+0100] {processor.py:157} INFO - Started process (PID=2925) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:58:04.544+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T04:58:04.547+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:04.546+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:58:05.130+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T04:58:05.201+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:05.200+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:58:05.225+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:05.224+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T04:58:05.446+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.963 seconds
+[2023-07-12T05:00:27.787+0100] {processor.py:157} INFO - Started process (PID=2995) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:00:27.860+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:00:27.862+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:27.861+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:00:28.475+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:00:28.526+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:28.526+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:00:28.570+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:28.570+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:00:28.826+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.051 seconds
+[2023-07-12T05:03:37.963+0100] {processor.py:157} INFO - Started process (PID=3106) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:03:38.006+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:03:38.009+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:03:38.008+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:03:38.533+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:03:38.564+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:03:38.564+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:03:38.592+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:03:38.591+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:03:38.724+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.769 seconds
+[2023-07-12T05:05:17.991+0100] {processor.py:157} INFO - Started process (PID=3173) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:05:18.007+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:05:18.012+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:18.010+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:05:18.780+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:05:18.836+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:18.836+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:05:18.884+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:18.884+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:05:19.026+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.055 seconds
+[2023-07-12T05:06:54.883+0100] {processor.py:157} INFO - Started process (PID=3273) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:06:55.000+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:06:55.002+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:06:55.001+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:06:55.500+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:06:55.533+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:06:55.532+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:06:55.566+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:06:55.566+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:06:56.312+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.437 seconds
+[2023-07-12T05:09:38.089+0100] {processor.py:157} INFO - Started process (PID=3465) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:09:38.111+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:09:38.114+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:38.113+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:09:38.644+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:09:38.669+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:38.668+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:09:38.684+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:38.684+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:09:38.771+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.693 seconds
+[2023-07-12T05:11:39.928+0100] {processor.py:157} INFO - Started process (PID=3530) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:11:40.014+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:11:40.016+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:11:40.015+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:11:40.581+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:11:40.621+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:11:40.621+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:11:40.639+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:11:40.639+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:11:40.775+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.859 seconds
+[2023-07-12T05:13:04.473+0100] {processor.py:157} INFO - Started process (PID=3590) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:13:04.688+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:13:04.690+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:04.689+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:13:05.210+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:13:05.249+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:05.248+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:13:05.272+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:05.271+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:13:05.421+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.960 seconds
+[2023-07-12T05:14:14.567+0100] {processor.py:157} INFO - Started process (PID=3647) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:14:14.609+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:14:14.611+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:14.610+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:14:15.228+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:14:15.266+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:15.265+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:14:15.292+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:15.291+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:14:15.429+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.877 seconds
+[2023-07-12T05:15:31.140+0100] {processor.py:157} INFO - Started process (PID=3700) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:15:31.157+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:15:31.161+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:15:31.160+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:15:31.856+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:15:31.901+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:15:31.900+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:15:31.932+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:15:31.931+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:15:39.847+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 8.718 seconds
+[2023-07-12T05:17:36.877+0100] {processor.py:157} INFO - Started process (PID=3786) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:17:36.996+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:17:37.000+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:36.998+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:17:37.950+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:17:38.012+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:38.012+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:17:38.054+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:38.053+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:17:38.226+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.363 seconds
+[2023-07-12T05:20:09.131+0100] {processor.py:157} INFO - Started process (PID=3877) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:20:09.167+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:20:09.170+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:09.169+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:20:09.714+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:20:09.751+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:09.751+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:20:09.767+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:09.767+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:20:09.805+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.686 seconds
+[2023-07-12T05:22:02.688+0100] {processor.py:157} INFO - Started process (PID=4221) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:22:02.810+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:22:02.812+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:02.811+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:22:03.496+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:22:03.524+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:03.524+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:22:03.550+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:03.550+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:22:03.817+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.134 seconds
+[2023-07-12T05:24:27.951+0100] {processor.py:157} INFO - Started process (PID=4632) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:24:28.146+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:24:28.148+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:28.147+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:24:28.934+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:24:28.964+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:28.964+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:24:28.984+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:28.984+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:24:29.437+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.501 seconds
+[2023-07-12T05:26:28.376+0100] {processor.py:157} INFO - Started process (PID=4768) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:26:28.428+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:26:28.430+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:28.429+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:26:29.300+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:26:29.629+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:29.628+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:26:30.487+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:30.486+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:26:30.756+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 2.397 seconds
+[2023-07-12T05:29:12.957+0100] {processor.py:157} INFO - Started process (PID=4905) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:29:12.997+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:29:13.000+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:12.999+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:29:13.693+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:29:13.737+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:13.737+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:29:13.765+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:13.765+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:29:14.257+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.324 seconds
+[2023-07-12T05:30:49.686+0100] {processor.py:157} INFO - Started process (PID=5060) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:30:49.801+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:30:49.806+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:49.805+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:30:50.406+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:30:50.453+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:50.453+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:30:50.477+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:50.476+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:30:50.561+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.888 seconds
+[2023-07-12T05:32:07.470+0100] {processor.py:157} INFO - Started process (PID=5278) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:32:07.559+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:32:07.561+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:32:07.560+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:32:08.076+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:32:08.112+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:32:08.112+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:32:08.143+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:32:08.143+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:32:08.205+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.745 seconds
+[2023-07-12T05:34:08.510+0100] {processor.py:157} INFO - Started process (PID=5425) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:34:08.582+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:34:08.586+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:34:08.584+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:34:09.113+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:34:09.140+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:34:09.139+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:34:09.161+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:34:09.161+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:34:09.411+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.917 seconds
+[2023-07-12T05:36:18.469+0100] {processor.py:157} INFO - Started process (PID=5659) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:36:18.481+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:36:18.484+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:18.483+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:36:19.073+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:36:19.122+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:19.122+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:36:19.152+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:19.152+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:36:19.210+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.753 seconds
+[2023-07-12T05:37:17.219+0100] {processor.py:157} INFO - Started process (PID=5722) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:37:17.223+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:37:17.225+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:17.224+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:37:17.610+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:37:17.638+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:17.637+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:37:17.665+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:17.665+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:37:17.707+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.494 seconds
+[2023-07-12T05:38:18.286+0100] {processor.py:157} INFO - Started process (PID=5835) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:38:18.294+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:38:18.298+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:18.297+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:38:18.993+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:38:19.026+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:19.025+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:38:19.040+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:19.040+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:38:19.090+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.817 seconds
+[2023-07-12T05:39:47.524+0100] {processor.py:157} INFO - Started process (PID=6033) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:39:47.539+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:39:47.542+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:47.541+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:39:48.135+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:39:48.161+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:48.161+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:39:48.182+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:48.182+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:39:48.227+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.718 seconds
+[2023-07-12T05:40:52.779+0100] {processor.py:157} INFO - Started process (PID=6129) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:40:52.793+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:40:52.795+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:52.795+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:40:53.282+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:40:53.327+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:53.327+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:40:53.360+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:53.360+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:40:53.405+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.634 seconds
+[2023-07-12T05:41:57.025+0100] {processor.py:157} INFO - Started process (PID=6186) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:41:57.041+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:41:57.044+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:57.043+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:41:57.708+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:41:57.752+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:57.752+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:41:57.784+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:57.784+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:41:57.839+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.826 seconds
+[2023-07-12T05:43:01.825+0100] {processor.py:157} INFO - Started process (PID=6235) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:43:01.830+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:43:01.832+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:01.831+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:43:02.439+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:43:02.483+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:02.483+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:43:02.507+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:02.507+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:43:02.551+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.742 seconds
+[2023-07-12T05:44:15.992+0100] {processor.py:157} INFO - Started process (PID=6428) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:44:16.038+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:44:16.041+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:16.040+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:44:16.399+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:44:16.452+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:16.451+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:44:16.492+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:16.492+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:44:16.605+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.627 seconds
+[2023-07-12T05:45:33.758+0100] {processor.py:157} INFO - Started process (PID=6512) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:45:33.763+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:45:33.766+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:33.765+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:45:34.071+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:45:34.107+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:34.106+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:45:34.130+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:34.130+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:45:34.175+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.428 seconds
+[2023-07-12T05:46:35.324+0100] {processor.py:157} INFO - Started process (PID=6561) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:46:35.326+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:46:35.328+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:35.327+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:46:35.761+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:46:35.809+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:35.808+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:46:35.853+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:35.853+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:46:35.909+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.599 seconds
+[2023-07-12T05:47:33.613+0100] {processor.py:157} INFO - Started process (PID=6776) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:47:33.620+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:47:33.623+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:33.622+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:47:33.921+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:47:33.959+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:33.959+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:47:33.978+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:33.977+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:47:34.013+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.420 seconds
+[2023-07-12T05:49:01.795+0100] {processor.py:157} INFO - Started process (PID=6910) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:49:01.799+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:49:01.804+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:01.801+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:49:02.522+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:49:02.553+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:02.553+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:49:02.575+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:02.574+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:49:02.615+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.834 seconds
+[2023-07-12T05:50:07.095+0100] {processor.py:157} INFO - Started process (PID=6966) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:50:07.100+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:50:07.104+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:07.102+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:50:07.403+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:50:07.453+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:07.453+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:50:07.487+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:07.487+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:50:07.555+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.479 seconds
+[2023-07-12T05:51:10.175+0100] {processor.py:157} INFO - Started process (PID=7067) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:51:10.181+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:51:10.187+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:10.185+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:51:10.752+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:51:10.798+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:10.798+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:51:10.836+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:10.835+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:51:10.886+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.725 seconds
+[2023-07-12T05:52:09.701+0100] {processor.py:157} INFO - Started process (PID=7170) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:52:09.706+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:52:09.710+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:09.709+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:52:10.086+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:52:10.117+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:10.116+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:52:10.142+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:10.142+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:52:10.207+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.519 seconds
+[2023-07-12T05:53:13.380+0100] {processor.py:157} INFO - Started process (PID=7222) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:53:13.387+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:53:13.390+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:53:13.389+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:53:13.861+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:53:13.925+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:53:13.925+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:53:13.958+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:53:13.957+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:53:14.016+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.650 seconds
+[2023-07-12T05:54:17.689+0100] {processor.py:157} INFO - Started process (PID=7274) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:54:17.693+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:54:17.696+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:17.695+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:54:18.078+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:54:18.134+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:18.134+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:54:18.159+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:18.159+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:54:18.205+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.523 seconds
+[2023-07-12T05:55:22.952+0100] {processor.py:157} INFO - Started process (PID=7330) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:55:22.956+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:55:22.958+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:22.957+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:55:23.365+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:55:23.400+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:23.400+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:55:23.419+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:23.419+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:55:23.468+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.525 seconds
+[2023-07-12T05:56:30.673+0100] {processor.py:157} INFO - Started process (PID=7382) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:56:30.678+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:56:30.682+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:30.680+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:56:31.109+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:56:31.143+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:31.142+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:56:31.160+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:31.159+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:56:31.208+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.550 seconds
+[2023-07-12T05:57:31.834+0100] {processor.py:157} INFO - Started process (PID=7434) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:57:31.838+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:57:31.841+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:31.840+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:57:32.187+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:57:32.248+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:32.247+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:57:32.274+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:32.273+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:57:32.324+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.500 seconds
+[2023-07-12T05:58:29.269+0100] {processor.py:157} INFO - Started process (PID=7484) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:58:29.321+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:58:29.325+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:29.324+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:58:29.673+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:58:29.727+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:29.726+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:58:29.755+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:29.755+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:58:30.029+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.776 seconds
+[2023-07-12T05:59:57.552+0100] {processor.py:157} INFO - Started process (PID=7580) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:59:57.554+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T05:59:57.556+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:57.556+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:59:57.776+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T05:59:57.814+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:57.814+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:59:57.858+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:57.857+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T05:59:57.909+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.365 seconds
+[2023-07-12T06:00:57.773+0100] {processor.py:157} INFO - Started process (PID=7699) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T06:00:57.779+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T06:00:57.782+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:57.781+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T06:00:58.192+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T06:00:58.247+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:58.247+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T06:00:58.269+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:58.269+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T06:00:58.303+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.543 seconds
+[2023-07-12T15:16:07.278+0100] {processor.py:157} INFO - Started process (PID=7971) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:16:07.303+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:16:07.304+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:07.304+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:16:07.565+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:16:07.607+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:07.607+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:16:07.629+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:07.629+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:16:11.059+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 3.786 seconds
+[2023-07-12T15:18:45.646+0100] {processor.py:157} INFO - Started process (PID=8259) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:18:45.672+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:18:45.675+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:45.674+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:18:45.980+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:18:46.023+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:46.022+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:18:46.056+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:46.055+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:18:46.198+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.558 seconds
+[2023-07-12T15:20:16.388+0100] {processor.py:157} INFO - Started process (PID=8461) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:20:16.452+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:20:16.459+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:16.456+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:20:17.079+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:20:17.127+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:17.126+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:20:17.147+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:17.147+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:20:17.217+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.842 seconds
+[2023-07-12T15:21:49.271+0100] {processor.py:157} INFO - Started process (PID=8662) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:21:49.387+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:21:49.393+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:21:49.391+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:21:49.811+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:21:49.866+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:21:49.865+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:21:49.907+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:21:49.907+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:21:50.322+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.067 seconds
+[2023-07-12T15:23:34.987+0100] {processor.py:157} INFO - Started process (PID=8897) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:23:34.995+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:23:35.002+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:23:35.000+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:23:35.519+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:23:35.570+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:23:35.570+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:23:35.613+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:23:35.612+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:23:35.722+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.754 seconds
+[2023-07-12T15:24:47.816+0100] {processor.py:157} INFO - Started process (PID=9064) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:24:48.006+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:24:48.008+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:48.007+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:24:48.853+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:24:48.892+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:48.892+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:24:48.922+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:48.922+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:24:49.039+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.234 seconds
+[2023-07-12T15:26:20.329+0100] {processor.py:157} INFO - Started process (PID=9278) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:26:20.437+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:26:20.441+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:20.440+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:26:20.849+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:26:20.904+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:20.904+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:26:20.933+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:20.933+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:26:21.390+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.087 seconds
+[2023-07-12T15:29:03.428+0100] {processor.py:157} INFO - Started process (PID=9648) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:29:03.526+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:29:03.530+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:03.528+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:29:03.897+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:29:03.930+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:03.929+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:29:03.953+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:03.953+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:29:04.023+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.607 seconds
+[2023-07-12T15:30:11.253+0100] {processor.py:157} INFO - Started process (PID=9824) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:30:11.300+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:30:11.304+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:11.302+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:30:11.589+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:30:11.612+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:11.612+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:30:11.625+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:11.625+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:30:11.751+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.510 seconds
+[2023-07-12T15:31:17.183+0100] {processor.py:157} INFO - Started process (PID=10037) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:31:17.300+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:31:17.303+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:17.302+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:31:17.578+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:31:17.610+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:17.610+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:31:17.630+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:17.630+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:31:17.804+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.637 seconds
+[2023-07-12T15:32:40.157+0100] {processor.py:157} INFO - Started process (PID=10413) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:32:40.190+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:32:40.198+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:32:40.193+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:32:40.652+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:32:40.695+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:32:40.695+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:32:40.727+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:32:40.726+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:32:40.854+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.712 seconds
+[2023-07-12T15:34:18.785+0100] {processor.py:157} INFO - Started process (PID=10870) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:34:18.788+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:34:18.790+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:34:18.789+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:34:19.585+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:34:42.937+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:34:42.936+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:34:43.041+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:34:43.041+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:34:43.468+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 24.695 seconds
+[2023-07-12T15:37:30.844+0100] {processor.py:157} INFO - Started process (PID=11379) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:37:30.853+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:37:30.856+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:30.855+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:37:31.272+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:37:31.300+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:31.300+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:37:31.323+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:31.323+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:37:31.430+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 0.598 seconds
+[2023-07-12T15:39:21.145+0100] {processor.py:157} INFO - Started process (PID=11816) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:39:21.259+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:39:21.261+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:21.260+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:39:21.639+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:39:21.675+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:21.674+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:39:21.706+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:21.704+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:39:22.375+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.240 seconds
+[2023-07-12T15:42:30.698+0100] {processor.py:157} INFO - Started process (PID=12428) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:42:30.812+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py for tasks to queue
+[2023-07-12T15:42:30.814+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:30.813+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:42:31.264+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_local_kubernetes_executor']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py
+[2023-07-12T15:42:31.636+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:31.636+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:42:31.680+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:31.680+0100] {dag.py:3504} INFO - Setting next_dagrun for example_local_kubernetes_executor to None, run_after=None
+[2023-07-12T15:42:31.783+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py took 1.094 seconds

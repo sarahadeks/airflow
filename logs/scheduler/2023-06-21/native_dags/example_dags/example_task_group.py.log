@@ -1,0 +1,224 @@
+[2023-06-21T01:00:56.081+0100] {processor.py:157} INFO - Started process (PID=20554) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:00:56.082+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:00:56.083+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:00:56.082+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:00:56.099+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:00:56.138+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:00:56.138+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:00:56.173+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:00:56.173+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:00:56.173461+00:00, run_after=2023-06-21T00:00:56.173461+00:00
+[2023-06-21T01:00:56.344+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.269 seconds
+[2023-06-21T01:02:03.268+0100] {processor.py:157} INFO - Started process (PID=20594) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:02:03.337+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:02:03.339+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:02:03.339+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:02:03.361+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:02:03.406+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:02:03.406+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:02:03.462+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:02:03.462+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:02:03.462003+00:00, run_after=2023-06-21T00:02:03.462003+00:00
+[2023-06-21T01:02:03.628+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.365 seconds
+[2023-06-21T01:03:23.614+0100] {processor.py:157} INFO - Started process (PID=20637) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:03:23.694+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:03:23.695+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:23.695+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:03:23.716+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:03:23.765+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:23.764+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:03:23.807+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:23.806+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:03:23.806386+00:00, run_after=2023-06-21T00:03:23.806386+00:00
+[2023-06-21T01:03:23.911+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.305 seconds
+[2023-06-21T01:05:03.010+0100] {processor.py:157} INFO - Started process (PID=20674) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:05:03.088+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:05:03.089+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:05:03.089+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:05:03.113+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:05:03.209+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:05:03.209+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:05:03.317+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:05:03.317+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:05:03.316848+00:00, run_after=2023-06-21T00:05:03.316848+00:00
+[2023-06-21T01:05:03.622+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.625 seconds
+[2023-06-21T01:06:50.242+0100] {processor.py:157} INFO - Started process (PID=20742) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:06:50.359+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:06:50.362+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:50.361+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:06:50.487+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:06:50.590+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:50.590+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:06:50.660+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:50.660+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:06:50.660275+00:00, run_after=2023-06-21T00:06:50.660275+00:00
+[2023-06-21T01:06:51.131+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.901 seconds
+[2023-06-21T01:08:15.491+0100] {processor.py:157} INFO - Started process (PID=20791) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:08:15.499+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:08:15.503+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:15.502+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:08:15.555+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:08:15.624+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:15.623+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:08:15.696+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:15.696+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:08:15.694562+00:00, run_after=2023-06-21T00:08:15.694562+00:00
+[2023-06-21T01:08:15.821+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.343 seconds
+[2023-06-21T01:10:05.266+0100] {processor.py:157} INFO - Started process (PID=20857) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:10:05.397+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:10:05.398+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:05.398+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:10:05.414+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:10:05.447+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:05.447+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:10:05.483+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:05.482+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:10:05.482639+00:00, run_after=2023-06-21T00:10:05.482639+00:00
+[2023-06-21T01:10:05.664+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.405 seconds
+[2023-06-21T01:11:51.762+0100] {processor.py:157} INFO - Started process (PID=20924) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:11:51.911+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:11:51.914+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:11:51.913+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:11:51.939+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:11:52.047+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:11:52.046+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:11:52.138+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:11:52.137+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:11:52.137090+00:00, run_after=2023-06-21T00:11:52.137090+00:00
+[2023-06-21T01:12:03.077+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 11.329 seconds
+[2023-06-21T01:13:25.325+0100] {processor.py:157} INFO - Started process (PID=20984) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:13:25.348+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:13:25.350+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:13:25.349+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:13:25.400+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:13:25.467+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:13:25.466+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:13:25.523+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:13:25.523+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:13:25.523467+00:00, run_after=2023-06-21T00:13:25.523467+00:00
+[2023-06-21T01:13:25.608+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.298 seconds
+[2023-06-21T01:15:42.419+0100] {processor.py:157} INFO - Started process (PID=21052) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:15:42.551+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:15:42.552+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:15:42.552+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:15:42.576+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:15:42.645+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:15:42.644+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:15:42.720+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:15:42.720+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:15:42.718983+00:00, run_after=2023-06-21T00:15:42.718983+00:00
+[2023-06-21T01:15:46.494+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 4.080 seconds
+[2023-06-21T01:17:15.597+0100] {processor.py:157} INFO - Started process (PID=21095) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:17:15.600+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:17:15.601+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:15.601+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:17:15.647+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:17:15.708+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:15.708+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:17:15.771+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:15.771+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:17:15.770674+00:00, run_after=2023-06-21T00:17:15.770674+00:00
+[2023-06-21T01:17:16.159+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.580 seconds
+[2023-06-21T01:18:29.859+0100] {processor.py:157} INFO - Started process (PID=21152) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:18:29.863+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:18:29.864+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:18:29.864+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:18:29.886+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:18:29.975+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:18:29.975+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:18:30.032+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:18:30.032+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:18:30.032150+00:00, run_after=2023-06-21T00:18:30.032150+00:00
+[2023-06-21T01:18:30.135+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.295 seconds
+[2023-06-21T01:19:44.787+0100] {processor.py:157} INFO - Started process (PID=21211) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:19:44.901+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:19:44.904+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:44.903+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:19:45.017+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:19:45.089+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:45.089+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:19:45.132+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:45.131+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:19:45.131376+00:00, run_after=2023-06-21T00:19:45.131376+00:00
+[2023-06-21T01:19:45.441+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.681 seconds
+[2023-06-21T01:21:40.542+0100] {processor.py:157} INFO - Started process (PID=21271) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:21:40.567+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:21:40.569+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:21:40.569+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:21:40.604+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:21:40.662+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:21:40.662+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:21:40.701+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:21:40.701+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:21:40.700614+00:00, run_after=2023-06-21T00:21:40.700614+00:00
+[2023-06-21T01:21:40.880+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.349 seconds
+[2023-06-21T01:22:56.687+0100] {processor.py:157} INFO - Started process (PID=21316) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:22:56.752+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:22:56.756+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:56.755+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:22:56.804+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:22:56.940+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:56.940+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:22:57.015+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:57.015+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:22:57.014815+00:00, run_after=2023-06-21T00:22:57.014815+00:00
+[2023-06-21T01:22:57.114+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.438 seconds
+[2023-06-21T01:24:32.982+0100] {processor.py:157} INFO - Started process (PID=21423) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:24:32.992+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:24:32.994+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:24:32.993+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:24:33.020+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:24:33.097+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:24:33.097+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:24:33.146+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:24:33.146+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:24:33.146152+00:00, run_after=2023-06-21T00:24:33.146152+00:00
+[2023-06-21T01:24:33.249+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.283 seconds
+[2023-06-21T01:25:34.721+0100] {processor.py:157} INFO - Started process (PID=21648) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:25:34.735+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:25:34.736+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:34.736+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:25:34.760+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:25:34.830+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:34.830+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:25:34.872+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:34.872+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:25:34.872231+00:00, run_after=2023-06-21T00:25:34.872231+00:00
+[2023-06-21T01:25:34.927+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.235 seconds
+[2023-06-21T01:27:06.672+0100] {processor.py:157} INFO - Started process (PID=21711) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:27:06.925+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:27:06.929+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:27:06.928+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:27:06.993+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:27:07.108+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:27:07.108+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:27:07.165+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:27:07.165+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:27:07.165103+00:00, run_after=2023-06-21T00:27:07.165103+00:00
+[2023-06-21T01:27:08.013+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 1.350 seconds
+[2023-06-21T01:28:53.167+0100] {processor.py:157} INFO - Started process (PID=21825) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:28:53.179+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:28:53.181+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:53.180+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:28:53.202+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:28:53.253+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:53.253+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:28:53.296+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:53.296+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:28:53.296116+00:00, run_after=2023-06-21T00:28:53.296116+00:00
+[2023-06-21T01:28:53.353+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.194 seconds
+[2023-06-21T01:29:50.138+0100] {processor.py:157} INFO - Started process (PID=21875) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:29:50.146+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:29:50.147+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:50.147+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:29:50.158+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:29:50.187+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:50.186+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:29:50.228+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:50.228+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:29:50.227790+00:00, run_after=2023-06-21T00:29:50.227790+00:00
+[2023-06-21T01:29:50.331+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.198 seconds
+[2023-06-21T01:30:45.836+0100] {processor.py:157} INFO - Started process (PID=21924) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:30:45.849+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:30:45.851+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:45.851+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:30:45.877+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:30:45.941+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:45.940+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:30:45.991+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:45.990+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:30:45.989774+00:00, run_after=2023-06-21T00:30:45.989774+00:00
+[2023-06-21T01:30:46.066+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.242 seconds
+[2023-06-21T01:31:49.323+0100] {processor.py:157} INFO - Started process (PID=21977) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:31:49.332+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:31:49.334+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:49.333+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:31:49.358+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:31:49.421+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:49.420+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:31:49.473+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:49.473+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:31:49.472700+00:00, run_after=2023-06-21T00:31:49.472700+00:00
+[2023-06-21T01:31:49.575+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.261 seconds
+[2023-06-21T01:32:47.217+0100] {processor.py:157} INFO - Started process (PID=22031) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:32:47.223+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:32:47.225+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:47.224+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:32:47.264+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:32:47.331+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:47.331+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:32:47.374+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:47.374+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:32:47.373129+00:00, run_after=2023-06-21T00:32:47.373129+00:00
+[2023-06-21T01:32:47.433+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.227 seconds
+[2023-06-21T01:33:43.361+0100] {processor.py:157} INFO - Started process (PID=22139) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:33:43.379+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:33:43.380+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:43.380+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:33:43.407+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:33:43.460+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:43.460+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:33:43.515+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:43.515+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:33:43.514816+00:00, run_after=2023-06-21T00:33:43.514816+00:00
+[2023-06-21T01:33:43.632+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.279 seconds
+[2023-06-21T01:34:36.413+0100] {processor.py:157} INFO - Started process (PID=22345) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:34:36.514+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:34:36.516+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:36.516+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:34:36.542+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:34:36.604+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:36.603+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:34:36.639+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:36.639+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:34:36.638943+00:00, run_after=2023-06-21T00:34:36.638943+00:00
+[2023-06-21T01:34:36.713+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.311 seconds
+[2023-06-21T01:35:30.058+0100] {processor.py:157} INFO - Started process (PID=22505) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:35:30.062+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:35:30.064+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:30.064+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:35:30.089+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:35:30.146+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:30.146+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:35:30.191+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:30.191+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:35:30.190862+00:00, run_after=2023-06-21T00:35:30.190862+00:00
+[2023-06-21T01:35:30.244+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.196 seconds
+[2023-06-21T01:36:26.678+0100] {processor.py:157} INFO - Started process (PID=22735) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:36:26.679+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:36:26.681+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:26.680+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:36:26.695+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:36:26.734+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:26.734+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:36:26.762+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:26.762+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:36:26.762575+00:00, run_after=2023-06-21T00:36:26.762575+00:00
+[2023-06-21T01:36:26.800+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.127 seconds
+[2023-06-21T01:37:22.771+0100] {processor.py:157} INFO - Started process (PID=22945) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:37:22.781+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:37:22.782+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:22.782+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:37:22.808+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:37:22.926+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:22.922+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:37:23.037+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:23.036+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:37:23.036270+00:00, run_after=2023-06-21T00:37:23.036270+00:00
+[2023-06-21T01:37:23.150+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.395 seconds
+[2023-06-21T01:38:20.014+0100] {processor.py:157} INFO - Started process (PID=23202) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:38:20.018+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:38:20.021+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:20.020+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:38:20.046+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:38:20.101+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:20.101+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:38:20.143+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:20.143+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:38:20.143183+00:00, run_after=2023-06-21T00:38:20.143183+00:00
+[2023-06-21T01:38:20.177+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.171 seconds
+[2023-06-21T01:39:15.357+0100] {processor.py:157} INFO - Started process (PID=23299) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:39:15.369+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:39:15.371+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:15.370+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:39:15.390+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:39:15.445+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:15.444+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:39:15.502+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:15.501+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:39:15.501132+00:00, run_after=2023-06-21T00:39:15.501132+00:00
+[2023-06-21T01:39:15.547+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.209 seconds
+[2023-06-21T01:40:07.716+0100] {processor.py:157} INFO - Started process (PID=23355) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:40:07.723+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:40:07.725+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:07.725+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:40:07.767+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:40:07.835+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:07.835+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:40:07.880+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:07.880+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:40:07.880283+00:00, run_after=2023-06-21T00:40:07.880283+00:00
+[2023-06-21T01:40:07.920+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.215 seconds
+[2023-06-21T01:40:59.191+0100] {processor.py:157} INFO - Started process (PID=23405) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:40:59.195+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-06-21T01:40:59.199+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:59.199+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:40:59.227+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-06-21T01:40:59.290+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:59.290+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:40:59.326+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:59.326+0100] {dag.py:3486} INFO - Setting next_dagrun for example_task_group to 2023-06-20T00:40:59.326262+00:00, run_after=2023-06-21T00:40:59.326262+00:00
+[2023-06-21T01:40:59.372+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.192 seconds

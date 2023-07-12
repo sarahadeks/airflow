@@ -1,0 +1,770 @@
+[2023-06-20T21:30:04.728+0100] {processor.py:157} INFO - Started process (PID=969) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:30:04.729+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:30:04.729+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:30:04.729+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:30:04.731+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:30:04.755+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.035 seconds
+[2023-06-20T21:31:13.905+0100] {processor.py:157} INFO - Started process (PID=1018) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:31:13.982+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:31:13.984+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:31:13.984+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:31:13.990+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:31:14.012+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.110 seconds
+[2023-06-20T21:33:01.428+0100] {processor.py:157} INFO - Started process (PID=1095) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:33:01.494+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:33:01.496+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:33:01.496+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:33:01.501+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:33:01.524+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.098 seconds
+[2023-06-20T21:33:59.220+0100] {processor.py:157} INFO - Started process (PID=1145) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:33:59.357+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:33:59.358+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:33:59.358+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:33:59.361+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:33:59.377+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.167 seconds
+[2023-06-20T21:35:42.572+0100] {processor.py:157} INFO - Started process (PID=1204) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:35:42.878+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:35:42.881+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:35:42.880+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:35:42.888+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:35:42.917+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.349 seconds
+[2023-06-20T21:37:21.075+0100] {processor.py:157} INFO - Started process (PID=1271) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:37:21.238+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:37:21.239+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:37:21.238+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:37:21.240+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:37:21.252+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.179 seconds
+[2023-06-20T21:38:20.087+0100] {processor.py:157} INFO - Started process (PID=1317) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:38:20.159+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:38:20.163+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:38:20.162+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:38:20.169+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:38:20.754+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.671 seconds
+[2023-06-20T21:40:31.168+0100] {processor.py:157} INFO - Started process (PID=1378) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:40:31.457+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:40:31.458+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:40:31.458+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:40:31.459+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:40:31.468+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.302 seconds
+[2023-06-20T21:43:14.992+0100] {processor.py:157} INFO - Started process (PID=1454) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:43:15.131+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:43:15.133+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:43:15.132+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:43:15.136+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:43:15.144+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.157 seconds
+[2023-06-20T21:44:56.633+0100] {processor.py:157} INFO - Started process (PID=1500) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:44:58.618+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:44:58.620+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:44:58.620+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:44:58.623+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:44:58.632+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 2.001 seconds
+[2023-06-20T21:46:20.697+0100] {processor.py:157} INFO - Started process (PID=1563) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:46:20.698+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:46:20.699+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:46:20.699+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:46:20.701+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:46:20.710+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-20T21:47:36.818+0100] {processor.py:157} INFO - Started process (PID=1617) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:47:36.906+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:47:36.908+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:47:36.908+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:47:36.913+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:47:36.956+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.147 seconds
+[2023-06-20T21:49:26.608+0100] {processor.py:157} INFO - Started process (PID=1679) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:49:26.709+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:49:26.711+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:49:26.711+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:49:26.717+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:49:26.751+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.152 seconds
+[2023-06-20T21:53:52.132+0100] {processor.py:157} INFO - Started process (PID=2042) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:53:52.893+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:53:52.898+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:53:52.896+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:53:52.909+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:53:52.982+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.862 seconds
+[2023-06-20T21:55:04.169+0100] {processor.py:157} INFO - Started process (PID=2101) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:55:04.277+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:55:04.279+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:55:04.278+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:55:04.284+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:55:04.317+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.156 seconds
+[2023-06-20T21:56:09.842+0100] {processor.py:157} INFO - Started process (PID=2158) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:56:09.859+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:56:09.861+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:56:09.860+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:56:09.865+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:56:09.892+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.063 seconds
+[2023-06-20T21:58:16.157+0100] {processor.py:157} INFO - Started process (PID=2222) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:58:16.269+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:58:16.273+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:58:16.272+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:58:16.281+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:58:16.336+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.192 seconds
+[2023-06-20T21:59:40.357+0100] {processor.py:157} INFO - Started process (PID=2284) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:59:40.388+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T21:59:40.390+0100] {logging_mixin.py:149} INFO - [2023-06-20T21:59:40.390+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:59:40.394+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T21:59:40.424+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.074 seconds
+[2023-06-20T22:01:04.180+0100] {processor.py:157} INFO - Started process (PID=2356) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:01:04.976+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:01:04.979+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:01:04.978+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:01:04.985+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:01:05.040+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.871 seconds
+[2023-06-20T22:02:28.374+0100] {processor.py:157} INFO - Started process (PID=2550) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:02:28.436+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:02:28.438+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:02:28.437+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:02:28.443+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:02:28.475+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.114 seconds
+[2023-06-20T22:04:10.374+0100] {processor.py:157} INFO - Started process (PID=2611) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:04:10.402+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:04:10.404+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:04:10.403+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:04:10.409+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:04:10.450+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.082 seconds
+[2023-06-20T22:05:50.225+0100] {processor.py:157} INFO - Started process (PID=2743) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:05:50.235+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:05:50.237+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:05:50.236+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:05:50.244+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:05:50.299+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.083 seconds
+[2023-06-20T22:08:27.334+0100] {processor.py:157} INFO - Started process (PID=2808) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:08:27.383+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:08:27.386+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:08:27.385+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:08:27.393+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:08:27.453+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.123 seconds
+[2023-06-20T22:10:52.171+0100] {processor.py:157} INFO - Started process (PID=2874) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:10:52.287+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:10:52.288+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:10:52.288+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:10:52.291+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:10:52.314+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.147 seconds
+[2023-06-20T22:12:55.258+0100] {processor.py:157} INFO - Started process (PID=2944) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:12:55.298+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:12:55.301+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:12:55.300+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:12:55.307+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:12:55.344+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.097 seconds
+[2023-06-20T22:14:50.429+0100] {processor.py:157} INFO - Started process (PID=3011) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:14:50.470+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:14:50.472+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:14:50.471+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:14:50.479+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:14:50.513+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.094 seconds
+[2023-06-20T22:16:28.338+0100] {processor.py:157} INFO - Started process (PID=3083) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:16:28.426+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:16:28.428+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:16:28.428+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:16:28.433+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:16:28.476+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.148 seconds
+[2023-06-20T22:17:21.735+0100] {processor.py:157} INFO - Started process (PID=3256) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:17:21.747+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:17:21.748+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:17:21.748+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:17:21.750+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:17:21.759+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.029 seconds
+[2023-06-20T22:18:18.837+0100] {processor.py:157} INFO - Started process (PID=3558) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:18:18.850+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:18:18.852+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:18:18.851+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:18:18.855+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:18:18.886+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.057 seconds
+[2023-06-20T22:19:17.441+0100] {processor.py:157} INFO - Started process (PID=3868) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:19:17.452+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:19:17.453+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:19:17.453+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:19:17.456+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:19:17.475+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.038 seconds
+[2023-06-20T22:20:24.395+0100] {processor.py:157} INFO - Started process (PID=4206) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:20:24.406+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:20:24.406+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:20:24.406+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:20:24.408+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:20:24.420+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.032 seconds
+[2023-06-20T22:21:16.415+0100] {processor.py:157} INFO - Started process (PID=4480) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:21:16.425+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:21:16.426+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:21:16.426+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:21:16.428+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:21:16.441+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.030 seconds
+[2023-06-20T22:22:09.733+0100] {processor.py:157} INFO - Started process (PID=4750) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:22:10.632+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:22:10.633+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:22:10.633+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:22:10.636+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:22:10.661+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.937 seconds
+[2023-06-20T22:23:14.814+0100] {processor.py:157} INFO - Started process (PID=5077) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:23:14.819+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:23:14.820+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:23:14.820+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:23:14.821+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:23:14.833+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-20T22:24:25.728+0100] {processor.py:157} INFO - Started process (PID=5445) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:24:25.738+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:24:25.740+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:24:25.739+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:24:25.743+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:24:25.762+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.040 seconds
+[2023-06-20T22:25:21.437+0100] {processor.py:157} INFO - Started process (PID=5734) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:25:39.346+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:25:39.348+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:25:39.347+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:25:39.351+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:25:39.395+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 17.966 seconds
+[2023-06-20T22:26:35.319+0100] {processor.py:157} INFO - Started process (PID=6100) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:26:35.321+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:26:35.322+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:26:35.322+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:26:35.324+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:26:35.336+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-20T22:27:22.506+0100] {processor.py:157} INFO - Started process (PID=6347) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:27:22.507+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:27:22.508+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:27:22.508+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:27:22.510+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:27:22.520+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.018 seconds
+[2023-06-20T22:28:26.801+0100] {processor.py:157} INFO - Started process (PID=6680) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:28:26.803+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:28:26.804+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:28:26.804+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:28:26.806+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:28:26.818+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-20T22:29:31.528+0100] {processor.py:157} INFO - Started process (PID=7017) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:29:31.530+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:29:31.531+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:29:31.531+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:29:31.534+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:29:31.551+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.031 seconds
+[2023-06-20T22:30:39.110+0100] {processor.py:157} INFO - Started process (PID=7369) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:30:39.113+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:30:39.114+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:30:39.115+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:30:39.119+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:30:39.135+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.040 seconds
+[2023-06-20T22:31:52.735+0100] {processor.py:157} INFO - Started process (PID=7679) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:31:52.852+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:31:52.853+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:31:52.853+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:31:52.862+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:31:52.902+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.172 seconds
+[2023-06-20T22:34:38.728+0100] {processor.py:157} INFO - Started process (PID=7748) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:34:38.804+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:34:38.805+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:34:38.805+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:34:38.809+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:34:38.832+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.115 seconds
+[2023-06-20T22:37:02.638+0100] {processor.py:157} INFO - Started process (PID=7817) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:37:02.707+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:37:02.707+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:37:02.707+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:37:02.708+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:37:02.717+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.083 seconds
+[2023-06-20T22:39:03.821+0100] {processor.py:157} INFO - Started process (PID=7882) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:39:03.910+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:39:03.910+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:39:03.910+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:39:03.912+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:39:03.922+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.104 seconds
+[2023-06-20T22:40:02.306+0100] {processor.py:157} INFO - Started process (PID=7931) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:40:02.313+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:40:02.314+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:40:02.314+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:40:02.316+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:40:02.326+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-20T22:41:04.085+0100] {processor.py:157} INFO - Started process (PID=7983) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:41:04.570+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:41:04.573+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:41:04.572+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:41:04.578+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:41:04.600+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.520 seconds
+[2023-06-20T22:43:58.377+0100] {processor.py:157} INFO - Started process (PID=8067) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:43:58.392+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:43:58.393+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:43:58.392+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:43:58.395+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:43:58.422+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.048 seconds
+[2023-06-20T22:45:40.226+0100] {processor.py:157} INFO - Started process (PID=8114) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:45:40.486+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:45:40.487+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:45:40.487+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:45:40.489+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:45:40.503+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.279 seconds
+[2023-06-20T22:47:24.867+0100] {processor.py:157} INFO - Started process (PID=8174) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:47:24.898+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:47:24.898+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:47:24.898+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:47:24.901+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:47:24.915+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.051 seconds
+[2023-06-20T22:48:40.125+0100] {processor.py:157} INFO - Started process (PID=8233) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:48:40.232+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:48:40.233+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:48:40.233+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:48:40.238+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:48:40.265+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.143 seconds
+[2023-06-20T22:49:40.658+0100] {processor.py:157} INFO - Started process (PID=8282) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:49:40.931+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:49:40.934+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:49:40.934+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:49:40.941+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:49:40.970+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.317 seconds
+[2023-06-20T22:51:36.569+0100] {processor.py:157} INFO - Started process (PID=8343) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:51:36.686+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:51:36.688+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:51:36.687+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:51:36.692+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:51:36.717+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.151 seconds
+[2023-06-20T22:52:45.247+0100] {processor.py:157} INFO - Started process (PID=8471) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:52:45.270+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:52:45.270+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:52:45.270+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:52:45.272+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:52:45.283+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.040 seconds
+[2023-06-20T22:54:40.313+0100] {processor.py:157} INFO - Started process (PID=8524) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:54:40.374+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:54:40.375+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:54:40.375+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:54:40.378+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:54:40.394+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.085 seconds
+[2023-06-20T22:56:07.750+0100] {processor.py:157} INFO - Started process (PID=8590) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:56:07.759+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:56:07.760+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:56:07.760+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:56:07.761+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:56:07.769+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-20T22:57:32.986+0100] {processor.py:157} INFO - Started process (PID=8756) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:57:33.077+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:57:33.078+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:57:33.078+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:57:33.081+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:57:33.094+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.112 seconds
+[2023-06-20T22:58:36.208+0100] {processor.py:157} INFO - Started process (PID=8810) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:58:38.032+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T22:58:38.033+0100] {logging_mixin.py:149} INFO - [2023-06-20T22:58:38.032+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:58:38.035+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T22:58:38.046+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 1.841 seconds
+[2023-06-20T23:00:00.376+0100] {processor.py:157} INFO - Started process (PID=8931) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:00:00.472+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:00:00.474+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:00:00.473+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:00:00.477+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:00:00.498+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.126 seconds
+[2023-06-20T23:01:53.700+0100] {processor.py:157} INFO - Started process (PID=9048) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:01:53.821+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:01:53.822+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:01:53.822+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:01:53.826+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:01:53.846+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.151 seconds
+[2023-06-20T23:03:38.234+0100] {processor.py:157} INFO - Started process (PID=9116) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:03:38.298+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:03:38.299+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:03:38.299+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:03:38.302+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:03:38.318+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.087 seconds
+[2023-06-20T23:05:56.108+0100] {processor.py:157} INFO - Started process (PID=9274) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:05:57.811+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:05:57.812+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:05:57.812+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:05:57.814+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:05:57.830+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 1.725 seconds
+[2023-06-20T23:07:41.920+0100] {processor.py:157} INFO - Started process (PID=9677) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:07:42.013+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:07:42.014+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:07:42.014+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:07:42.015+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:07:42.029+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.112 seconds
+[2023-06-20T23:09:37.574+0100] {processor.py:157} INFO - Started process (PID=9932) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:09:37.669+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:09:37.671+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:09:37.671+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:09:37.677+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:09:37.708+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.137 seconds
+[2023-06-20T23:11:28.693+0100] {processor.py:157} INFO - Started process (PID=10001) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:11:28.715+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:11:28.716+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:11:28.716+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:11:28.718+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:11:28.730+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.043 seconds
+[2023-06-20T23:12:49.831+0100] {processor.py:157} INFO - Started process (PID=10217) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:12:49.846+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:12:49.846+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:12:49.846+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:12:49.848+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:12:49.859+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.030 seconds
+[2023-06-20T23:14:25.501+0100] {processor.py:157} INFO - Started process (PID=10396) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:14:25.515+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:14:25.516+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:14:25.516+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:14:25.519+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:14:25.537+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.041 seconds
+[2023-06-20T23:16:45.923+0100] {processor.py:157} INFO - Started process (PID=10720) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:16:46.011+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:16:46.012+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:16:46.012+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:16:46.017+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:16:46.051+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.133 seconds
+[2023-06-20T23:17:57.729+0100] {processor.py:157} INFO - Started process (PID=10978) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:17:57.784+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:17:57.785+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:17:57.785+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:17:57.787+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:17:57.803+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.084 seconds
+[2023-06-20T23:19:54.797+0100] {processor.py:157} INFO - Started process (PID=11040) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:19:56.353+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:19:56.354+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:19:56.354+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:19:56.355+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:19:56.365+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 1.573 seconds
+[2023-06-20T23:21:51.996+0100] {processor.py:157} INFO - Started process (PID=11113) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:21:52.074+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:21:52.075+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:21:52.075+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:21:52.078+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:21:52.097+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.104 seconds
+[2023-06-20T23:23:27.217+0100] {processor.py:157} INFO - Started process (PID=11168) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:23:27.289+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:23:27.290+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:23:27.290+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:23:27.292+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:23:27.318+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.105 seconds
+[2023-06-20T23:25:58.094+0100] {processor.py:157} INFO - Started process (PID=11240) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:25:58.192+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:25:58.194+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:25:58.193+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:25:58.197+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:25:58.205+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.114 seconds
+[2023-06-20T23:26:51.346+0100] {processor.py:157} INFO - Started process (PID=11481) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:26:51.448+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:26:51.450+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:26:51.449+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:26:51.454+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:26:51.475+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.132 seconds
+[2023-06-20T23:27:47.335+0100] {processor.py:157} INFO - Started process (PID=11525) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:27:47.578+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:27:47.580+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:27:47.580+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:27:47.581+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:27:47.592+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.260 seconds
+[2023-06-20T23:29:01.788+0100] {processor.py:157} INFO - Started process (PID=11617) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:29:01.861+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:29:01.863+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:29:01.862+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:29:01.867+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:29:01.891+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.105 seconds
+[2023-06-20T23:30:58.825+0100] {processor.py:157} INFO - Started process (PID=12133) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:30:58.829+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:30:58.829+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:30:58.829+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:30:58.831+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:30:58.840+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.018 seconds
+[2023-06-20T23:31:58.890+0100] {processor.py:157} INFO - Started process (PID=12186) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:31:58.978+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:31:58.980+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:31:58.980+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:31:58.985+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:31:59.002+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.115 seconds
+[2023-06-20T23:33:29.117+0100] {processor.py:157} INFO - Started process (PID=12238) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:33:29.232+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:33:29.234+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:33:29.233+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:33:29.240+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:33:29.269+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.157 seconds
+[2023-06-20T23:34:18.687+0100] {processor.py:157} INFO - Started process (PID=12287) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:34:18.692+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:34:18.693+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:34:18.693+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:34:18.695+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:34:18.709+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.027 seconds
+[2023-06-20T23:35:17.891+0100] {processor.py:157} INFO - Started process (PID=12348) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:35:17.898+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:35:17.899+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:35:17.899+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:35:17.901+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:35:17.912+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-20T23:36:16.991+0100] {processor.py:157} INFO - Started process (PID=12405) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:36:16.999+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:36:17.000+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:36:17.000+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:36:17.002+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:36:17.013+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.026 seconds
+[2023-06-20T23:37:12.939+0100] {processor.py:157} INFO - Started process (PID=12466) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:37:12.949+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:37:12.950+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:37:12.950+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:37:12.952+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:37:12.965+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.030 seconds
+[2023-06-20T23:38:04.073+0100] {processor.py:157} INFO - Started process (PID=12543) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:38:04.081+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:38:04.083+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:38:04.082+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:38:04.090+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:38:04.111+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.048 seconds
+[2023-06-20T23:39:13.491+0100] {processor.py:157} INFO - Started process (PID=12685) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:39:13.493+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:39:13.495+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:39:13.494+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:39:13.497+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:39:13.511+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.026 seconds
+[2023-06-20T23:40:16.857+0100] {processor.py:157} INFO - Started process (PID=12828) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:40:16.871+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:40:16.873+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:40:16.873+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:40:16.876+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:40:16.894+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.041 seconds
+[2023-06-20T23:41:08.266+0100] {processor.py:157} INFO - Started process (PID=12873) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:41:08.285+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:41:08.286+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:41:08.286+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:41:08.287+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:41:08.297+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.033 seconds
+[2023-06-20T23:42:11.037+0100] {processor.py:157} INFO - Started process (PID=12973) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:42:11.054+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:42:11.055+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:42:11.054+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:42:11.057+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:42:11.096+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.064 seconds
+[2023-06-20T23:43:31.528+0100] {processor.py:157} INFO - Started process (PID=13034) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:43:31.529+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:43:31.530+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:43:31.530+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:43:31.531+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:43:31.544+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.019 seconds
+[2023-06-20T23:44:25.853+0100] {processor.py:157} INFO - Started process (PID=13121) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:44:25.854+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:44:25.855+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:44:25.855+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:44:25.856+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:44:25.866+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-20T23:45:28.813+0100] {processor.py:157} INFO - Started process (PID=13186) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:45:28.815+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:45:28.816+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:45:28.816+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:45:28.818+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:45:28.830+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-20T23:46:38.402+0100] {processor.py:157} INFO - Started process (PID=13273) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:46:38.404+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:46:38.406+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:46:38.406+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:46:38.409+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:46:38.426+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.030 seconds
+[2023-06-20T23:47:26.811+0100] {processor.py:157} INFO - Started process (PID=13394) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:47:26.813+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:47:26.813+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:47:26.813+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:47:26.814+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:47:26.823+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-20T23:48:19.905+0100] {processor.py:157} INFO - Started process (PID=13688) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:48:19.914+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:48:19.916+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:48:19.916+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:48:19.919+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:48:19.937+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.040 seconds
+[2023-06-20T23:49:16.939+0100] {processor.py:157} INFO - Started process (PID=13975) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:49:16.942+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:49:16.943+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:49:16.943+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:49:16.946+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:49:16.964+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.045 seconds
+[2023-06-20T23:50:14.650+0100] {processor.py:157} INFO - Started process (PID=14276) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:50:14.651+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:50:14.652+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:50:14.652+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:50:14.654+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:50:14.664+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.017 seconds
+[2023-06-20T23:51:11.514+0100] {processor.py:157} INFO - Started process (PID=14573) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:51:11.608+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:51:11.610+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:51:11.610+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:51:11.617+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:51:11.657+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.149 seconds
+[2023-06-20T23:52:09.210+0100] {processor.py:157} INFO - Started process (PID=14919) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:52:09.214+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:52:09.215+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:52:09.215+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:52:09.218+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:52:09.242+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.041 seconds
+[2023-06-20T23:53:26.424+0100] {processor.py:157} INFO - Started process (PID=15309) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:53:26.425+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:53:26.426+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:53:26.426+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:53:26.428+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:53:26.442+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-20T23:54:21.009+0100] {processor.py:157} INFO - Started process (PID=15589) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:54:21.032+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:54:21.032+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:54:21.032+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:54:21.034+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:54:21.048+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.044 seconds
+[2023-06-20T23:55:26.358+0100] {processor.py:157} INFO - Started process (PID=15928) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:55:26.463+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:55:26.464+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:55:26.464+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:55:26.467+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:55:26.502+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.148 seconds
+[2023-06-20T23:56:21.026+0100] {processor.py:157} INFO - Started process (PID=16214) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:56:21.028+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:56:21.029+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:56:21.029+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:56:21.032+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:56:21.044+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-20T23:57:17.120+0100] {processor.py:157} INFO - Started process (PID=16517) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:57:17.121+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:57:17.122+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:57:17.122+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:57:17.124+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:57:17.139+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-20T23:58:22.559+0100] {processor.py:157} INFO - Started process (PID=16869) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:58:22.560+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:58:22.561+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:58:22.561+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:58:22.563+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:58:22.576+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-20T23:59:19.090+0100] {processor.py:157} INFO - Started process (PID=17158) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:59:19.098+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-20T23:59:19.099+0100] {logging_mixin.py:149} INFO - [2023-06-20T23:59:19.099+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:59:19.101+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-20T23:59:19.120+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.037 seconds
+[2023-06-21T00:00:28.461+0100] {processor.py:157} INFO - Started process (PID=17322) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:00:28.867+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:00:28.868+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:00:28.868+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:00:28.870+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:00:28.881+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.425 seconds
+[2023-06-21T00:01:19.783+0100] {processor.py:157} INFO - Started process (PID=17385) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:01:19.785+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:01:19.786+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:01:19.786+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:01:19.788+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:01:19.808+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.032 seconds
+[2023-06-21T00:02:10.545+0100] {processor.py:157} INFO - Started process (PID=17448) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:02:10.547+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:02:10.549+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:02:10.548+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:02:10.551+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:02:10.567+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.026 seconds
+[2023-06-21T00:03:02.510+0100] {processor.py:157} INFO - Started process (PID=17508) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:03:02.512+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:03:02.512+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:03:02.512+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:03:02.514+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:03:02.525+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.019 seconds
+[2023-06-21T00:03:58.389+0100] {processor.py:157} INFO - Started process (PID=17573) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:03:58.395+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:03:58.396+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:03:58.396+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:03:58.398+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:03:58.411+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.028 seconds
+[2023-06-21T00:04:46.481+0100] {processor.py:157} INFO - Started process (PID=17633) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:04:46.483+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:04:46.483+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:04:46.483+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:04:46.485+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:04:46.498+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-06-21T00:05:33.485+0100] {processor.py:157} INFO - Started process (PID=17693) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:05:33.490+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:05:33.491+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:05:33.491+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:05:33.493+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:05:33.511+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.029 seconds
+[2023-06-21T00:06:23.278+0100] {processor.py:157} INFO - Started process (PID=17748) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:06:23.279+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:06:23.279+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:06:23.279+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:06:23.281+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:06:23.289+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:07:17.884+0100] {processor.py:157} INFO - Started process (PID=17807) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:07:17.887+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:07:17.889+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:07:17.889+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:07:17.893+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:07:17.921+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.046 seconds
+[2023-06-21T00:08:12.600+0100] {processor.py:157} INFO - Started process (PID=17862) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:08:12.601+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:08:12.602+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:08:12.602+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:08:12.604+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:08:12.616+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.021 seconds
+[2023-06-21T00:09:06.729+0100] {processor.py:157} INFO - Started process (PID=17920) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:09:06.730+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:09:06.731+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:09:06.731+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:09:06.732+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:09:06.741+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:09:58.552+0100] {processor.py:157} INFO - Started process (PID=17975) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:09:58.553+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:09:58.554+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:09:58.554+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:09:58.555+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:09:58.566+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-21T00:10:47.060+0100] {processor.py:157} INFO - Started process (PID=18029) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:10:47.062+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:10:47.065+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:10:47.064+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:10:47.068+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:10:47.081+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.025 seconds
+[2023-06-21T00:11:41.746+0100] {processor.py:157} INFO - Started process (PID=18085) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:11:41.748+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:11:41.748+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:11:41.748+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:11:41.749+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:11:41.760+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-21T00:12:35.747+0100] {processor.py:157} INFO - Started process (PID=18144) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:12:35.765+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:12:35.766+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:12:35.766+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:12:35.769+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:12:35.786+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.044 seconds
+[2023-06-21T00:13:23.923+0100] {processor.py:157} INFO - Started process (PID=18194) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:13:23.924+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:13:23.925+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:13:23.925+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:13:23.926+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:13:23.935+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:14:13.896+0100] {processor.py:157} INFO - Started process (PID=18247) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:14:13.897+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:14:13.898+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:14:13.898+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:14:13.899+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:14:13.908+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:15:03.380+0100] {processor.py:157} INFO - Started process (PID=18302) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:15:03.382+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:15:03.383+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:15:03.383+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:15:03.384+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:15:03.396+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.019 seconds
+[2023-06-21T00:15:50.708+0100] {processor.py:157} INFO - Started process (PID=18348) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:15:50.709+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:15:50.710+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:15:50.709+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:15:50.711+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:15:50.720+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:16:42.411+0100] {processor.py:157} INFO - Started process (PID=18403) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:16:42.412+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:16:42.413+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:16:42.413+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:16:42.415+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:16:42.426+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.020 seconds
+[2023-06-21T00:17:28.070+0100] {processor.py:157} INFO - Started process (PID=18456) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:17:28.071+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:17:28.072+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:17:28.072+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:17:28.073+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:17:28.082+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:18:15.847+0100] {processor.py:157} INFO - Started process (PID=18507) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:18:15.848+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:18:15.849+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:18:15.849+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:18:15.850+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:18:15.859+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:19:01.533+0100] {processor.py:157} INFO - Started process (PID=18557) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:19:01.535+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:19:01.536+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:19:01.536+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:19:01.538+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:19:01.550+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-21T00:19:48.370+0100] {processor.py:157} INFO - Started process (PID=18611) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:19:48.372+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:19:48.373+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:19:48.372+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:19:48.374+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:19:48.389+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.022 seconds
+[2023-06-21T00:20:33.198+0100] {processor.py:157} INFO - Started process (PID=18660) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:20:33.199+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:20:33.200+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:20:33.200+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:20:33.202+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:20:33.211+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.015 seconds
+[2023-06-21T00:21:16.477+0100] {processor.py:157} INFO - Started process (PID=18708) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:21:16.479+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:21:16.480+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:21:16.480+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:21:16.482+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:21:16.494+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.023 seconds
+[2023-06-21T00:22:03.044+0100] {processor.py:157} INFO - Started process (PID=18759) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:22:03.045+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:22:03.046+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:22:03.045+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:22:03.047+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:22:03.057+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.016 seconds
+[2023-06-21T00:22:51.085+0100] {processor.py:157} INFO - Started process (PID=18812) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:22:51.086+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:22:51.087+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:22:51.086+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:22:51.088+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:22:51.097+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:23:37.976+0100] {processor.py:157} INFO - Started process (PID=18863) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:23:37.977+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:23:37.978+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:23:37.978+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:23:37.979+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:23:37.988+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.014 seconds
+[2023-06-21T00:24:35.372+0100] {processor.py:157} INFO - Started process (PID=18916) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:24:35.376+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:24:35.378+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:24:35.377+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:24:35.383+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:24:35.419+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.057 seconds
+[2023-06-21T00:25:25.731+0100] {processor.py:157} INFO - Started process (PID=18963) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:25:25.735+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:25:25.737+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:25:25.736+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:25:25.742+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:25:25.778+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.057 seconds
+[2023-06-21T00:26:17.801+0100] {processor.py:157} INFO - Started process (PID=19008) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:26:17.834+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:26:17.845+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:26:17.837+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:26:17.855+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:26:17.894+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.109 seconds
+[2023-06-21T00:27:09.657+0100] {processor.py:157} INFO - Started process (PID=19054) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:27:09.663+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:27:09.665+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:27:09.664+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:27:09.669+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:27:09.714+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.068 seconds
+[2023-06-21T00:29:03.150+0100] {processor.py:157} INFO - Started process (PID=19119) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:29:03.279+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:29:03.281+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:29:03.281+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:29:03.287+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:29:03.321+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.180 seconds
+[2023-06-21T00:30:17.164+0100] {processor.py:157} INFO - Started process (PID=19212) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:30:17.226+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:30:17.227+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:30:17.227+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:30:17.233+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:30:17.289+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.139 seconds
+[2023-06-21T00:32:29.386+0100] {processor.py:157} INFO - Started process (PID=19275) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:32:29.546+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:32:29.547+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:32:29.547+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:32:29.552+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:32:29.589+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.208 seconds
+[2023-06-21T00:34:42.687+0100] {processor.py:157} INFO - Started process (PID=19620) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:34:42.714+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:34:42.717+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:34:42.716+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:34:42.721+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:34:42.754+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.081 seconds
+[2023-06-21T00:36:30.803+0100] {processor.py:157} INFO - Started process (PID=19679) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:36:30.917+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:36:30.920+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:36:30.920+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:36:30.927+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:36:30.968+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.183 seconds
+[2023-06-21T00:38:08.000+0100] {processor.py:157} INFO - Started process (PID=19745) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:38:08.031+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:38:08.035+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:38:08.034+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:38:08.051+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:38:08.106+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.125 seconds
+[2023-06-21T00:40:10.303+0100] {processor.py:157} INFO - Started process (PID=19789) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:40:10.327+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:40:10.331+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:40:10.330+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:40:10.349+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:40:10.442+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.161 seconds
+[2023-06-21T00:42:34.512+0100] {processor.py:157} INFO - Started process (PID=19875) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:42:35.707+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:42:35.711+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:42:35.710+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:42:35.719+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:42:35.770+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 1.267 seconds
+[2023-06-21T00:44:33.720+0100] {processor.py:157} INFO - Started process (PID=19963) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:44:33.907+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:44:33.908+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:44:33.908+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:44:33.916+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:44:33.955+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.249 seconds
+[2023-06-21T00:46:41.958+0100] {processor.py:157} INFO - Started process (PID=20047) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:46:42.074+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:46:42.076+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:46:42.075+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:46:42.079+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:46:42.103+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.153 seconds
+[2023-06-21T00:48:39.851+0100] {processor.py:157} INFO - Started process (PID=20110) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:48:39.885+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:48:39.887+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:48:39.887+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:48:39.894+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:48:39.924+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.082 seconds
+[2023-06-21T00:52:07.459+0100] {processor.py:157} INFO - Started process (PID=20196) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:52:07.493+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:52:07.494+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:52:07.494+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:52:07.497+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:52:07.515+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.061 seconds
+[2023-06-21T00:54:00.267+0100] {processor.py:157} INFO - Started process (PID=20288) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:54:00.349+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:54:00.350+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:54:00.350+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:54:00.353+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:54:00.376+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.113 seconds
+[2023-06-21T00:55:35.271+0100] {processor.py:157} INFO - Started process (PID=20353) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:55:35.285+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:55:35.287+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:55:35.286+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:55:35.292+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:55:35.330+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.071 seconds
+[2023-06-21T00:57:29.520+0100] {processor.py:157} INFO - Started process (PID=20424) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:57:29.552+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:57:29.555+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:57:29.554+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:57:29.561+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:57:29.590+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.078 seconds
+[2023-06-21T00:59:19.539+0100] {processor.py:157} INFO - Started process (PID=20493) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:59:19.644+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-06-21T00:59:19.645+0100] {logging_mixin.py:149} INFO - [2023-06-21T00:59:19.645+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:59:19.647+0100] {processor.py:838} WARNING - No viable dags retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-06-21T00:59:19.666+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.143 seconds

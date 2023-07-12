@@ -1,0 +1,49 @@
+[2023-07-12T15:35:02.393+0100] {processor.py:157} INFO - Started process (PID=10990) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:35:02.396+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py for tasks to queue
+[2023-07-12T15:35:02.401+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:02.400+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:35:02.432+0100] {processor.py:836} INFO - DAG(s) dict_keys(['podcast_summary']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:35:02.682+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:02.682+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:35:02.718+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:02.718+0100] {dag.py:3504} INFO - Setting next_dagrun for podcast_summary to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T15:35:02.799+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py took 0.414 seconds
+[2023-07-12T15:36:30.512+0100] {processor.py:157} INFO - Started process (PID=11255) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:36:30.560+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py for tasks to queue
+[2023-07-12T15:36:30.566+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:36:30.564+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:36:30.659+0100] {processor.py:836} INFO - DAG(s) dict_keys(['podcast_summary']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:36:30.737+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:36:30.737+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:36:30.771+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:36:30.771+0100] {dag.py:3504} INFO - Setting next_dagrun for podcast_summary to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T15:36:31.921+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py took 1.425 seconds
+[2023-07-12T15:37:34.162+0100] {processor.py:157} INFO - Started process (PID=11381) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:37:34.187+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py for tasks to queue
+[2023-07-12T15:37:34.196+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:34.191+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:37:34.244+0100] {processor.py:836} INFO - DAG(s) dict_keys(['podcast_summary']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:37:34.572+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:34.571+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:37:34.615+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:34.615+0100] {dag.py:3504} INFO - Setting next_dagrun for podcast_summary to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T15:37:34.978+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py took 0.828 seconds
+[2023-07-12T15:38:29.830+0100] {processor.py:157} INFO - Started process (PID=11595) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:38:29.902+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py for tasks to queue
+[2023-07-12T15:38:29.906+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:38:29.904+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:38:29.949+0100] {processor.py:836} INFO - DAG(s) dict_keys(['podcast_summary']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:38:30.011+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:38:30.011+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:38:30.112+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:38:30.112+0100] {dag.py:3504} INFO - Setting next_dagrun for podcast_summary to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T15:38:30.664+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py took 0.849 seconds
+[2023-07-12T15:39:25.080+0100] {processor.py:157} INFO - Started process (PID=11842) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:39:25.122+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py for tasks to queue
+[2023-07-12T15:39:25.124+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:25.124+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:39:25.154+0100] {processor.py:836} INFO - DAG(s) dict_keys(['podcast_summary']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:39:25.509+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:25.509+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:39:25.550+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:25.550+0100] {dag.py:3504} INFO - Setting next_dagrun for podcast_summary to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T15:39:25.643+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py took 0.577 seconds
+[2023-07-12T15:40:24.001+0100] {processor.py:157} INFO - Started process (PID=12123) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:40:24.118+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py for tasks to queue
+[2023-07-12T15:40:24.120+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:40:24.119+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:40:24.146+0100] {processor.py:836} INFO - DAG(s) dict_keys(['podcast_summary']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:40:24.184+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:40:24.183+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:40:24.237+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:40:24.236+0100] {dag.py:3504} INFO - Setting next_dagrun for podcast_summary to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T15:40:24.390+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py took 0.398 seconds
+[2023-07-12T15:42:34.706+0100] {processor.py:157} INFO - Started process (PID=12430) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:42:34.757+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py for tasks to queue
+[2023-07-12T15:42:34.760+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:34.759+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:42:34.799+0100] {processor.py:836} INFO - DAG(s) dict_keys(['podcast_summary']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py
+[2023-07-12T15:42:35.113+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:35.113+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:42:35.160+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:42:35.160+0100] {dag.py:3504} INFO - Setting next_dagrun for podcast_summary to 2023-07-11T00:00:00+00:00, run_after=2023-07-12T00:00:00+00:00
+[2023-07-12T15:42:35.259+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/podcast_summary.py took 0.567 seconds

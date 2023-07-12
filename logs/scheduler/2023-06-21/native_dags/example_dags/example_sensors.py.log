@@ -1,0 +1,203 @@
+[2023-06-21T01:01:01.115+0100] {processor.py:157} INFO - Started process (PID=20558) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:01:01.116+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:01:01.118+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:01:01.117+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:01:01.133+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:01:02.453+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:01:02.452+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:01:03.411+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:01:03.409+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:01:04.423+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 3.325 seconds
+[2023-06-21T01:03:26.437+0100] {processor.py:157} INFO - Started process (PID=20639) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:03:26.465+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:03:26.466+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:26.466+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:03:26.486+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:03:26.555+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:26.555+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:03:26.600+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:03:26.600+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:03:26.903+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.480 seconds
+[2023-06-21T01:06:04.944+0100] {processor.py:157} INFO - Started process (PID=20710) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:06:04.972+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:06:04.973+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:04.973+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:06:04.994+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:06:05.040+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:05.039+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:06:05.075+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:06:05.075+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:06:05.164+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.225 seconds
+[2023-06-21T01:08:21.523+0100] {processor.py:157} INFO - Started process (PID=20795) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:08:21.527+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:08:21.531+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:21.531+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:08:21.583+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:08:21.676+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:21.675+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:08:21.765+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:08:21.764+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:08:22.383+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.873 seconds
+[2023-06-21T01:10:12.750+0100] {processor.py:157} INFO - Started process (PID=20862) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:10:12.754+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:10:12.755+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:12.755+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:10:12.799+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:10:12.830+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:12.829+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:10:12.862+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:10:12.861+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:10:13.008+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.263 seconds
+[2023-06-21T01:12:36.648+0100] {processor.py:157} INFO - Started process (PID=20943) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:12:36.682+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:12:36.684+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:12:36.684+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:12:36.724+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:12:36.793+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:12:36.793+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:12:36.848+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:12:36.847+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:12:37.413+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.774 seconds
+[2023-06-21T01:14:36.846+0100] {processor.py:157} INFO - Started process (PID=21017) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:14:36.860+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:14:36.861+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:14:36.861+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:14:36.887+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:14:36.930+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:14:36.929+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:14:36.969+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:14:36.969+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:14:37.294+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.464 seconds
+[2023-06-21T01:16:32.772+0100] {processor.py:157} INFO - Started process (PID=21062) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:16:32.799+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:16:32.801+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:16:32.800+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:16:32.853+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:16:32.926+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:16:32.925+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:16:32.992+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:16:32.991+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:16:33.074+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.306 seconds
+[2023-06-21T01:17:49.346+0100] {processor.py:157} INFO - Started process (PID=21121) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:17:49.390+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:17:49.393+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:49.393+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:17:49.422+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:17:49.457+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:49.457+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:17:49.480+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:17:49.480+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:17:49.523+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.194 seconds
+[2023-06-21T01:19:06.723+0100] {processor.py:157} INFO - Started process (PID=21180) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:19:06.784+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:19:06.785+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:06.785+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:19:06.797+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:19:06.827+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:06.827+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:19:06.863+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:19:06.863+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:19:07.208+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.500 seconds
+[2023-06-21T01:20:35.144+0100] {processor.py:157} INFO - Started process (PID=21238) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:20:35.224+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:20:35.225+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:20:35.225+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:20:35.256+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:20:35.328+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:20:35.328+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:20:35.423+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:20:35.423+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:20:35.529+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.399 seconds
+[2023-06-21T01:22:04.430+0100] {processor.py:157} INFO - Started process (PID=21281) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:22:04.464+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:22:04.467+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:04.466+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:22:04.500+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:22:04.571+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:04.571+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:22:04.599+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:22:04.599+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:22:04.654+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.233 seconds
+[2023-06-21T01:23:48.664+0100] {processor.py:157} INFO - Started process (PID=21344) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:23:48.671+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:23:48.673+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:23:48.672+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:23:48.699+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:23:48.773+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:23:48.773+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:23:48.826+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:23:48.826+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:23:49.094+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.436 seconds
+[2023-06-21T01:25:00.576+0100] {processor.py:157} INFO - Started process (PID=21577) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:25:00.587+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:25:00.590+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:00.589+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:25:00.619+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:25:00.702+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:00.701+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:25:00.777+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:25:00.777+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:25:00.856+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.294 seconds
+[2023-06-21T01:26:13.927+0100] {processor.py:157} INFO - Started process (PID=21678) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:26:13.929+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:26:13.935+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:26:13.934+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:26:13.958+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:26:14.021+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:26:14.021+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:26:14.087+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:26:14.087+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:26:14.194+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.273 seconds
+[2023-06-21T01:28:07.349+0100] {processor.py:157} INFO - Started process (PID=21786) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:28:07.685+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:28:07.687+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:07.686+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:28:07.735+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:28:07.890+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:07.890+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:28:07.925+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:28:07.924+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:28:09.078+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 1.742 seconds
+[2023-06-21T01:29:21.084+0100] {processor.py:157} INFO - Started process (PID=21850) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:29:21.087+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:29:21.090+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:21.089+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:29:21.109+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:29:21.141+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:21.141+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:29:21.177+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:29:21.177+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:29:21.253+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.178 seconds
+[2023-06-21T01:30:17.210+0100] {processor.py:157} INFO - Started process (PID=21901) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:30:17.214+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:30:17.220+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:17.216+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:30:17.273+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:30:17.322+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:17.322+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:30:17.350+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:30:17.350+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:30:17.407+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.209 seconds
+[2023-06-21T01:31:17.473+0100] {processor.py:157} INFO - Started process (PID=21948) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:31:17.478+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:31:17.480+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:17.480+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:31:17.508+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:31:17.553+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:17.553+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:31:17.584+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:31:17.584+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:31:17.645+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.181 seconds
+[2023-06-21T01:32:18.450+0100] {processor.py:157} INFO - Started process (PID=22002) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:32:18.464+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:32:18.466+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:18.466+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:32:18.504+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:32:18.590+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:18.590+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:32:18.641+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:32:18.641+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:32:18.704+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.265 seconds
+[2023-06-21T01:33:16.275+0100] {processor.py:157} INFO - Started process (PID=22061) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:33:16.286+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:33:16.288+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:16.287+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:33:16.318+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:33:16.410+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:16.410+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:33:16.452+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:33:16.452+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:33:16.505+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.242 seconds
+[2023-06-21T01:34:08.698+0100] {processor.py:157} INFO - Started process (PID=22239) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:34:08.711+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:34:08.714+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:08.713+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:34:08.750+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:34:08.887+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:08.887+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:34:08.979+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:34:08.979+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:34:09.077+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.389 seconds
+[2023-06-21T01:35:01.896+0100] {processor.py:157} INFO - Started process (PID=22447) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:35:01.907+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:35:01.910+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:01.909+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:35:01.963+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:35:02.083+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:02.082+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:35:02.194+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:02.194+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:35:02.306+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.426 seconds
+[2023-06-21T01:35:56.621+0100] {processor.py:157} INFO - Started process (PID=22667) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:35:56.625+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:35:56.627+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:56.626+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:35:56.662+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:35:56.731+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:56.731+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:35:56.758+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:35:56.758+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:35:56.789+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.178 seconds
+[2023-06-21T01:36:51.963+0100] {processor.py:157} INFO - Started process (PID=22768) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:36:51.968+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:36:51.971+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:51.970+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:36:52.020+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:36:52.126+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:52.125+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:36:52.255+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:36:52.255+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:36:52.300+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.352 seconds
+[2023-06-21T01:37:48.036+0100] {processor.py:157} INFO - Started process (PID=23077) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:37:48.040+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:37:48.043+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:48.042+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:37:48.085+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:37:48.188+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:48.188+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:37:48.261+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:37:48.260+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:37:48.335+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.318 seconds
+[2023-06-21T01:38:45.759+0100] {processor.py:157} INFO - Started process (PID=23275) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:38:45.780+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:38:45.782+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:45.781+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:38:45.828+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:38:45.873+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:45.873+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:38:45.918+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:38:45.918+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:38:45.956+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.211 seconds
+[2023-06-21T01:39:39.352+0100] {processor.py:157} INFO - Started process (PID=23322) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:39:39.362+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:39:39.364+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:39.364+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:39:39.396+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:39:39.471+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:39.471+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:39:39.519+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:39:39.519+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:39:39.552+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.207 seconds
+[2023-06-21T01:40:32.363+0100] {processor.py:157} INFO - Started process (PID=23378) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:40:32.367+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2023-06-21T01:40:32.370+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:32.370+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:40:32.419+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py
+[2023-06-21T01:40:32.483+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:32.483+0100] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-06-21T01:40:32.515+0100] {logging_mixin.py:149} INFO - [2023-06-21T01:40:32.515+0100] {dag.py:3486} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2023-06-21T01:40:32.564+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_sensors.py took 0.212 seconds

@@ -1,0 +1,637 @@
+[2023-07-12T04:26:32.307+0100] {processor.py:157} INFO - Started process (PID=771) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:26:32.309+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:26:32.311+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:32.310+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:26:32.324+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:26:32.374+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:32.374+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:26:32.420+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:26:32.419+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:26:32.456+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.158 seconds
+[2023-07-12T04:27:34.921+0100] {processor.py:157} INFO - Started process (PID=820) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:27:34.925+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:27:34.928+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:34.927+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:27:34.945+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:27:35.009+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:35.009+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:27:35.074+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:27:35.073+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:27:35.159+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.249 seconds
+[2023-07-12T04:28:29.904+0100] {processor.py:157} INFO - Started process (PID=869) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:28:29.908+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:28:29.912+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:29.910+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:28:29.929+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:28:29.990+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:29.990+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:28:30.079+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:28:30.079+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:28:30.158+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.267 seconds
+[2023-07-12T04:30:59.668+0100] {processor.py:157} INFO - Started process (PID=970) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:30:59.692+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:30:59.695+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:30:59.694+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:30:59.705+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:30:59.742+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:30:59.741+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:30:59.790+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:30:59.790+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:31:00.012+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.350 seconds
+[2023-07-12T04:32:09.826+0100] {processor.py:157} INFO - Started process (PID=1038) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:32:09.830+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:32:09.833+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:09.831+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:32:09.850+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:32:09.893+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:09.893+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:32:09.916+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:32:09.916+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:32:09.956+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.141 seconds
+[2023-07-12T04:33:16.469+0100] {processor.py:157} INFO - Started process (PID=1106) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:33:16.472+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:33:16.474+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:16.473+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:33:16.490+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:33:16.567+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:16.566+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:33:16.607+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:33:16.607+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:33:16.701+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.242 seconds
+[2023-07-12T04:34:14.473+0100] {processor.py:157} INFO - Started process (PID=1208) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:34:14.475+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:34:14.477+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:14.476+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:34:14.488+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:34:14.528+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:14.528+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:34:14.590+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:34:14.589+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:34:14.645+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.179 seconds
+[2023-07-12T04:35:03.925+0100] {processor.py:157} INFO - Started process (PID=1280) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:35:03.931+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:35:03.936+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:03.934+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:35:03.998+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:35:04.058+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:04.058+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:35:04.088+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:04.087+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:35:04.149+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.244 seconds
+[2023-07-12T04:35:57.086+0100] {processor.py:157} INFO - Started process (PID=1326) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:35:57.118+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:35:57.124+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:57.122+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:35:57.185+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:35:57.244+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:57.243+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:35:57.280+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:35:57.280+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:35:57.322+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.255 seconds
+[2023-07-12T04:36:54.033+0100] {processor.py:157} INFO - Started process (PID=1375) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:36:54.036+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:36:54.039+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:54.038+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:36:54.057+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:36:54.112+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:54.112+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:36:54.162+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:36:54.162+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:36:54.222+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.200 seconds
+[2023-07-12T04:38:12.764+0100] {processor.py:157} INFO - Started process (PID=1432) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:38:12.804+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:38:12.808+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:12.806+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:38:12.823+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:38:12.876+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:12.875+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:38:12.936+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:38:12.935+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:38:13.061+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.309 seconds
+[2023-07-12T04:39:36.200+0100] {processor.py:157} INFO - Started process (PID=1491) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:39:36.464+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:39:36.467+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:36.466+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:39:36.483+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:39:36.540+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:36.539+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:39:36.617+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:39:36.617+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:39:36.770+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.576 seconds
+[2023-07-12T04:40:41.701+0100] {processor.py:157} INFO - Started process (PID=1563) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:40:41.724+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:40:41.726+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:40:41.725+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:40:41.746+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:40:41.817+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:40:41.816+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:40:41.878+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:40:41.877+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:40:42.341+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.649 seconds
+[2023-07-12T04:44:22.465+0100] {processor.py:157} INFO - Started process (PID=1904) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:44:22.593+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:44:22.596+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:44:22.595+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:44:22.621+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:44:24.316+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:44:24.315+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:44:24.367+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:44:24.367+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:44:25.317+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 2.875 seconds
+[2023-07-12T04:47:07.931+0100] {processor.py:157} INFO - Started process (PID=2182) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:47:07.938+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:47:07.939+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:47:07.939+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:47:07.962+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:47:07.999+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:47:07.999+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:47:08.030+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:47:08.030+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:47:08.306+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.390 seconds
+[2023-07-12T04:49:33.503+0100] {processor.py:157} INFO - Started process (PID=2491) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:49:34.352+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:49:34.607+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:49:34.583+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:49:40.952+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:49:41.225+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:49:41.225+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:49:41.277+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:49:41.277+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:49:41.637+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 9.179 seconds
+[2023-07-12T04:50:55.708+0100] {processor.py:157} INFO - Started process (PID=2567) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:50:55.845+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:50:55.850+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:55.848+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:50:55.875+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:50:55.964+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:55.964+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:50:56.044+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:50:56.044+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:50:56.348+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.662 seconds
+[2023-07-12T04:52:36.459+0100] {processor.py:157} INFO - Started process (PID=2606) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:52:36.466+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:52:36.468+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:52:36.467+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:52:36.476+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:52:36.501+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:52:36.500+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:52:36.527+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:52:36.527+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:52:37.308+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.853 seconds
+[2023-07-12T04:53:34.377+0100] {processor.py:157} INFO - Started process (PID=2747) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:53:34.405+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:53:34.410+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:34.408+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:53:34.446+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:53:34.528+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:34.527+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:53:34.595+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:53:34.594+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:53:34.890+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.526 seconds
+[2023-07-12T04:54:38.736+0100] {processor.py:157} INFO - Started process (PID=2784) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:54:38.819+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:54:38.823+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:54:38.821+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:54:38.843+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:54:38.903+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:54:38.902+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:54:38.962+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:54:38.962+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:54:39.106+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.375 seconds
+[2023-07-12T04:55:50.745+0100] {processor.py:157} INFO - Started process (PID=2840) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:55:50.803+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:55:50.806+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:50.805+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:55:50.819+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:55:50.866+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:50.866+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:55:50.914+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:55:50.914+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:55:50.981+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.251 seconds
+[2023-07-12T04:56:59.374+0100] {processor.py:157} INFO - Started process (PID=2879) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:56:59.500+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:56:59.503+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:56:59.502+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:56:59.522+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:56:59.590+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:56:59.589+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:56:59.681+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:56:59.681+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:56:59.923+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.571 seconds
+[2023-07-12T04:58:20.237+0100] {processor.py:157} INFO - Started process (PID=2938) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:58:20.274+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T04:58:20.277+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:20.277+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:58:20.292+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T04:58:20.346+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:20.345+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T04:58:20.384+0100] {logging_mixin.py:150} INFO - [2023-07-12T04:58:20.384+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T04:58:20.588+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.363 seconds
+[2023-07-12T05:00:00.151+0100] {processor.py:157} INFO - Started process (PID=2977) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:00:00.232+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:00:00.234+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:00.233+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:00:00.252+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:00:00.298+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:00.297+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:00:00.343+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:00:00.343+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:00:00.425+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.284 seconds
+[2023-07-12T05:01:26.579+0100] {processor.py:157} INFO - Started process (PID=3018) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:01:26.621+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:01:26.624+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:26.623+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:01:26.643+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:01:26.708+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:26.707+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:01:26.778+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:01:26.777+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:01:26.957+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.391 seconds
+[2023-07-12T05:02:59.421+0100] {processor.py:157} INFO - Started process (PID=3077) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:02:59.544+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:02:59.546+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:02:59.545+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:02:59.558+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:02:59.599+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:02:59.598+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:02:59.640+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:02:59.639+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:02:59.705+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.291 seconds
+[2023-07-12T05:04:06.917+0100] {processor.py:157} INFO - Started process (PID=3129) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:04:06.974+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:04:06.979+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:06.977+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:04:07.003+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:04:07.079+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:07.078+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:04:07.173+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:04:07.172+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:04:07.567+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.658 seconds
+[2023-07-12T05:05:51.422+0100] {processor.py:157} INFO - Started process (PID=3229) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:05:51.477+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:05:51.481+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:51.480+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:05:51.497+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:05:51.553+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:51.552+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:05:51.591+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:05:51.590+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:05:51.683+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.273 seconds
+[2023-07-12T05:07:33.290+0100] {processor.py:157} INFO - Started process (PID=3290) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:07:33.403+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:07:33.407+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:33.406+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:07:33.424+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:07:33.481+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:33.481+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:07:33.540+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:07:33.539+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:07:33.692+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.420 seconds
+[2023-07-12T05:09:12.453+0100] {processor.py:157} INFO - Started process (PID=3446) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:09:12.565+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:09:12.569+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:12.567+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:09:12.591+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:09:12.669+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:12.668+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:09:12.752+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:09:12.751+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:09:12.856+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.424 seconds
+[2023-07-12T05:10:42.715+0100] {processor.py:157} INFO - Started process (PID=3488) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:10:42.821+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:10:42.826+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:42.824+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:10:42.847+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:10:42.916+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:42.916+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:10:42.960+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:10:42.960+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:10:43.043+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.341 seconds
+[2023-07-12T05:11:59.875+0100] {processor.py:157} INFO - Started process (PID=3547) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:11:59.964+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:11:59.966+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:11:59.965+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:11:59.977+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:12:00.027+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:00.027+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:12:00.085+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:12:00.084+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:12:00.151+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.283 seconds
+[2023-07-12T05:13:28.348+0100] {processor.py:157} INFO - Started process (PID=3609) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:13:28.411+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:13:28.414+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:28.413+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:13:28.432+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:13:28.491+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:28.490+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:13:28.556+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:13:28.555+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:13:28.734+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.397 seconds
+[2023-07-12T05:14:33.360+0100] {processor.py:157} INFO - Started process (PID=3663) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:14:33.366+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:14:33.369+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:33.368+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:14:33.385+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:14:33.437+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:33.437+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:14:33.466+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:14:33.466+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:14:33.611+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.262 seconds
+[2023-07-12T05:16:07.648+0100] {processor.py:157} INFO - Started process (PID=3723) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:16:07.661+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:16:07.664+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:07.663+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:16:07.684+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:16:07.757+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:07.756+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:16:07.838+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:16:07.838+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:16:08.039+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.403 seconds
+[2023-07-12T05:17:10.663+0100] {processor.py:157} INFO - Started process (PID=3765) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:17:10.711+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:17:10.714+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:10.712+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:17:10.730+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:17:10.795+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:10.794+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:17:10.870+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:17:10.869+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:17:11.047+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.396 seconds
+[2023-07-12T05:19:37.327+0100] {processor.py:157} INFO - Started process (PID=3854) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:19:37.333+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:19:37.338+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:37.336+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:19:37.364+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:19:37.412+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:37.412+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:19:37.437+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:19:37.437+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:19:37.525+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.208 seconds
+[2023-07-12T05:20:50.227+0100] {processor.py:157} INFO - Started process (PID=4123) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:20:50.247+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:20:50.249+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:50.248+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:20:50.259+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:20:50.313+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:50.312+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:20:50.348+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:20:50.348+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:20:50.755+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.536 seconds
+[2023-07-12T05:22:32.879+0100] {processor.py:157} INFO - Started process (PID=4380) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:22:32.897+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:22:32.899+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:32.898+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:22:32.920+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:22:33.001+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:33.001+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:22:33.043+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:22:33.043+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:22:33.213+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.340 seconds
+[2023-07-12T05:24:58.342+0100] {processor.py:157} INFO - Started process (PID=4655) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:24:58.402+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:24:58.405+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:58.404+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:24:58.419+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:24:58.467+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:58.467+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:24:58.516+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:24:58.516+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:24:58.608+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.275 seconds
+[2023-07-12T05:26:01.269+0100] {processor.py:157} INFO - Started process (PID=4762) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:26:01.337+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:26:01.341+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:01.339+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:26:01.377+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:26:01.522+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:01.521+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:26:01.571+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:26:01.570+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:26:01.835+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.583 seconds
+[2023-07-12T05:27:00.683+0100] {processor.py:157} INFO - Started process (PID=4823) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:27:00.728+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:27:00.734+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:00.729+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:27:00.750+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:27:00.817+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:00.816+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:27:00.880+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:27:00.880+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:27:00.950+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.278 seconds
+[2023-07-12T05:28:28.865+0100] {processor.py:157} INFO - Started process (PID=4894) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:28:29.048+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:28:29.053+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:28:29.051+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:28:29.075+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:28:29.162+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:28:29.161+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:28:29.259+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:28:29.258+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:28:29.430+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.584 seconds
+[2023-07-12T05:29:39.899+0100] {processor.py:157} INFO - Started process (PID=4928) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:29:40.003+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:29:40.006+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:40.005+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:29:40.041+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:29:40.136+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:40.136+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:29:40.244+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:29:40.244+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:29:40.429+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.537 seconds
+[2023-07-12T05:30:39.099+0100] {processor.py:157} INFO - Started process (PID=5029) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:30:39.126+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:30:39.131+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:39.129+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:30:39.149+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:30:39.216+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:39.215+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:30:39.272+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:30:39.272+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:30:39.462+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.375 seconds
+[2023-07-12T05:31:57.917+0100] {processor.py:157} INFO - Started process (PID=5271) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:31:57.964+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:31:57.967+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:57.966+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:31:57.984+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:31:58.032+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:58.031+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:31:58.069+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:31:58.068+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:31:58.140+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.233 seconds
+[2023-07-12T05:33:45.784+0100] {processor.py:157} INFO - Started process (PID=5358) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:33:45.855+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:33:45.857+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:33:45.856+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:33:45.874+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:33:45.923+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:33:45.923+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:33:45.985+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:33:45.985+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:33:46.094+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.320 seconds
+[2023-07-12T05:36:02.087+0100] {processor.py:157} INFO - Started process (PID=5646) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:36:02.104+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:36:02.108+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:02.106+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:36:02.134+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:36:02.218+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:02.217+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:36:02.254+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:36:02.254+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:36:02.310+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.241 seconds
+[2023-07-12T05:37:00.560+0100] {processor.py:157} INFO - Started process (PID=5695) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:37:00.568+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:37:00.572+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:00.570+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:37:00.597+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:37:00.666+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:00.666+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:37:00.742+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:37:00.741+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:37:00.817+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.271 seconds
+[2023-07-12T05:38:01.460+0100] {processor.py:157} INFO - Started process (PID=5783) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:38:01.465+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:38:01.468+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:01.467+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:38:01.485+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:38:01.539+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:01.539+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:38:01.594+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:38:01.593+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:38:01.683+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.235 seconds
+[2023-07-12T05:39:00.517+0100] {processor.py:157} INFO - Started process (PID=5968) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:39:00.528+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:39:00.531+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:00.530+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:39:00.548+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:39:00.610+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:00.610+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:39:00.649+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:39:00.649+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:39:00.742+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.238 seconds
+[2023-07-12T05:40:06.076+0100] {processor.py:157} INFO - Started process (PID=6049) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:40:06.088+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:40:06.090+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:06.089+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:40:06.100+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:40:06.134+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:06.134+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:40:06.159+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:40:06.159+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:40:06.195+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.127 seconds
+[2023-07-12T05:41:10.842+0100] {processor.py:157} INFO - Started process (PID=6145) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:41:10.854+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:41:10.857+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:10.856+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:41:10.874+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:41:10.934+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:10.933+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:41:11.156+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:41:11.156+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:41:11.196+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.368 seconds
+[2023-07-12T05:42:10.376+0100] {processor.py:157} INFO - Started process (PID=6197) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:42:10.391+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:42:10.393+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:10.392+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:42:10.408+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:42:10.464+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:10.463+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:42:10.503+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:42:10.503+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:42:10.569+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.206 seconds
+[2023-07-12T05:43:21.175+0100] {processor.py:157} INFO - Started process (PID=6261) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:43:21.191+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:43:21.197+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:21.195+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:43:21.249+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:43:21.421+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:21.420+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:43:21.453+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:43:21.453+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:43:21.504+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.364 seconds
+[2023-07-12T05:44:32.490+0100] {processor.py:157} INFO - Started process (PID=6466) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:44:32.514+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:44:32.521+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:32.518+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:44:32.605+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:44:32.799+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:32.799+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:44:32.961+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:44:32.960+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:44:33.627+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 1.227 seconds
+[2023-07-12T05:45:47.016+0100] {processor.py:157} INFO - Started process (PID=6525) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:45:47.020+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:45:47.022+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:47.021+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:45:47.038+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:45:47.104+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:47.103+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:45:47.173+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:45:47.172+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:45:47.324+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.320 seconds
+[2023-07-12T05:46:49.035+0100] {processor.py:157} INFO - Started process (PID=6629) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:46:49.039+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:46:49.043+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:49.042+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:46:49.064+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:46:49.115+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:49.115+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:46:49.172+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:46:49.172+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:46:49.261+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.239 seconds
+[2023-07-12T05:47:48.137+0100] {processor.py:157} INFO - Started process (PID=6814) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:47:48.139+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:47:48.142+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:48.141+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:47:48.153+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:47:48.182+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:48.181+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:47:48.218+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:47:48.218+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:47:48.271+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.145 seconds
+[2023-07-12T05:48:46.419+0100] {processor.py:157} INFO - Started process (PID=6898) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:48:46.430+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:48:46.433+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:46.432+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:48:46.448+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:48:46.487+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:46.487+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:48:46.539+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:48:46.537+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:48:46.596+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.185 seconds
+[2023-07-12T05:49:50.879+0100] {processor.py:157} INFO - Started process (PID=6954) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:49:50.883+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:49:50.884+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:50.884+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:49:50.894+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:49:50.936+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:50.935+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:49:50.982+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:49:50.982+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:49:51.055+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.186 seconds
+[2023-07-12T05:50:55.590+0100] {processor.py:157} INFO - Started process (PID=7007) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:50:55.601+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:50:55.605+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:55.605+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:50:55.617+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:50:55.690+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:55.689+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:50:55.842+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:50:55.841+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:50:56.050+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.479 seconds
+[2023-07-12T05:51:54.173+0100] {processor.py:157} INFO - Started process (PID=7158) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:51:54.178+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:51:54.182+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:54.180+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:51:54.212+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:51:54.276+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:54.276+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:51:54.361+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:51:54.361+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:51:54.451+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.291 seconds
+[2023-07-12T05:52:57.103+0100] {processor.py:157} INFO - Started process (PID=7210) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:52:57.108+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:52:57.111+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:57.110+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:52:57.130+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:52:57.217+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:57.215+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:52:57.323+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:52:57.322+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:52:57.457+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.365 seconds
+[2023-07-12T05:54:01.460+0100] {processor.py:157} INFO - Started process (PID=7262) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:54:01.465+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:54:01.468+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:01.467+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:54:01.484+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:54:01.540+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:01.540+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:54:01.605+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:54:01.604+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:54:01.684+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.234 seconds
+[2023-07-12T05:55:09.175+0100] {processor.py:157} INFO - Started process (PID=7318) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:55:09.179+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:55:09.183+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:09.180+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:55:09.202+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:55:09.250+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:09.249+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:55:09.315+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:55:09.314+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:55:09.401+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.236 seconds
+[2023-07-12T05:56:14.265+0100] {processor.py:157} INFO - Started process (PID=7370) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:56:14.268+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:56:14.270+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:14.269+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:56:14.281+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:56:14.311+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:14.310+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:56:14.332+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:56:14.332+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:56:14.366+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.108 seconds
+[2023-07-12T05:57:17.113+0100] {processor.py:157} INFO - Started process (PID=7422) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:57:17.117+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:57:17.119+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:17.118+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:57:17.134+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:57:17.201+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:17.201+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:57:17.241+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:57:17.240+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:57:17.288+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.186 seconds
+[2023-07-12T05:58:15.358+0100] {processor.py:157} INFO - Started process (PID=7472) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:58:15.360+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:58:15.362+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:15.361+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:58:15.371+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:58:15.400+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:15.400+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:58:15.424+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:58:15.424+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:58:15.468+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.121 seconds
+[2023-07-12T05:59:12.834+0100] {processor.py:157} INFO - Started process (PID=7521) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:59:12.838+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T05:59:12.842+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:12.841+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:59:12.858+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T05:59:12.917+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:12.915+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T05:59:12.983+0100] {logging_mixin.py:150} INFO - [2023-07-12T05:59:12.982+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T05:59:13.068+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.247 seconds
+[2023-07-12T06:00:13.281+0100] {processor.py:157} INFO - Started process (PID=7660) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T06:00:13.286+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T06:00:13.289+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:13.288+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T06:00:13.304+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T06:00:13.353+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:13.353+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T06:00:13.412+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:00:13.412+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T06:00:13.483+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.213 seconds
+[2023-07-12T06:01:11.540+0100] {processor.py:157} INFO - Started process (PID=7710) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T06:01:11.548+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T06:01:11.553+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:01:11.550+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T06:01:11.574+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T06:01:11.651+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:01:11.650+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T06:01:11.730+0100] {logging_mixin.py:150} INFO - [2023-07-12T06:01:11.730+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T06:01:11.805+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.290 seconds
+[2023-07-12T15:15:28.637+0100] {processor.py:157} INFO - Started process (PID=7884) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:15:28.640+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:15:28.641+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:28.641+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:15:28.652+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:15:28.679+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:28.679+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:15:28.715+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:15:28.715+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:15:30.417+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 1.797 seconds
+[2023-07-12T15:16:48.645+0100] {processor.py:157} INFO - Started process (PID=8056) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:16:48.657+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:16:48.659+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:48.658+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:16:48.690+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:16:48.750+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:48.750+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:16:48.792+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:16:48.792+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:16:48.911+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.282 seconds
+[2023-07-12T15:18:13.282+0100] {processor.py:157} INFO - Started process (PID=8205) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:18:13.354+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:18:13.357+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:13.356+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:18:13.376+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:18:13.435+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:13.434+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:18:13.532+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:18:13.531+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:18:13.809+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.540 seconds
+[2023-07-12T15:19:15.819+0100] {processor.py:157} INFO - Started process (PID=8328) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:19:15.976+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:19:15.980+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:19:15.979+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:19:15.997+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:19:16.049+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:19:16.049+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:19:16.119+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:19:16.118+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:19:16.323+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.508 seconds
+[2023-07-12T15:20:41.797+0100] {processor.py:157} INFO - Started process (PID=8518) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:20:41.816+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:20:41.821+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:41.819+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:20:41.882+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:20:41.924+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:41.923+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:20:41.948+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:20:41.948+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:20:42.430+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.655 seconds
+[2023-07-12T15:22:25.801+0100] {processor.py:157} INFO - Started process (PID=8745) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:22:25.840+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:22:25.847+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:22:25.844+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:22:25.896+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:22:26.042+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:22:26.041+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:22:26.078+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:22:26.077+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:22:26.190+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.400 seconds
+[2023-07-12T15:24:00.705+0100] {processor.py:157} INFO - Started process (PID=8954) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:24:00.709+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:24:00.713+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:00.711+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:24:00.733+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:24:00.781+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:00.780+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:24:00.831+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:24:00.830+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:24:00.900+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.209 seconds
+[2023-07-12T15:25:10.989+0100] {processor.py:157} INFO - Started process (PID=9127) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:25:11.022+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:25:11.024+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:11.023+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:25:11.044+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:25:11.078+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:11.077+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:25:11.113+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:25:11.113+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:25:11.188+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.204 seconds
+[2023-07-12T15:26:53.251+0100] {processor.py:157} INFO - Started process (PID=9362) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:26:53.292+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:26:53.298+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:53.295+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:26:53.328+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:26:53.396+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:53.396+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:26:53.482+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:26:53.481+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:26:53.672+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.433 seconds
+[2023-07-12T15:28:34.615+0100] {processor.py:157} INFO - Started process (PID=9580) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:28:34.621+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:28:34.626+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:34.623+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:28:34.646+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:28:34.696+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:34.695+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:28:34.752+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:28:34.752+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:28:34.853+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.249 seconds
+[2023-07-12T15:29:31.059+0100] {processor.py:157} INFO - Started process (PID=9720) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:29:31.160+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:29:31.165+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:31.163+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:29:31.188+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:29:31.250+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:31.249+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:29:31.297+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:29:31.297+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:29:31.386+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.342 seconds
+[2023-07-12T15:30:39.184+0100] {processor.py:157} INFO - Started process (PID=9896) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:30:39.301+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:30:39.303+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:39.302+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:30:39.309+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:30:39.329+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:39.328+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:30:39.351+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:30:39.350+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:30:39.486+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.305 seconds
+[2023-07-12T15:31:48.194+0100] {processor.py:157} INFO - Started process (PID=10164) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:31:48.349+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:31:48.353+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:48.352+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:31:48.372+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:31:48.441+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:48.440+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:31:48.507+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:31:48.506+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:31:48.606+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.424 seconds
+[2023-07-12T15:33:11.980+0100] {processor.py:157} INFO - Started process (PID=10497) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:33:12.094+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:33:12.097+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:33:12.096+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:33:12.116+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:33:12.183+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:33:12.182+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:33:12.251+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:33:12.250+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:33:12.853+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.887 seconds
+[2023-07-12T15:35:42.248+0100] {processor.py:157} INFO - Started process (PID=11100) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:35:42.419+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:35:42.424+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:42.422+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:35:42.471+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:35:42.589+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:42.588+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:35:42.624+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:35:42.624+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:35:42.800+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.567 seconds
+[2023-07-12T15:37:12.962+0100] {processor.py:157} INFO - Started process (PID=11338) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:37:13.020+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:37:13.024+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:13.022+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:37:13.048+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:37:13.181+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:13.180+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:37:13.226+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:37:13.226+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:37:13.421+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.470 seconds
+[2023-07-12T15:39:04.355+0100] {processor.py:157} INFO - Started process (PID=11719) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:39:04.399+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:39:04.403+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:04.402+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:39:04.425+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:39:04.519+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:04.518+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:39:04.596+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:39:04.595+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:39:04.700+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.360 seconds
+[2023-07-12T15:41:07.931+0100] {processor.py:157} INFO - Started process (PID=12252) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:41:07.950+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:41:07.953+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:41:07.952+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:41:07.979+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:41:08.045+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:41:08.045+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:41:08.107+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:41:08.107+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:41:16.438+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 8.521 seconds
+[2023-07-12T15:43:04.378+0100] {processor.py:157} INFO - Started process (PID=12510) to work on /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:43:04.452+0100] {processor.py:826} INFO - Processing file /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-07-12T15:43:04.456+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:43:04.455+0100] {dagbag.py:541} INFO - Filling up the DagBag from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:43:04.480+0100] {processor.py:836} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-07-12T15:43:04.547+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:43:04.546+0100] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-12T15:43:04.624+0100] {logging_mixin.py:150} INFO - [2023-07-12T15:43:04.623+0100] {dag.py:3504} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-07-12T15:43:04.757+0100] {processor.py:179} INFO - Processing /home/opeyemi/.local/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.391 seconds
